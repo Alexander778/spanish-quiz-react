@@ -13,3 +13,8 @@ export type WordType =
   | "preposition"
   | "pronoun"
   | "conjunction";
+
+export type RandomWord = {
+  index: number;
+  word: Word;
+};

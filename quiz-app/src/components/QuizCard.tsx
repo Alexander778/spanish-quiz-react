@@ -7,12 +7,13 @@ import {
   Typography,
   TextField,
   Snackbar,
-  SnackbarCloseReason,
   Alert,
 } from "@mui/material";
 import { useState } from "react";
+import { setWordToMentioned } from "../helpers/getTranslationQuestion";
 
 interface QuizCardProps {
+  index: number;
   wordToTranslate: string;
   answer: string;
   options?: string[];
@@ -21,6 +22,7 @@ interface QuizCardProps {
 }
 
 export function QuizCard({
+  index,
   wordToTranslate,
   answer,
   options,
@@ -31,10 +33,17 @@ export function QuizCard({
   const [showAnswer, setShowAnswer] = useState(false);
   const [inputValue, setInputValue] = useState("");
 
-  const onShowAnswer = () => setShowAnswer(!showAnswer);
-  const onNextClick = () => {
-    if (answer.toLowerCase() === inputValue.toLowerCase()) {
+  const handleShowAnswer = () => setShowAnswer((prev) => !prev);
+  const handleSubmit = (selectedOption?: string) => {
+    const userInput = selectedOption
+      ? selectedOption.trim()
+      : inputValue.trim();
+
+    if (userInput.toLowerCase() === answer.trim().toLowerCase()) {
       setInputValue("");
+      setOpenErrorMsg(false);
+      setShowAnswer(false);
+      setWordToMentioned(index);
       onNext();
     } else {
       setOpenErrorMsg(true);
@@ -43,18 +52,20 @@ export function QuizCard({
 
   return (
     <>
-      <Card sx={{ maxWidth: "md" }}>
+      <Card sx={{ maxWidth: "md", minWidth: "md", margin: "auto" }}>
         <CardContent>
-          <Typography
-            sx={{ color: "text.primary", fontWeight: "bold", fontSize: 40 }}
-          >
-            {wordToTranslate}
-          </Typography>
-          {showAnswer && (
-            <Typography sx={{ color: "text.primary", mb: 1.5 }}>
-              {answer}
+          <div className="mb-5">
+            <Typography
+              sx={{ color: "text.primary", fontWeight: "bold", fontSize: 40 }}
+            >
+              {wordToTranslate}
             </Typography>
-          )}
+            {showAnswer && (
+              <Typography sx={{ color: "text.primary", mb: 1.5 }}>
+                {answer}
+              </Typography>
+            )}
+          </div>
           <Box>
             {isManualTranslation ? (
               <TextField
@@ -63,10 +74,13 @@ export function QuizCard({
                 onChange={(e) => setInputValue(e.target.value)}
               />
             ) : (
-              options?.map((o) => (
-                <Box key={o} className="flex flex-col justify-center m-3">
-                  <Button variant="outlined" onClick={onNextClick}>
-                    {o}
+              options?.map((option) => (
+                <Box key={option} className="flex flex-col justify-center m-3">
+                  <Button
+                    variant="outlined"
+                    onClick={() => handleSubmit(option)}
+                  >
+                    {option}
                   </Button>
                 </Box>
               ))
@@ -79,24 +93,22 @@ export function QuizCard({
               size="small"
               variant="contained"
               color="success"
-              disabled={!inputValue}
-              onClick={onNextClick}
+              disabled={!inputValue.trim()}
+              onClick={() => handleSubmit()}
             >
               Submit
             </Button>
           )}
-          <Button size="small" variant="contained" onClick={onShowAnswer}>
+          <Button size="small" variant="contained" onClick={handleShowAnswer}>
             Answer
           </Button>
         </CardActions>
       </Card>
       <Snackbar
         anchorOrigin={{ vertical: "top", horizontal: "center" }}
-        color="error"
         open={openErrorMsg}
         autoHideDuration={2000}
         onClose={() => setOpenErrorMsg(false)}
-        message="Wrong answer"
       >
         <Alert
           onClose={() => setOpenErrorMsg(false)}

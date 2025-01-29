@@ -1,46 +1,58 @@
 import { shuffle } from "lodash";
 import { words } from "../data/words";
-import { Word } from "../data/types";
-
-const REPEAT_MENTIONED_WORDS_POSSIBILITY = 0.1;
-const IS_TRANSLATED_WORD_IN_QUESTION_POSSIBILITY = 0.2;
-const IS_MANUAL_TRANSLATION_POSSIBILITY = 0.5;
-const LOCAL_STORAGE_MENTIONED_WORDS_KEY = "mentionedWords";
+import { RandomWord, Word } from "../data/types";
+import {
+  IS_MANUAL_TRANSLATION_POSSIBILITY,
+  IS_TRANSLATED_WORD_IN_QUESTION_POSSIBILITY,
+  LOCAL_STORAGE_MENTIONED_WORDS_KEY,
+  REPEAT_MENTIONED_WORDS_POSSIBILITY,
+} from "../constants/constants";
 
 export const getTranslationQuestion = () => {
   const randomWordObject = getRandomWord();
+
+  const wordIndex = randomWordObject.index;
+  const randomWord = randomWordObject.word;
 
   const isManualTranslation = Math.random() < IS_MANUAL_TRANSLATION_POSSIBILITY;
   const isTranslationInTheQuestion =
     Math.random() < IS_TRANSLATED_WORD_IN_QUESTION_POSSIBILITY;
 
   const wordToTranslate = isTranslationInTheQuestion
-    ? randomWordObject.translation
-    : randomWordObject.word;
+    ? randomWord.translation
+    : randomWord.word;
 
   const answer = isTranslationInTheQuestion
-    ? randomWordObject.word
-    : randomWordObject.translation;
+    ? randomWord.word
+    : randomWord.translation;
 
   const options = isManualTranslation
     ? undefined
-    : getAnswerOptions(randomWordObject, answer, isTranslationInTheQuestion);
+    : getAnswerOptions(randomWord, answer, isTranslationInTheQuestion);
 
-  return { wordToTranslate, answer, options, isManualTranslation };
+  return {
+    index: wordIndex,
+    wordToTranslate,
+    answer,
+    options,
+    isManualTranslation,
+  };
 };
 
-function getRandomWord() {
-  const randomIndex = Math.floor(Math.random() * words.length);
-  const mentionedWordsFromStorage = localStorage.getItem(
-    LOCAL_STORAGE_MENTIONED_WORDS_KEY
-  );
-  let mentionedWords: number[] = [];
+export function setWordToMentioned(index: number) {
+  const mentionedWords = readMentionedWordsFromStorage();
 
-  if (mentionedWordsFromStorage === null) {
-    localStorage.setItem(LOCAL_STORAGE_MENTIONED_WORDS_KEY, JSON.stringify([]));
-  } else {
-    mentionedWords = JSON.parse(mentionedWordsFromStorage);
-  }
+  mentionedWords.push(index);
+
+  localStorage.setItem(
+    LOCAL_STORAGE_MENTIONED_WORDS_KEY,
+    JSON.stringify(mentionedWords)
+  );
+}
+
+function getRandomWord(): RandomWord {
+  const randomIndex = Math.floor(Math.random() * words.length);
+  const mentionedWords = readMentionedWordsFromStorage();
 
   if (mentionedWords.includes(randomIndex)) {
     const showSameWordAgain =
@@ -48,15 +60,9 @@ function getRandomWord() {
     if (!showSameWordAgain) {
       return getRandomWord();
     }
-  } else {
-    mentionedWords.push(randomIndex);
-    localStorage.setItem(
-      LOCAL_STORAGE_MENTIONED_WORDS_KEY,
-      JSON.stringify(mentionedWords)
-    );
   }
 
-  return words[randomIndex];
+  return { index: randomIndex, word: words[randomIndex] };
 }
 
 function getAnswerOptions(
@@ -82,4 +88,19 @@ function getAnswerOptions(
   }
 
   return shuffle(options);
+}
+
+function readMentionedWordsFromStorage() {
+  const mentionedWordsFromStorage = localStorage.getItem(
+    LOCAL_STORAGE_MENTIONED_WORDS_KEY
+  );
+
+  let mentionedWords: number[] = [];
+  if (mentionedWordsFromStorage === null) {
+    localStorage.setItem(LOCAL_STORAGE_MENTIONED_WORDS_KEY, JSON.stringify([]));
+  } else {
+    mentionedWords = JSON.parse(mentionedWordsFromStorage);
+  }
+
+  return mentionedWords;
 }
