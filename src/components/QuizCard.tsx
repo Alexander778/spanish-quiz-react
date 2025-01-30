@@ -43,8 +43,7 @@ export function QuizCard({
       const userInput = selectedOption
         ? selectedOption.trim()
         : inputValue.trim();
-
-      console.log(options);
+        
       if (userInput.toLowerCase() === answer.trim().toLowerCase()) {
         setOpenErrorMsg(false);
         setShowAnswer(false);
