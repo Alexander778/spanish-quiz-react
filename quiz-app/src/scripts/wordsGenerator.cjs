@@ -16,14 +16,16 @@ fs.createReadStream(csvFilePath)
     jsonArray.push(row);
   })
   .on("end", () => {
-    // Write the JSON array to a JavaScript file
-    const outputFilePath = path.join(__dirname, "../data/words.js");
+    // Write the JSON array to a TS file
+    const outputFilePath = path.join(__dirname, "../data/words.ts");
     fs.writeFileSync(
       outputFilePath,
-      `var words = ${JSON.stringify(jsonArray, null, 2)};`
+      `import { Word } from './types';
+      
+export const words: Word[] = ${JSON.stringify(jsonArray, null, 2)};`
     );
     console.log(
-      "CSV file successfully processed and written to words.js.Count:",
+      "CSV file successfully processed and written to words.ts. Count:",
       jsonArray.length
     );
   });

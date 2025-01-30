@@ -8,9 +8,11 @@ import {
   TextField,
   Snackbar,
   Alert,
+  IconButton,
 } from "@mui/material";
-import { useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { setWordToMentioned } from "../helpers/getTranslationQuestion";
+import ContentCopyIcon from "@mui/icons-material/ContentCopy";
 
 interface QuizCardProps {
   index: number;
@@ -29,26 +31,73 @@ export function QuizCard({
   isManualTranslation,
   onNext,
 }: QuizCardProps) {
+  const inputRef = useRef<HTMLInputElement>(null);
+
   const [openErrorMsg, setOpenErrorMsg] = useState(false);
   const [showAnswer, setShowAnswer] = useState(false);
   const [inputValue, setInputValue] = useState("");
 
   const handleShowAnswer = () => setShowAnswer((prev) => !prev);
-  const handleSubmit = (selectedOption?: string) => {
-    const userInput = selectedOption
-      ? selectedOption.trim()
-      : inputValue.trim();
-
-    if (userInput.toLowerCase() === answer.trim().toLowerCase()) {
+  const handleSubmit = useCallback(
+    (selectedOption?: string) => {
       setInputValue("");
-      setOpenErrorMsg(false);
-      setShowAnswer(false);
-      setWordToMentioned(index);
-      onNext();
-    } else {
-      setOpenErrorMsg(true);
+
+      const userInput = selectedOption
+        ? selectedOption.trim()
+        : inputValue.trim();
+
+      if (userInput.toLowerCase() === answer.trim().toLowerCase()) {
+        setOpenErrorMsg(false);
+        setShowAnswer(false);
+        setWordToMentioned(index);
+        onNext();
+      } else {
+        setOpenErrorMsg(true);
+      }
+    },
+    [answer, index, inputValue, onNext]
+  );
+
+  const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
+    if (event.key === "Enter") {
+      event.preventDefault();
+      handleSubmit();
+    }
+    if (event.key === "Control") {
+      event.preventDefault();
+      handleShowAnswer();
     }
   };
+
+  const handleKeyPress = useCallback(
+    (e: KeyboardEvent) => {
+      if (!isManualTranslation && options?.length) {
+        const index = Number(e.key) - 1;
+        if (index >= 0 && index < options.length) {
+          handleSubmit(options[index]);
+        }
+      }
+    },
+    [handleSubmit, isManualTranslation, options]
+  );
+
+  useEffect(() => {
+    if (isManualTranslation) {
+      document.removeEventListener("keydown", handleKeyPress);
+    } else {
+      document.addEventListener("keydown", handleKeyPress);
+    }
+  }, [handleKeyPress, isManualTranslation]);
+
+  useEffect(() => {
+    if (isManualTranslation && inputRef.current) {
+      inputRef.current.focus();
+      // bad code to reset value in the input
+      setTimeout(() => {
+        setInputValue("");
+      }, 1);
+    }
+  }, [isManualTranslation]);
 
   return (
     <>
@@ -61,9 +110,24 @@ export function QuizCard({
               {wordToTranslate}
             </Typography>
             {showAnswer && (
-              <Typography sx={{ color: "text.primary", mb: 1.5 }}>
-                {answer}
-              </Typography>
+              <Box
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+              >
+                <Typography sx={{ color: "text.primary" }}>
+                  {answer}
+                </Typography>
+                <IconButton
+                  color="primary"
+                  size="small"
+                  onClick={() => navigator.clipboard.writeText(answer)}
+                >
+                  <ContentCopyIcon fontSize="small" />
+                </IconButton>
+              </Box>
             )}
           </div>
           <Box>
@@ -72,15 +136,17 @@ export function QuizCard({
                 variant="outlined"
                 value={inputValue}
                 onChange={(e) => setInputValue(e.target.value)}
+                onKeyDown={handleKeyDown}
+                inputRef={inputRef}
               />
             ) : (
-              options?.map((option) => (
+              options?.map((option, index) => (
                 <Box key={option} className="flex flex-col justify-center m-3">
                   <Button
                     variant="outlined"
                     onClick={() => handleSubmit(option)}
                   >
-                    {option}
+                    {index + 1}. {option}
                   </Button>
                 </Box>
               ))
@@ -89,19 +155,26 @@ export function QuizCard({
         </CardContent>
         <CardActions className="flex flex-row justify-center">
           {isManualTranslation && (
-            <Button
-              size="small"
-              variant="contained"
-              color="success"
-              disabled={!inputValue.trim()}
-              onClick={() => handleSubmit()}
-            >
-              Submit
-            </Button>
+            <>
+              <Button
+                size="small"
+                variant="contained"
+                color="success"
+                disabled={!inputValue.trim()}
+                onClick={() => handleSubmit()}
+              >
+                Submit
+              </Button>
+
+              <Button
+                size="small"
+                variant="contained"
+                onClick={handleShowAnswer}
+              >
+                Answer
+              </Button>
+            </>
           )}
-          <Button size="small" variant="contained" onClick={handleShowAnswer}>
-            Answer
-          </Button>
         </CardActions>
       </Card>
       <Snackbar

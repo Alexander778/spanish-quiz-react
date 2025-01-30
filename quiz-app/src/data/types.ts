@@ -12,7 +12,8 @@ export type WordType =
   | "phrase"
   | "preposition"
   | "pronoun"
-  | "conjunction";
+  | "conjunction"
+  | "numeral";
 
 export type RandomWord = {
   index: number;

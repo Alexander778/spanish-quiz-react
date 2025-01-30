@@ -3,18 +3,18 @@ el balkon,балкон,noun
 la calle,вулиця,noun
 tambíen,також(у позив),noun
 tampoco,також(у негав),noun
-utíl,потрібний/корисний,adj
-agradable,чудовий/гарний,adj
+utíl,потрібний/корисний,adjective
+agradable,чудовий/гарний,adjective
 el comedor,коридор,noun
-ruidoso,шумний,adj
-antiguo,старий,adj
-tranquilo,тихий/спокійний,adj
-moderno,сучасний,adj
-céntrico,центральний,adj
-residencial,житловий,adj
+ruidoso,шумний,adjective
+antiguo,старий,adjective
+tranquilo,тихий/спокійний,adjective
+moderno,сучасний,adjective
+céntrico,центральний,adjective
+residencial,житловий,adjective
 la chalé,будинок/вілла,noun
 el piso,поверх,noun
-luminoso,світлий/освітлений,adj
+luminoso,світлий/освітлений,adjective
 el ascensor,ліфт,noun
 el garaje,гараж,noun
 el microondas,мікрохвильовка,noun
@@ -28,18 +28,18 @@ el baño,ванна кімната,noun
 el ordenador,комп'ютер,noun
 la nieve,сніг,noun
 el jardín,сад,noun
-el gris,сірий,adj
-el lila,фіолетовий,adj
-el morado,фіолетовий,adj
-el rosa,рожевий,adj
-el negro,чорний,adj
-el blanco,білий,adj
-el marrón,коричневий,adj
-el azul,блакитний,adj
-el verde,зелений,adj
-el naranja,оранжевий,adj
-el amarillo,жовтий,adj
-el rojo,червоний,adj
+el gris,сірий,adjective
+el lila,фіолетовий,adjective
+el morado,фіолетовий,adjective
+el rosa,рожевий,adjective
+el negro,чорний,adjective
+el blanco,білий,adjective
+el marrón,коричневий,adjective
+el azul,блакитний,adjective
+el verde,зелений,adjective
+el naranja,оранжевий,adjective
+el amarillo,жовтий,adjective
+el rojo,червоний,adjective
 para,для того щоб,conjunction
 la edad,вік,noun
 el enfermero,медбрат,noun
@@ -63,48 +63,48 @@ la barrendera,двірничка,noun
 el barrendero,двірник,noun
 el abañil,каменяр/штукатур,noun
 el abogado,адвокат,noun
-rico,багатий,adj
-corto,короткий,adj
+rico,багатий,adjective
+corto,короткий,adjective
 prepararse,готувати,verb
 la tarta,пиріг,noun
-pequeña,невеликий,adj
-grande,великий,adj
+pequeña,невеликий,adjective
+grande,великий,adjective
 la mano,рука,noun
 la casa,будинок,noun
 el caramelo,цукерка,noun
 la manzana,яблуко,noun
-guapo,красивий,adj
+guapo,красивий,adjective
 la mentirosa,брехуха,noun
 el mentiroso,брехун,noun
 la hermana,сестра,noun
 el hermano,брат,noun
-excelente,відмінний,adj
-maleducado,невихований,adj
-seductor,спокусливий,adj
-salvaje,дикий,adj
+excelente,відмінний,adjective
+maleducado,невихований,adjective
+seductor,спокусливий,adjective
+salvaje,дикий,adjective
 el gato,кіт,noun
 la gente,людина,noun
 la ciudad,місто,noun
 el ojo,око,noun
-divertido,веселий,adj
-largo,довгий,adj
-alto,високий,adj
+divertido,веселий,adjective
+largo,довгий,adjective
+alto,високий,adjective
 la montaña,гора,noun
-alegre,веселий,adj
-tonto,дурний,adj
+alegre,веселий,adjective
+tonto,дурний,adjective
 la pregunta,питання,noun
-feo,потворний,adj
-listo,готовий,adj
-joven,молодий,adj
-pobre,бідний,adj
-malo,поганий,adj
-bonito,красивий,adj
-trabajador,працьовитий,adj
-major,великий,adj
-encantador,чарівний,adj
-volador,літаючий,adj
-amable,добрий,adj
-holgazán,непрацючий,adj
+feo,потворний,adjective
+listo,готовий,adjective
+joven,молодий,adjective
+pobre,бідний,adjective
+malo,поганий,adjective
+bonito,красивий,adjective
+trabajador,працьовитий,adjective
+major,великий,adjective
+encantador,чарівний,adjective
+volador,літаючий,adjective
+amable,добрий,adjective
+holgazán,непрацючий,adjective
 el rey,король,noun
 la reina,королева,noun
 el primo,двоюрідний брат,noun
@@ -226,47 +226,47 @@ la mesa,стіл,noun
 el hijo,син,noun
 el barrio,район,noun
 el departamento,квартира,noun
-delicioso,смачний,adj
+delicioso,смачний,adjective
 la escuela,школа,noun
 la lección,урок,noun
 el árbol,дерево,noun
-serio,серйозний,adj
+serio,серйозний,adjective
 la isla,острів,noun
 el tesoro,скарб,noun
-escondido,прихований,adj
+escondido,прихований,adjective
 pero,але,conjunction
 el norte,північ,noun
 el sur,південь,noun
 el este,схід,noun
 el oeste,захід,noun
-pequeño,маленький,adj
+pequeño,маленький,adjective
 el poblado,село,noun
 el resto,решта,noun
 el loro,папуга,noun
 qúe,що,pronoun
 parece,здаватися,verb
 ninguno,ніхто,pronoun
-raro,рідкісний,adj
+raro,рідкісний,adjective
 normalmente,зазвичай,adverb
 el cielo,небо,noun
 creer,вірити,verb
-primero,перший,adj
-secundo,другий,adj
-tercero,третій,adj
-cuarto,четвертий,adj
-quinto,п'ятий,adj
-sexto,шостий,adj
-séptimo,сьомий,adj
-octavo,восьмий,adj
-noveno,дев'ятий,adj
-décimo,десятий,adj
+primero,перший,adjective
+secundo,другий,adjective
+tercero,третій,adjective
+cuarto,четвертий,adjective
+quinto,п'ятий,adjective
+sexto,шостий,adjective
+séptimo,сьомий,adjective
+octavo,восьмий,adjective
+noveno,дев'ятий,adjective
+décimo,десятий,adjective
 el mercado,ринок,noun
 además,крім того,conjunction
 el cerro,пагорб,noun
 el ruido,шум,noun
 el luz,світло,noun
-poco,мало,adj
-mucho,багато,adj
+poco,мало,adjective
+mucho,багато,adjective
 allí,там далеко,adverb
 ahí,там не дуже далеко,adverb
 aquí,тут,adverb
@@ -288,15 +288,15 @@ el párajo,птах,noun
 el paraguas,парасолька,noun
 el avión,літак,noun
 la nube,хмара,noun
-animado,жвавий,adj
+animado,жвавий,adjective
 la cosa,річ,noun
 el colegio,школа(коледж),noun
 el sofá,диван,noun
-comodó,зручний,adj
-viejo,старий,adj
-nuevo,новий,adj
+comodó,зручний,adjective
+viejo,старий,adjective
+nuevo,новий,adjective
 sin,без,preposition
-oscuro,темний,adj
+oscuro,темний,adjective
 con,з,preposition
 el barco,корабель,noun
 el tren,поїзд,noun
@@ -306,32 +306,32 @@ la bicicleta,велосипед,noun
 el taxi,таксі,noun
 sol y playa,сонце і пляж,phrase
 la gastronomia,гастрономія,noun
-tranquilidad,спокій,adj
+tranquilidad,спокій,adjective
 el museó,музей,noun
 la iglesia,церква,noun
 el mirador,видовище,noun
 el supermercado,супермаркет,noun
 aunque,хоча,conjunction
 la parada,зупинка,noun
-puntual,пунктуальний,adj
-contaminante,забруднюючий,adj
-cansado,втомлений,adj
-peligroso,небезпечний,adj
-caro,дорогий,adj
-lento,повільний,adj
+puntual,пунктуальний,adjective
+contaminante,забруднюючий,adjective
+cansado,втомлений,adjective
+peligroso,небезпечний,adjective
+caro,дорогий,adjective
+lento,повільний,adjective
 cuando,коли,conjunction
 porque,тому що,conjunction
-variado,різноманітний,adj
-rápido,швидкий,adj
-cómodo,зручний,adj
-seguro,безпечний,adj
-relajante,релаксуючий,adj
+variado,різноманітний,adjective
+rápido,швидкий,adjective
+cómodo,зручний,adjective
+seguro,безпечний,adjective
+relajante,релаксуючий,adjective
 dormir,спати,verb
 preferir,віддавати перевагу,verb
 poder,могти,verb
-barato,дешевий,adj
+barato,дешевий,adjective
 el cementerio,цвинтар,noun
-libre,вільний,adj                
+libre,вільний,adjective
 el tiempo,час,noun
 el aeropuerto,аеропорт,noun
 Como vas al trabajo?,Як ти їдеш на роботу?,phrase
@@ -387,24 +387,24 @@ la estrella,зірка,noun
 el translado,переклад,noun
 el destino,місце призначення,noun
 caminar,йти пішки,verb
-facíl,легко,adj
+facíl,легко,adjective
 De nada,Не за що,phrase
 la familia,сім'я,noun
-menor,менший,adj
-mejor,кращий,adj
+menor,менший,adjective
+mejor,кращий,adjective
 el nieto,внук,noun
 el marido,муж,noun
 pareja,пара,noun
-delgado,худий,adj
+delgado,худий,adjective
 el pelo,волосся,noun
-moreno,темний,adj
-castaño,каштановий,adj
+moreno,темний,adjective
+castaño,каштановий,adjective
 la barba,борода,noun
 el bigote,вуса,noun
 lleva,носити,verb
-rizado,кудрявий,adj
-rubio,русявий,adj
-timida,сором'язлива,adj
+rizado,кудрявий,adjective
+rubio,русявий,adjective
+timida,сором'язлива,adjective
 algodón,бавовна,noun
 lana,вовна,noun
 piel,шкіра,noun
@@ -431,16 +431,16 @@ luego,потім,adverb
 el sombrero,капелюх,noun
 los calcetines,шкарпетки,noun
 el hoyo,яма,noun
-sucio,брудний,adj
+sucio,брудний,adjective
 la botella,пляшка,noun
 la tira,полоска,noun
 el basurero,смітник,noun
 llorar,плакати,verb
 mirar,дивитися,verb
-otro,інший,adj
+otro,інший,adjective
 esconderse,ховатися,verb
-gordo,товстий,adj
-liso,прямий,adj
+gordo,товстий,adjective
+liso,прямий,adjective
 la falda,спідниця,noun
 la camisa,сорочка,noun
 calor,тепло,noun
@@ -448,9 +448,9 @@ el canape,канапе,noun
 gafas,окуляри,noun
 el vestigo,сукня,noun
 sobre,про,preposition
-timido,сором'язливий,adj
-vago,лінивий,adj
-torpe,нерозумний,adj
+timido,сором'язливий,adjective
+vago,лінивий,adjective
+torpe,нерозумний,adjective
 siempre,завжди,adverb
 a menudo,часто,adverb
 con frecuencia,часто,adverb
@@ -497,10 +497,10 @@ oír,слухати,verb
 el apellido,прізвище,noun
 el horario,розклад,noun
 casi,майже,adverb
-abiertos,відкритий,adj
+abiertos,відкритий,adjective
 desde las,з,preposition
 hasta las,до,preposition
-reduicido,зменшений,adj
+reduicido,зменшений,adjective
 cenar,вечеряти,verb
 quedar,залишатися,verb
 tomar,брати,verb
@@ -521,7 +521,7 @@ el camino,дорога,noun
 el guardia,охоронець,noun
 la fresa,полуниця,noun
 el sabor,смак,noun
-ancha,широка,adj
+ancha,широка,adjective
 el despacho,кабінет,noun
 abajo,внизу,adverb
 arriba,вгору,adverb
@@ -543,20 +543,20 @@ siquiera,навіть,adverb
 apagar,вимикати,verb
 así,отже,adverb
 delar un mensaje,залишити повідомлення,phrase
-lindo,гарний,adj
+lindo,гарний,adjective
 el timbre,дзвінок,noun
 entregar,доставляти,verb
 la puerta,двері,noun
-ansiosa,нетерпляча,adj
+ansiosa,нетерпляча,adjective
 Nos vemos!,До зустрічі!,phrase
 Que te vaya bien!,Всього найкращого!,phrase
 la entrevista,інтерв'ю,noun
 el muchacho,молодий чоловік,noun
-anteriar,попередній,adj
+anteriar,попередній,adjective
 la sala,кімната,noun
 pasar,проходити,verb
 la oficina,офіс,noun
-amplio,широкий,adj
+amplio,широкий,adjective
 la madera,дерево,noun
 demasiado,занадто,adverb
 el escritorio,письмовий стіл,noun
@@ -576,7 +576,7 @@ la carne,м'ясо,noun
 el arroz,рис,noun
 la ensalada,салат,noun
 la sopa,суп,noun
-caliente,гарячий,adj
+caliente,гарячий,adjective
 la leche,молоко,noun
 el huevo,яйце,noun
 el pan,хліб,noun
@@ -600,13 +600,13 @@ escalar,лазити,verb
 coger,брати,verb
 la pared,стіна,noun
 asistir,відвідувати,verb
-común,звичайний,adj
+común,звичайний,adjective
 elegir,вибирати,verb
 el maestro,вчитель,noun
 el conocimiento,знання,noun
 dedicarse,присвячувати,verb
-nocturno,ночний,adj
-existoso,успішний,adj
+nocturno,ночний,adjective
+existoso,успішний,adjective
 la gerente,менеджер,noun
 la revista,журнал,noun
 el trato,угода,noun
@@ -618,7 +618,7 @@ la charla,розмова,noun
 alguno,якийсь,pronoun
 limpiar,прибирати,verb
 el proveedor,постачальник,noun
-soltario,самотній,adj
+soltario,самотній,adjective
 el suerte,щастя,noun
 la dueña,власниця,noun
 la librería,книгарня,noun
@@ -648,20 +648,20 @@ la rama,гілка,noun
 pronto,швидко,adverb
 cuidado,обережно,adverb
 el juez,суддя,noun
-derecho,право,adj
+derecho,право,adjective
 convertirse,перетворюватися,verb
 la cebolla,цибуля,noun
-casero,домашній,aje
+casero,домашній,adjective
 la piña,ананас,noun
 la vesina,сусідка,noun
 el recuerdo,спогад,noun
 la palabra,слово,noun
 la esposa,дружина,noun
-cariño,миленький,adj
-entusiasmados,захоплені,adj
+cariño,миленький,adjective
+entusiasmados,захоплені,adjective
 la esperanza,надія,noun
 recordar,пам'ятати,verb
-sencilla,проста,adj
+sencilla,проста,adjective
 la ventanale,вікно,noun
 asentir,погоджуватися,verb
 decepcionar,розчаровувати,verb
@@ -673,9 +673,9 @@ el cepillo de dientes,зубна щітка,noun
 la manta,ковдра,noun
 el vaso,склянка,noun
 quedarse,залишатися,verb
-desconocida,незнайома,adj
+desconocida,незнайома,adjective
 la sabana,простирадло,noun
-suave,м'який,adj
+suave,м'який,adjective
 la almohada,подушка,noun
 la gorra,кепка,noun
 las botas,чоботи,noun
@@ -689,14 +689,14 @@ estornudar,чхати,verb
 enfrente,напроти,adverb
 la certeza,впевненість,noun
 el cajon,ящик,noun
-último,останній,adj
+último,останній,adjective
 la caja,коробка,noun
 hacia,до,preposition
 la beca,стипендія,noun
 ahorrar,економити,verb
 adelgazar,схуднути,verb
 probablemente,мабуть,adverb
-purificada,очищена,adj
+purificada,очищена,adjective
 tirar,кидати,verb
 echar,виливати,verb
 la prosperidad,процвітання,noun
@@ -710,7 +710,7 @@ la aguja,голка,noun
 el hilo,нитка,noun
 el alfiler,булавка,noun
 la cabeza,голова,noun
-mismo,той самий,adj
+mismo,той самий,adjective
 el anillo,кільце,noun
 agacharse,нахилятися,verb
 la nariz,нос,noun
@@ -725,7 +725,7 @@ casarse,одружуватися,verb
 el perchero,вішалка,noun
 el espejo,дзеркало,noun
 probar,пробувати,verb
-modesto,скромний,adj
+modesto,скромний,adjective
 la sombra,тінь,noun
 la boca,рот,noun
 la oreja,вухо,noun
@@ -741,15 +741,15 @@ el hombro,плече,noun
 la mejilla,щока,noun
 la ceja,брова,noun
 los labios,губи,noun
-triste,сумний,adj
-contento,щасливий,adj
-asustado,наляканий,adj
+triste,сумний,adjective
+contento,щасливий,adjective
+asustado,наляканий,adjective
 toser,кашляти,verb
 vomitar,блювати,verb
 el azucar,цукор,noun
 engordar,потовщати,verb
 abusar,зловживати,verb
-el opuesto,протилежність,adj
+el opuesto,протилежність,adjective
 el estres,стрес,noun
 mantener,підтримувати,verb
 cortar,різати,verb
@@ -761,7 +761,7 @@ el daño,шкода,noun
 suponer,припускати,verb
 la talla,розмір,noun
 el probador,примірочна,noun
-atónita,здивована,adj
+atónita,здивована,adjective
 consequir,досягати,verb
 la oracion,речення,noun
 dejar,залишати,verb
@@ -816,25 +816,25 @@ el lado,бік,noun
 de todas formas,в будь-якому випадку,phrase
 aconsesar,рекомендувати,verb
 el tocino,бекон,noun
-perdido,втрачений,adj
-siguiente,наступний,adj
-espantada,наляканий,adj
+perdido,втрачений,adjective
+siguiente,наступний,adjective
+espantada,наляканий,adjective
 la actitud,ставлення,noun
 igualmente,також,adverb
 nuevamente,знову,adverb
 el comportamiento,поведінка,noun
 la infancia,дитинство,noun
-ofendida,обурений,adj
+ofendida,обурений,adjective
 la cuenta,рахунок,noun
 la propina,чайові,noun
-asqueroso,відвратний,adj
-distintas,різні,adj
+asqueroso,відвратний,adjective
+distintas,різні,adjective
 el dibujo,малюнок,noun
 la espuma,піна,noun
 convencer,переконувати,verb
 conmigo,зі мною,pronoun
-parecido,схожий,adj
-descartada,відкинута,adj
+parecido,схожий,adjective
+descartada,відкинута,adjective
 la asignatura,предмет,noun
 el negocio,бізнес,noun
 los proveedores,постачальники,noun
@@ -844,7 +844,7 @@ el dueño,власник,noun
 el diario,щоденник,noun
 la platica,розмова,noun
 un trabajo de medio tiempo,неповний робочий день,phrase
-suficiente,достатньо,adj
+suficiente,достатньо,adjective
 la esquina,кут,noun
 acostumbrarse,звикати,verb
 la pantalla,екран,noun
@@ -855,24 +855,24 @@ apurar,поспішати,verb
 el paso,крок,noun
 apenas,ледве,adverb
 un reclamo,претензія,noun
-nublado,хмарно,adj
+nublado,хмарно,adjective
 la rodilla,коліно,noun
 la humedad,вологість,noun
-canoso,сивий,adj
+canoso,сивий,adjective
 donde,де,adverb
 cuantos,скільки,adverb
 quién,хто,adverb
-asustada,налякана,adj
-fatal,жахливо,adj
+asustada,налякана,adjective
+fatal,жахливо,adjective
 la fractura,перелом,noun
-inflamada,запалена,adj
+inflamada,запалена,adjective
 el miel,мед,noun
 el roble,дуб,noun
-sana,здорова,adj
+sana,здорова,adjective
 el pecho,груди,noun
 las escaleras,сходи,noun
 respirar,дихати,verb
-implecables,непередбачувані,adj
+implecables,непередбачувані,adjective
 juntas,разом,adverb
 el jarabe,сироп,noun
 el razon,причина,noun
@@ -891,18 +891,18 @@ opcionar,вибирати,verb
 la chaceta,жакет,noun
 las guantes,рукавички,noun
 el cinturon,ремінь,noun
-cualitativo,якісний,adj
+cualitativo,якісний,adjective
 conversar,розмовляти,verb
 quejarse,скаржитися,verb
-grave,серйозний,adj
+grave,серйозний,adjective
 la revisa,перевірка,noun
 ambas,обидві,pronoun
 el párrafo,абзац,noun
-implecable,бездоганий,adj
+implecable,бездоганий,adjective
 el intercambio,обмін,noun
 esta todo listo,все готово,phrase
-emotiva,емоційна,adj
-eterno,вічний,adj
+emotiva,емоційна,adjective
+eterno,вічний,adjective
 prometer,обіцяти,verb
 la enfermedad,хвороба,noun
 los novios,молодята,noun
@@ -918,9 +918,9 @@ seguir,продовжувати,verb
 el asunto,роман,noun
 constantemente,постійно,adverb
 reírse,сміятися,verb
-cualguier,будь-який,adj
+cualguier,будь-який,adjective
 volverse,повертатися,verb
-loco,божевільний,adj
+loco,божевільний,adjective
 ducharse,приймати душ,verb
 cepillares los dientes,чистити зуби,verb
 lavarse,мити,verb
@@ -950,7 +950,7 @@ vigilar,слідкувати,verb
 los dulces,цукерки,noun
 el deporte,спорт,noun
 la salud,здоров'я,noun
-mas cercana,найближчий,adj
+mas cercana,найближчий,adjective
 detener,зупиняти,verb
 el aliento,дихання,noun
 exchalar,вдихати,verb
@@ -988,11 +988,11 @@ acabar,закінчувати,verb
 fregar los platos,мити посуд,verb
 tenger la ropa,прасувати одяг,verb
 en fin,врешті решт,phrase
-calvo,лисий,adj
+calvo,лисий,adjective
 la coleta,косичка,noun
 las trenzas,коси,noun
-ondulado,хвилястий,adj
-recogido,зібраний,adj
+ondulado,хвилястий,adjective
+recogido,зібраний,adjective
 las pecas,веснушки,noun
 el lunar,родимка,noun
 los pedientes,сережки,noun
@@ -1090,7 +1090,7 @@ la llave,ключ,noun
 el extranjero,іноземець,noun
 ultimamente,останнім часом,adverb
 la sierra,гори,noun
-enfermo,хворий,adj
+enfermo,хворий,adjective
 la muñeca,лялька,noun
 enamorarse,закохуватися,verb
 la bufanda,шарф,noun
@@ -1104,7 +1104,7 @@ la mochilla,рюкзак,noun
 estar de acuerdo,бути згодним,phrase
 el velo,вуаль,noun
 retirar,вилучати,verb
-ausente,відсутній,adj
+ausente,відсутній,adjective
 Enhorabuena!,вітаю,phrase
 Felicitaciones,вітаю,phrase
 la broma,жарт,noun
@@ -1113,7 +1113,7 @@ el movimiento,рух,noun
 discretamente,непомітно,adverb
 recoger,збирати,verb
 la taza,чашка,noun
-sucia,брудна,adj
+sucia,брудна,adjective
 la rebaja,знижка,noun
 según la,згідно з,phrase
 es todo,це все,phrase
@@ -1151,7 +1151,7 @@ las ventajas,переваги,noun
 las desventajas,недоліки,noun
 fuera,зовні,adverb
 cambiar,змінювати,verb
-adecuada,відповідний,adj
+adecuada,відповідний,adjective
 el durazno,персик,noun
 el melon,диня,noun
 la sandia,кавун,noun
