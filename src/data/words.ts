@@ -5935,5 +5935,30 @@ export const words: Word[] = [
     "word": "la merienda",
     "translation": "закуска",
     "type": "noun"
+  },
+  {
+    "word": "la guerra",
+    "translation": "війна",
+    "type": "noun"
+  },
+  {
+    "word": "la berenjena",
+    "translation": "баклажан",
+    "type": "noun"
+  },
+  {
+    "word": "enseñar",
+    "translation": "вчити",
+    "type": "verb"
+  },
+  {
+    "word": "nadar",
+    "translation": "плавати",
+    "type": "verb"
+  },
+  {
+    "word": "el castillos",
+    "translation": "замок",
+    "type": "noun"
   }
 ];
