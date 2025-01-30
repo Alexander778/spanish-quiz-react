@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { QuizCard } from "./QuizCard";
 import { getTranslationQuestion } from "../helpers/getTranslationQuestion";
 import { Card, CardContent, IconButton, Typography } from "@mui/material";
@@ -6,11 +6,11 @@ import RestartAltIcon from '@mui/icons-material/RestartAlt';
 
 export function QuizContainer() {
   const counterFromStorage = localStorage.getItem("counter") || 0;
+  
   const [counter, setCounter] = useState(+counterFromStorage);
-  const [question, setQuestion] = useState(getTranslationQuestion());
+  const [question, setQuestion] = useState(() => getTranslationQuestion());
 
   const onNext = () => {
-    setQuestion(getTranslationQuestion());
     increaseCounter();
   };
 
@@ -27,6 +27,10 @@ export function QuizContainer() {
     
     setCounter(0);
   };
+
+  useEffect(() => {
+    setQuestion(getTranslationQuestion());
+  }, [counter]);
 
   return (
     <>

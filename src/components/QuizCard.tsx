@@ -40,12 +40,11 @@ export function QuizCard({
   const handleShowAnswer = () => setShowAnswer((prev) => !prev);
   const handleSubmit = useCallback(
     (selectedOption?: string) => {
-      setInputValue("");
-
       const userInput = selectedOption
         ? selectedOption.trim()
         : inputValue.trim();
 
+      console.log(options);
       if (userInput.toLowerCase() === answer.trim().toLowerCase()) {
         setOpenErrorMsg(false);
         setShowAnswer(false);
@@ -54,6 +53,7 @@ export function QuizCard({
       } else {
         setOpenErrorMsg(true);
       }
+      setInputValue("");
     },
     [answer, index, inputValue, onNext]
   );
@@ -117,9 +117,7 @@ export function QuizCard({
                   justifyContent: "center",
                 }}
               >
-                <Typography sx={{ color: "text.primary" }}>
-                  {answer}
-                </Typography>
+                <Typography sx={{ color: "text.primary" }}>{answer}</Typography>
                 <IconButton
                   color="primary"
                   size="small"
