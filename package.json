@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alexander778.github.io/spanish-quiz-react/",
+  "homepage": "https://Alexander778.github.io/spanish-quiz-react/",
   "name": "quiz-app",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
