@@ -1,6 +1,6 @@
 import { shuffle } from "lodash";
 import { words } from "../data/words";
-import { RandomWord, Word } from "../data/types";
+import { QuestionConfig, RandomWord, Word } from "../data/types";
 import {
   IS_MANUAL_TRANSLATION_POSSIBILITY,
   IS_TRANSLATED_WORD_IN_QUESTION_POSSIBILITY,
@@ -8,7 +8,7 @@ import {
   REPEAT_MENTIONED_WORDS_POSSIBILITY,
 } from "../constants/constants";
 
-export const getTranslationQuestion = () => {
+export const getTranslationQuestion = (): QuestionConfig => {
   const randomWordObject = getRandomWord();
 
   const wordIndex = randomWordObject.index;

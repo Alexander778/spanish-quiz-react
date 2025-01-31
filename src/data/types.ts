@@ -19,3 +19,11 @@ export type RandomWord = {
   index: number;
   word: Word;
 };
+
+export type QuestionConfig = {
+  index: number;
+  wordToTranslate: string;
+  answer: string;
+  options?: string[];
+  isManualTranslation: boolean;
+};

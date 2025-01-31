@@ -11,28 +11,23 @@ import {
   IconButton,
 } from "@mui/material";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { setWordToMentioned } from "../helpers/getTranslationQuestion";
+import {
+  getTranslationQuestion,
+  setWordToMentioned,
+} from "../helpers/getTranslationQuestion";
 import ContentCopyIcon from "@mui/icons-material/ContentCopy";
+import { QuestionConfig } from "../data/types";
 
 interface QuizCardProps {
-  index: number;
-  wordToTranslate: string;
-  answer: string;
-  options?: string[];
-  isManualTranslation: boolean;
   onNext: () => void;
 }
 
-export function QuizCard({
-  index,
-  wordToTranslate,
-  answer,
-  options,
-  isManualTranslation,
-  onNext,
-}: QuizCardProps) {
+export function QuizCard({ onNext }: QuizCardProps) {
   const inputRef = useRef<HTMLInputElement>(null);
 
+  const [question, setQuestion] = useState<QuestionConfig>(
+    getTranslationQuestion()
+  );
   const [openErrorMsg, setOpenErrorMsg] = useState(false);
   const [showAnswer, setShowAnswer] = useState(false);
   const [inputValue, setInputValue] = useState("");
@@ -43,18 +38,19 @@ export function QuizCard({
       const userInput = selectedOption
         ? selectedOption.trim()
         : inputValue.trim();
-        
-      if (userInput.toLowerCase() === answer.trim().toLowerCase()) {
+
+      if (userInput.toLowerCase() === question.answer.trim().toLowerCase()) {
         setOpenErrorMsg(false);
         setShowAnswer(false);
-        setWordToMentioned(index);
+        setWordToMentioned(question.index);
+        setQuestion(getTranslationQuestion());
         onNext();
       } else {
         setOpenErrorMsg(true);
       }
       setInputValue("");
     },
-    [answer, index, inputValue, onNext]
+    [inputValue, onNext, question]
   );
 
   const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
@@ -68,35 +64,33 @@ export function QuizCard({
     }
   };
 
-  const handleKeyPress = useCallback(
-    (e: KeyboardEvent) => {
-      if (!isManualTranslation && options?.length) {
+  useEffect(() => {
+    const handleKeyPress = (e: KeyboardEvent) => {
+      if (!question.isManualTranslation && question.options?.length) {
         const index = Number(e.key) - 1;
-        if (index >= 0 && index < options.length) {
-          handleSubmit(options[index]);
+        if (index >= 0 && index < question.options.length) {
+          handleSubmit(question.options[index]);
         }
       }
-    },
-    [handleSubmit, isManualTranslation, options]
-  );
-
-  useEffect(() => {
-    if (isManualTranslation) {
+    };
+  
+    document.addEventListener("keydown", handleKeyPress);
+    
+    return () => {
       document.removeEventListener("keydown", handleKeyPress);
-    } else {
-      document.addEventListener("keydown", handleKeyPress);
-    }
-  }, [handleKeyPress, isManualTranslation]);
+    };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [question]);
 
   useEffect(() => {
-    if (isManualTranslation && inputRef.current) {
+    if (question.isManualTranslation && inputRef.current) {
       inputRef.current.focus();
       // bad code to reset value in the input
       setTimeout(() => {
         setInputValue("");
       }, 1);
     }
-  }, [isManualTranslation]);
+  }, [question.isManualTranslation]);
 
   return (
     <>
@@ -106,7 +100,7 @@ export function QuizCard({
             <Typography
               sx={{ color: "text.primary", fontWeight: "bold", fontSize: 40 }}
             >
-              {wordToTranslate}
+              {question.wordToTranslate}
             </Typography>
             {showAnswer && (
               <Box
@@ -116,11 +110,13 @@ export function QuizCard({
                   justifyContent: "center",
                 }}
               >
-                <Typography sx={{ color: "text.primary" }}>{answer}</Typography>
+                <Typography sx={{ color: "text.primary" }}>
+                  {question.answer}
+                </Typography>
                 <IconButton
                   color="primary"
                   size="small"
-                  onClick={() => navigator.clipboard.writeText(answer)}
+                  onClick={() => navigator.clipboard.writeText(question.answer)}
                 >
                   <ContentCopyIcon fontSize="small" />
                 </IconButton>
@@ -128,7 +124,7 @@ export function QuizCard({
             )}
           </div>
           <Box>
-            {isManualTranslation ? (
+            {question.isManualTranslation ? (
               <TextField
                 variant="outlined"
                 value={inputValue}
@@ -137,7 +133,7 @@ export function QuizCard({
                 inputRef={inputRef}
               />
             ) : (
-              options?.map((option, index) => (
+              question.options?.map((option, index) => (
                 <Box key={option} className="flex flex-col justify-center m-3">
                   <Button
                     variant="outlined"
@@ -151,7 +147,7 @@ export function QuizCard({
           </Box>
         </CardContent>
         <CardActions className="flex flex-row justify-center">
-          {isManualTranslation && (
+          {question.isManualTranslation && (
             <>
               <Button
                 size="small"
