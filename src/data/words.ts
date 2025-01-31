@@ -5960,5 +5960,55 @@ export const words: Word[] = [
     "word": "el castillos",
     "translation": "замок",
     "type": "noun"
+  },
+  {
+    "word": "brillar",
+    "translation": "блищати",
+    "type": "verb"
+  },
+  {
+    "word": "el puente",
+    "translation": "міст",
+    "type": "noun"
+  },
+  {
+    "word": "perjudicial",
+    "translation": "шкідливий",
+    "type": "adjective"
+  },
+  {
+    "word": "hacer daño",
+    "translation": "шкодити",
+    "type": "verb"
+  },
+  {
+    "word": "el alforfon",
+    "translation": "гречка",
+    "type": "noun"
+  },
+  {
+    "word": "perezoso",
+    "translation": "лінивий",
+    "type": "adjective"
+  },
+  {
+    "word": "picante",
+    "translation": "гострий",
+    "type": "adjective"
+  },
+  {
+    "word": "frutassecas",
+    "translation": "сухофрукти",
+    "type": "noun"
+  },
+  {
+    "word": "la taverna",
+    "translation": "таверна",
+    "type": "noun"
+  },
+  {
+    "word": "el hábito",
+    "translation": "звичка",
+    "type": "noun"
   }
 ];
