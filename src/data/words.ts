@@ -6010,5 +6010,95 @@ export const words: Word[] = [
     "word": "el hábito",
     "translation": "звичка",
     "type": "noun"
+  },
+  {
+    "word": "la manera",
+    "translation": "спосіб",
+    "type": "noun"
+  },
+  {
+    "word": "reemplazar",
+    "translation": "замінювати",
+    "type": "verb"
+  },
+  {
+    "word": "acomodarse",
+    "translation": "пристосовуватися",
+    "type": "verb"
+  },
+  {
+    "word": "el bocata",
+    "translation": "бутерброд",
+    "type": "noun"
+  },
+  {
+    "word": "el bolsillo",
+    "translation": "карман",
+    "type": "noun"
+  },
+  {
+    "word": "apagado",
+    "translation": "вимкнений",
+    "type": "adjective"
+  },
+  {
+    "word": "los invitados",
+    "translation": "гості",
+    "type": "noun"
+  },
+  {
+    "word": "los seres queridos",
+    "translation": "рідні",
+    "type": "noun"
+  },
+  {
+    "word": "descubrir",
+    "translation": "з'ясосувати",
+    "type": "verb"
+  },
+  {
+    "word": "crudo",
+    "translation": "сирий",
+    "type": "adjective"
+  },
+  {
+    "word": "recibir",
+    "translation": "отримувати",
+    "type": "verb"
+  },
+  {
+    "word": "el sobrino",
+    "translation": "племінник",
+    "type": "noun"
+  },
+  {
+    "word": "la novia",
+    "translation": "наречена",
+    "type": "noun"
+  },
+  {
+    "word": "el faro",
+    "translation": "маяк",
+    "type": "noun"
+  },
+  {
+    "word": "soltar",
+    "translation": "відпускати",
+    "type": "verb"
+  },
+  {
+    "word": "la inundacion",
+    "translation": "повінь",
+    "type": "noun"
+  },
+  {
+    "word": "el puerto",
+    "translation": "порт",
+    "type": "noun"
+  },
+  {
+    "word": "sonar",
+    "translation": "звучати",
+    "type": "verb"
   }
 ];
