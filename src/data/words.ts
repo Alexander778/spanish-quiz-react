@@ -6100,5 +6100,45 @@ export const words: Word[] = [
     "word": "sonar",
     "translation": "звучати",
     "type": "verb"
+  },
+  {
+    "word": "el escalon",
+    "translation": "ступенька",
+    "type": "noun"
+  },
+  {
+    "word": "la cúpula",
+    "translation": "купол",
+    "type": "noun"
+  },
+  {
+    "word": "el comercio",
+    "translation": "торгівля",
+    "type": "noun"
+  },
+  {
+    "word": "manejar",
+    "translation": "керувати",
+    "type": "verb"
+  },
+  {
+    "word": "la máquina",
+    "translation": "машина/двигун",
+    "type": "noun"
+  },
+  {
+    "word": "desconcertado",
+    "translation": "збентежений",
+    "type": "adjective"
+  },
+  {
+    "word": "cierto",
+    "translation": "вірний",
+    "type": "adjective"
+  },
+  {
+    "word": "la escalera",
+    "translation": "сходи",
+    "type": "noun"
   }
 ];

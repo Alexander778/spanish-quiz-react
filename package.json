@@ -11,8 +11,7 @@
     "preview": "vite preview",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d dist",
-    "duplicates": "node ./src/scripts/cleanDuplicates.cjs",
-    "generate": "node ./src/scripts/wordsGenerator.cjs"
+    "words": "node ./src/scripts/cleanDuplicates.cjs && node ./src/scripts/wordsGenerator.cjs"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
