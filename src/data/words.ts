@@ -6140,5 +6140,55 @@ export const words: Word[] = [
     "word": "la escalera",
     "translation": "сходи",
     "type": "noun"
+  },
+  {
+    "word": "la mitad",
+    "translation": "половина",
+    "type": "noun"
+  },
+  {
+    "word": "el atardecer",
+    "translation": "захід сонця",
+    "type": "noun"
+  },
+  {
+    "word": "despacio",
+    "translation": "повільно",
+    "type": "adverb"
+  },
+  {
+    "word": "la gota",
+    "translation": "крапля",
+    "type": "noun"
+  },
+  {
+    "word": "avisar",
+    "translation": "попереджати",
+    "type": "verb"
+  },
+  {
+    "word": "la embarcacion",
+    "translation": "судно",
+    "type": "noun"
+  },
+  {
+    "word": "el turno",
+    "translation": "черга",
+    "type": "noun"
+  },
+  {
+    "word": "apetecer",
+    "translation": "хотіти",
+    "type": "verb"
+  },
+  {
+    "word": "los naipes",
+    "translation": "гральні карти",
+    "type": "noun"
+  },
+  {
+    "word": "por suerte",
+    "translation": "на щастя",
+    "type": "phrase"
   }
 ];
