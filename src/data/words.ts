@@ -6190,5 +6190,95 @@ export const words: Word[] = [
     "word": "por suerte",
     "translation": "на щастя",
     "type": "phrase"
+  },
+  {
+    "word": "el capitulo",
+    "translation": "розділ",
+    "type": "noun"
+  },
+  {
+    "word": "el aseo",
+    "translation": "туалет",
+    "type": "noun"
+  },
+  {
+    "word": "el esgrima",
+    "translation": "фехтування",
+    "type": "noun"
+  },
+  {
+    "word": "Estupendo",
+    "translation": "чудово",
+    "type": "phrase"
+  },
+  {
+    "word": "la sella",
+    "translation": "марка",
+    "type": "noun"
+  },
+  {
+    "word": "la afombra",
+    "translation": "килим",
+    "type": "noun"
+  },
+  {
+    "word": "el lapiz",
+    "translation": "олівець",
+    "type": "noun"
+  },
+  {
+    "word": "exigente",
+    "translation": "вимогливий",
+    "type": "adjective"
+  },
+  {
+    "word": "marcar",
+    "translation": "позначати",
+    "type": "verb"
+  },
+  {
+    "word": "el sueño",
+    "translation": "сон",
+    "type": "noun"
+  },
+  {
+    "word": "la meta",
+    "translation": "мета",
+    "type": "noun"
+  },
+  {
+    "word": "la catarata",
+    "translation": "водоспад",
+    "type": "noun"
+  },
+  {
+    "word": "la selva",
+    "translation": "джунглі",
+    "type": "noun"
+  },
+  {
+    "word": "partir",
+    "translation": "розбивати",
+    "type": "verb"
+  },
+  {
+    "word": "Estar deseando",
+    "translation": "з нетерпінням чекати",
+    "type": "phrase"
+  },
+  {
+    "word": "la pijamada",
+    "translation": "вечірка в піжамах",
+    "type": "noun"
+  },
+  {
+    "word": "el fichero",
+    "translation": "файл",
+    "type": "noun"
+  },
+  {
+    "word": "el enlace",
+    "translation": "посилання",
+    "type": "noun"
   }
 ];
