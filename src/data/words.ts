@@ -1892,7 +1892,7 @@ export const words: Word[] = [
     "type": "preposition"
   },
   {
-    "word": "descyunar",
+    "word": "desayunar",
     "translation": "снідати",
     "type": "verb"
   },
@@ -6335,5 +6335,105 @@ export const words: Word[] = [
     "word": "doblado",
     "translation": "згорнутий",
     "type": "adjective"
+  },
+  {
+    "word": "la garganta",
+    "translation": "горло",
+    "type": "noun"
+  },
+  {
+    "word": "el estómago",
+    "translation": "шлунок",
+    "type": "noun"
+  },
+  {
+    "word": "el fiebre",
+    "translation": "температура",
+    "type": "noun"
+  },
+  {
+    "word": "el resfriado",
+    "translation": "простуда",
+    "type": "noun"
+  },
+  {
+    "word": "el mareo",
+    "translation": "запаморечення",
+    "type": "noun"
+  },
+  {
+    "word": "la herida",
+    "translation": "ранa",
+    "type": "noun"
+  },
+  {
+    "word": "tomar vitaminos",
+    "translation": "приймати вітаміни",
+    "type": "verb"
+  },
+  {
+    "word": "la vacuna",
+    "translation": "вакцина",
+    "type": "noun"
+  },
+  {
+    "word": "la ambulacia",
+    "translation": "швидка допомога",
+    "type": "noun"
+  },
+  {
+    "word": "tener náuseas",
+    "translation": "мати відчуття нудоти",
+    "type": "verb"
+  },
+  {
+    "word": "tener ansiedad",
+    "translation": "мати тривогу",
+    "type": "verb"
+  },
+  {
+    "word": "estar pálido",
+    "translation": "бути блідим",
+    "type": "verb"
+  },
+  {
+    "word": "estar hinchado",
+    "translation": "бути набряклим",
+    "type": "verb"
+  },
+  {
+    "word": "estar débil",
+    "translation": "бути слабким",
+    "type": "verb"
+  },
+  {
+    "word": "estar deshidratado",
+    "translation": "бути виснаженим",
+    "type": "verb"
+  },
+  {
+    "word": "hacerse una herida",
+    "translation": "поранитися",
+    "type": "verb"
+  },
+  {
+    "word": "hacer reposo",
+    "translation": "дотримуватия постільного режиму",
+    "type": "verb"
+  },
+  {
+    "word": "hacer una dieta",
+    "translation": "проводити дієту",
+    "type": "verb"
+  },
+  {
+    "word": "poner una inyección",
+    "translation": "робити укол",
+    "type": "verb"
+  },
+  {
+    "word": "acudir a consulta",
+    "translation": "звертатися за консультацією",
+    "type": "verb"
   }
 ];
