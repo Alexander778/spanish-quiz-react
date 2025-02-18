@@ -6280,5 +6280,60 @@ export const words: Word[] = [
     "word": "el enlace",
     "translation": "посилання",
     "type": "noun"
+  },
+  {
+    "word": "navegar",
+    "translation": "серфити",
+    "type": "verb"
+  },
+  {
+    "word": "la aficion",
+    "translation": "хобі",
+    "type": "noun"
+  },
+  {
+    "word": "Por otro lado",
+    "translation": "з іншого боку",
+    "type": "phrase"
+  },
+  {
+    "word": "el espacio",
+    "translation": "простір",
+    "type": "noun"
+  },
+  {
+    "word": "tenso",
+    "translation": "напружений",
+    "type": "adjective"
+  },
+  {
+    "word": "propio",
+    "translation": "власний",
+    "type": "adjective"
+  },
+  {
+    "word": "curar",
+    "translation": "лікувати",
+    "type": "verb"
+  },
+  {
+    "word": "de repende",
+    "translation": "раптом",
+    "type": "adverb"
+  },
+  {
+    "word": "la ardilla",
+    "translation": "білка",
+    "type": "noun"
+  },
+  {
+    "word": "desprisa",
+    "translation": "швидко",
+    "type": "adverb"
+  },
+  {
+    "word": "doblado",
+    "translation": "згорнутий",
+    "type": "adjective"
   }
 ];
