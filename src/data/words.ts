@@ -6435,5 +6435,75 @@ export const words: Word[] = [
     "word": "acudir a consulta",
     "translation": "звертатися за консультацією",
     "type": "verb"
+  },
+  {
+    "word": "la acera",
+    "translation": "тротуар",
+    "type": "noun"
+  },
+  {
+    "word": "la muela",
+    "translation": "зуб",
+    "type": "noun"
+  },
+  {
+    "word": "doler",
+    "translation": "боліти",
+    "type": "verb"
+  },
+  {
+    "word": "el ladrón",
+    "translation": "злодій",
+    "type": "noun"
+  },
+  {
+    "word": "sinceramente",
+    "translation": "щиро кажучи",
+    "type": "adverb"
+  },
+  {
+    "word": "acompañar",
+    "translation": "супроводжувати",
+    "type": "verb"
+  },
+  {
+    "word": "estarajustada de tiempo",
+    "translation": "бути обмеженим в часі",
+    "type": "verb"
+  },
+  {
+    "word": "despachar",
+    "translation": "обслуговувати",
+    "type": "verb"
+  },
+  {
+    "word": "dirigir",
+    "translation": "керувати",
+    "type": "verb"
+  },
+  {
+    "word": "Que tengas un buen día!",
+    "translation": "Хорошого дня!",
+    "type": "phrase"
+  },
+  {
+    "word": "extrañar",
+    "translation": "скучати",
+    "type": "verb"
+  },
+  {
+    "word": "la lágrima",
+    "translation": "сльоза",
+    "type": "noun"
+  },
+  {
+    "word": "marcharse",
+    "translation": "покидати",
+    "type": "verb"
+  },
+  {
+    "word": "interesar",
+    "translation": "цікавити",
+    "type": "verb"
   }
 ];
