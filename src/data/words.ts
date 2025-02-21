@@ -6347,7 +6347,7 @@ export const words: Word[] = [
     "type": "noun"
   },
   {
-    "word": "el fiebre",
+    "word": "la fiebre",
     "translation": "температура",
     "type": "noun"
   },
@@ -6505,5 +6505,45 @@ export const words: Word[] = [
     "word": "interesar",
     "translation": "цікавити",
     "type": "verb"
+  },
+  {
+    "word": "el tamaño",
+    "translation": "розмір",
+    "type": "noun"
+  },
+  {
+    "word": "la causa",
+    "translation": "причина",
+    "type": "noun"
+  },
+  {
+    "word": "el caso",
+    "translation": "випадок",
+    "type": "noun"
+  },
+  {
+    "word": "el polvo",
+    "translation": "пил",
+    "type": "noun"
+  },
+  {
+    "word": "acrecer",
+    "translation": "збільшувати",
+    "type": "verb"
+  },
+  {
+    "word": "el cuerpo",
+    "translation": "тіло",
+    "type": "noun"
+  },
+  {
+    "word": "peorar",
+    "translation": "погіршувати",
+    "type": "verb"
+  },
+  {
+    "word": "las pastillas",
+    "translation": "таблетки",
+    "type": "noun"
   }
 ];
