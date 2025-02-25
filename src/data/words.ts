@@ -647,11 +647,6 @@ export const words: Word[] = [
     "type": "noun"
   },
   {
-    "word": "¿Cuál es la nacionalidad de Lionel Messi?",
-    "translation": "Яка національність Ліонель Мессі?",
-    "type": "phrase"
-  },
-  {
     "word": "la zanahoria",
     "translation": "морква",
     "type": "noun"
@@ -6467,7 +6462,7 @@ export const words: Word[] = [
     "type": "verb"
   },
   {
-    "word": "estarajustada de tiempo",
+    "word": "estar ajustada de tiempo",
     "translation": "бути обмеженим в часі",
     "type": "verb"
   },
@@ -6544,6 +6539,56 @@ export const words: Word[] = [
   {
     "word": "las pastillas",
     "translation": "таблетки",
+    "type": "noun"
+  },
+  {
+    "word": "el pasaje",
+    "translation": "квиток",
+    "type": "noun"
+  },
+  {
+    "word": "sorprendentemente",
+    "translation": "на диво",
+    "type": "adverb"
+  },
+  {
+    "word": "el altavoz",
+    "translation": "динамік",
+    "type": "noun"
+  },
+  {
+    "word": "despejado",
+    "translation": "ясно",
+    "type": "adjective"
+  },
+  {
+    "word": "enorme",
+    "translation": "величезний",
+    "type": "adjective"
+  },
+  {
+    "word": "aturdido",
+    "translation": "збентежений",
+    "type": "adjective"
+  },
+  {
+    "word": "arrastrar",
+    "translation": "тягнути",
+    "type": "verb"
+  },
+  {
+    "word": "pesada",
+    "translation": "важка",
+    "type": "adjective"
+  },
+  {
+    "word": "la fila",
+    "translation": "ряд",
+    "type": "noun"
+  },
+  {
+    "word": "la ciencia",
+    "translation": "наука",
     "type": "noun"
   }
 ];
