@@ -6590,5 +6590,90 @@ export const words: Word[] = [
     "word": "la ciencia",
     "translation": "наука",
     "type": "noun"
+  },
+  {
+    "word": "llenar",
+    "translation": "заповнювати",
+    "type": "verb"
+  },
+  {
+    "word": "la prisa",
+    "translation": "поспіх",
+    "type": "noun"
+  },
+  {
+    "word": "el cálculo",
+    "translation": "розрахунок",
+    "type": "noun"
+  },
+  {
+    "word": "atravesar",
+    "translation": "проїзжати повз",
+    "type": "verb"
+  },
+  {
+    "word": "desmayarse",
+    "translation": "втрачати свідомість",
+    "type": "verb"
+  },
+  {
+    "word": "regresar",
+    "translation": "повертатися",
+    "type": "verb"
+  },
+  {
+    "word": "saltar",
+    "translation": "стрибати",
+    "type": "verb"
+  },
+  {
+    "word": "el miedo",
+    "translation": "страх",
+    "type": "noun"
+  },
+  {
+    "word": "el partido",
+    "translation": "матч",
+    "type": "noun"
+  },
+  {
+    "word": "por degracia",
+    "translation": "на жаль",
+    "type": "phrase"
+  },
+  {
+    "word": "abundante",
+    "translation": "обильний",
+    "type": "adjective"
+  },
+  {
+    "word": "el aquiler",
+    "translation": "орендна плата",
+    "type": "noun"
+  },
+  {
+    "word": "el natacion",
+    "translation": "плавання",
+    "type": "noun"
+  },
+  {
+    "word": "los deberes",
+    "translation": "домашні завдання",
+    "type": "noun"
+  },
+  {
+    "word": "el disfrace",
+    "translation": "костюм",
+    "type": "noun"
+  },
+  {
+    "word": "soler",
+    "translation": "засмагати",
+    "type": "verb"
+  },
+  {
+    "word": "la escaparate",
+    "translation": "вітрина",
+    "type": "noun"
   }
 ];
