@@ -6675,5 +6675,20 @@ export const words: Word[] = [
     "word": "la escaparate",
     "translation": "вітрина",
     "type": "noun"
+  },
+  {
+    "word": "pescar",
+    "translation": "ловити рибу",
+    "type": "verb"
+  },
+  {
+    "word": "montar",
+    "translation": "керувати",
+    "type": "verb"
+  },
+  {
+    "word": "el evento",
+    "translation": "подія",
+    "type": "noun"
   }
 ];
