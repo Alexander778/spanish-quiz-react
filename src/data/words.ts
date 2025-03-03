@@ -6690,5 +6690,125 @@ export const words: Word[] = [
     "word": "el evento",
     "translation": "подія",
     "type": "noun"
+  },
+  {
+    "word": "la portera",
+    "translation": "портьєрка",
+    "type": "noun"
+  },
+  {
+    "word": "antipatico",
+    "translation": "неприємний",
+    "type": "adjective"
+  },
+  {
+    "word": "presumido",
+    "translation": "зарозумілий",
+    "type": "adjective"
+  },
+  {
+    "word": "la bateria",
+    "translation": "батарея",
+    "type": "noun"
+  },
+  {
+    "word": "el teclado",
+    "translation": "клавіатура",
+    "type": "noun"
+  },
+  {
+    "word": "la editorial",
+    "translation": "видавництво",
+    "type": "noun"
+  },
+  {
+    "word": "discutir",
+    "translation": "обговорювати",
+    "type": "verb"
+  },
+  {
+    "word": "el lío",
+    "translation": "безпорядок",
+    "type": "adjective"
+  },
+  {
+    "word": "gastar",
+    "translation": "витрачати",
+    "type": "verb"
+  },
+  {
+    "word": "asar",
+    "translation": "смажити",
+    "type": "verb"
+  },
+  {
+    "word": "la docena",
+    "translation": "дюжина",
+    "type": "noun"
+  },
+  {
+    "word": "disfrazar",
+    "translation": "прикривати",
+    "type": "verb"
+  },
+  {
+    "word": "insonorizar",
+    "translation": "звукоізолювати",
+    "type": "verb"
+  },
+  {
+    "word": "bajita",
+    "translation": "низька",
+    "type": "adjective"
+  },
+  {
+    "word": "la cosita",
+    "translation": "дрібниця",
+    "type": "noun"
+  },
+  {
+    "word": "estar jubilado",
+    "translation": "бути на пенсії",
+    "type": "verb"
+  },
+  {
+    "word": "estar de broma",
+    "translation": "жартувати",
+    "type": "verb"
+  },
+  {
+    "word": "majo",
+    "translation": "симпатичний",
+    "type": "adjective"
+  },
+  {
+    "word": "la libreta",
+    "translation": "зошит",
+    "type": "noun"
+  },
+  {
+    "word": "interrumpir",
+    "translation": "переривати",
+    "type": "verb"
+  },
+  {
+    "word": "las afueras",
+    "translation": "передмістя",
+    "type": "noun"
+  },
+  {
+    "word": "deportivo",
+    "translation": "спортивний",
+    "type": "adjective"
+  },
+  {
+    "word": "adivinar",
+    "translation": "вгадувати",
+    "type": "verb"
+  },
+  {
+    "word": "aparecer",
+    "translation": "з'являтися",
+    "type": "verb"
   }
 ];
