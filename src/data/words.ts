@@ -6810,5 +6810,35 @@ export const words: Word[] = [
     "word": "aparecer",
     "translation": "з'являтися",
     "type": "verb"
+  },
+  {
+    "word": "la cafetera",
+    "translation": "кавоварка",
+    "type": "noun"
+  },
+  {
+    "word": "estar de mal humor",
+    "translation": "бути в поганому настрої",
+    "type": "phrase"
+  },
+  {
+    "word": "imaginar",
+    "translation": "уявляти",
+    "type": "verb"
+  },
+  {
+    "word": "exggerar",
+    "translation": "перебільшувати",
+    "type": "verb"
+  },
+  {
+    "word": "los celos",
+    "translation": "ревнощі",
+    "type": "noun"
+  },
+  {
+    "word": "enfadado",
+    "translation": "роздратований",
+    "type": "adjective"
   }
 ];
