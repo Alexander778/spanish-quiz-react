@@ -6840,5 +6840,60 @@ export const words: Word[] = [
     "word": "enfadado",
     "translation": "роздратований",
     "type": "adjective"
+  },
+  {
+    "word": "el atasco",
+    "translation": "пробка",
+    "type": "noun"
+  },
+  {
+    "word": "estar despistado",
+    "translation": "бути розсіяним",
+    "type": "verb"
+  },
+  {
+    "word": "la nuera",
+    "translation": "невістка",
+    "type": "noun"
+  },
+  {
+    "word": "aprovechar",
+    "translation": "використовувати",
+    "type": "verb"
+  },
+  {
+    "word": "preferido",
+    "translation": "улюблений",
+    "type": "adjective"
+  },
+  {
+    "word": "silenciosamente",
+    "translation": "тихо",
+    "type": "adverb"
+  },
+  {
+    "word": "alquilar",
+    "translation": "орендувати",
+    "type": "verb"
+  },
+  {
+    "word": "estar preparado",
+    "translation": "бути готовим",
+    "type": "verb"
+  },
+  {
+    "word": "estupendo",
+    "translation": "чудово",
+    "type": "adjective"
+  },
+  {
+    "word": "existir",
+    "translation": "існувати",
+    "type": "verb"
+  },
+  {
+    "word": "tranquilizarse",
+    "translation": "заспокоюватися",
+    "type": "verb"
   }
 ];
