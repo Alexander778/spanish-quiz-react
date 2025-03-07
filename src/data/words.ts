@@ -6895,5 +6895,45 @@ export const words: Word[] = [
     "word": "tranquilizarse",
     "translation": "заспокоюватися",
     "type": "verb"
+  },
+  {
+    "word": "enseguida",
+    "translation": "негайно",
+    "type": "adverb"
+  },
+  {
+    "word": "la camión",
+    "translation": "автобус",
+    "type": "noun"
+  },
+  {
+    "word": "el ayudante",
+    "translation": "помічник",
+    "type": "noun"
+  },
+  {
+    "word": "poco a poco",
+    "translation": "поступово",
+    "type": "phrase"
+  },
+  {
+    "word": "el remedio",
+    "translation": "спосіб",
+    "type": "noun"
+  },
+  {
+    "word": "el beso",
+    "translation": "поцілунок",
+    "type": "noun"
+  },
+  {
+    "word": "la madrugada",
+    "translation": "ранок",
+    "type": "noun"
+  },
+  {
+    "word": "el hueso",
+    "translation": "кістка",
+    "type": "noun"
   }
 ];
