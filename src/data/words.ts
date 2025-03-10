@@ -6935,5 +6935,70 @@ export const words: Word[] = [
     "word": "el hueso",
     "translation": "кістка",
     "type": "noun"
+  },
+  {
+    "word": "pelearse",
+    "translation": "сваритися",
+    "type": "verb"
+  },
+  {
+    "word": "Que sea",
+    "translation": "нехай буде",
+    "type": "phrase"
+  },
+  {
+    "word": "el sangre",
+    "translation": "кров",
+    "type": "noun"
+  },
+  {
+    "word": "alejar",
+    "translation": "віддаляти",
+    "type": "verb"
+  },
+  {
+    "word": "alzar",
+    "translation": "піднімати",
+    "type": "verb"
+  },
+  {
+    "word": "contemplar",
+    "translation": "розглядати",
+    "type": "verb"
+  },
+  {
+    "word": "definitivamente",
+    "translation": "остаточно",
+    "type": "adverb"
+  },
+  {
+    "word": "la carcajada",
+    "translation": "сміх",
+    "type": "noun"
+  },
+  {
+    "word": "por fortuna",
+    "translation": "на щастя",
+    "type": "phrase"
+  },
+  {
+    "word": "ofrecer",
+    "translation": "пропонувати",
+    "type": "verb"
+  },
+  {
+    "word": "la comodidad",
+    "translation": "зручність",
+    "type": "noun"
+  },
+  {
+    "word": "De vez en cuando",
+    "translation": "час від часу",
+    "type": "phrase"
+  },
+  {
+    "word": "prestar",
+    "translation": "позичати",
+    "type": "verb"
   }
 ];
