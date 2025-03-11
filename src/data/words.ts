@@ -7000,5 +7000,65 @@ export const words: Word[] = [
     "word": "prestar",
     "translation": "позичати",
     "type": "verb"
+  },
+  {
+    "word": "la ama de casa",
+    "translation": "домогосподарка",
+    "type": "noun"
+  },
+  {
+    "word": "charlatana",
+    "translation": "балакуча",
+    "type": "adjective"
+  },
+  {
+    "word": "el adoguin",
+    "translation": "підвіконня",
+    "type": "noun"
+  },
+  {
+    "word": "transitada",
+    "translation": "завантажений",
+    "type": "adjective"
+  },
+  {
+    "word": "a pesar de",
+    "translation": "незважаючи на",
+    "type": "phrase"
+  },
+  {
+    "word": "el hogar",
+    "translation": "дім",
+    "type": "noun"
+  },
+  {
+    "word": "de vez en cuando",
+    "translation": "час від часу",
+    "type": "phrase"
+  },
+  {
+    "word": "el esfuerzo",
+    "translation": "зусилля",
+    "type": "noun"
+  },
+  {
+    "word": "desplomarse",
+    "translation": "впасти",
+    "type": "verb"
+  },
+  {
+    "word": "amplia",
+    "translation": "широка",
+    "type": "adjective"
+  },
+  {
+    "word": "el florero",
+    "translation": "ваза",
+    "type": "noun"
+  },
+  {
+    "word": "Guay!",
+    "translation": "Класно!",
+    "type": "phrase"
   }
 ];
