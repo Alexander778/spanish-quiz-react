@@ -7060,5 +7060,70 @@ export const words: Word[] = [
     "word": "Guay!",
     "translation": "Класно!",
     "type": "phrase"
+  },
+  {
+    "word": "aficionada",
+    "translation": "любителька",
+    "type": "adjective"
+  },
+  {
+    "word": "la tostadora",
+    "translation": "тостер",
+    "type": "noun"
+  },
+  {
+    "word": "la lavandería",
+    "translation": "пральня",
+    "type": "noun"
+  },
+  {
+    "word": "la secadora",
+    "translation": "сушарка",
+    "type": "noun"
+  },
+  {
+    "word": "disponible",
+    "translation": "доступний",
+    "type": "adjective"
+  },
+  {
+    "word": "alojar",
+    "translation": "розміщувати",
+    "type": "verb"
+  },
+  {
+    "word": "indicada",
+    "translation": "відповідний",
+    "type": "adjective"
+  },
+  {
+    "word": "ordenado",
+    "translation": "охайний",
+    "type": "adjective"
+  },
+  {
+    "word": "obsesivo",
+    "translation": "нав'язливий",
+    "type": "adjective"
+  },
+  {
+    "word": "la sugerencia",
+    "translation": "пропозиція",
+    "type": "noun"
+  },
+  {
+    "word": "el equipo",
+    "translation": "команда",
+    "type": "noun"
+  },
+  {
+    "word": "grosero",
+    "translation": "грубий",
+    "type": "adjective"
+  },
+  {
+    "word": "educado",
+    "translation": "вихований",
+    "type": "adjective"
   }
 ];
