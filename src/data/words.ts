@@ -7125,5 +7125,70 @@ export const words: Word[] = [
     "word": "educado",
     "translation": "вихований",
     "type": "adjective"
+  },
+  {
+    "word": "coleccionar",
+    "translation": "колекціонувати",
+    "type": "verb"
+  },
+  {
+    "word": "dar un bostezo",
+    "translation": "позіхати",
+    "type": "verb"
+  },
+  {
+    "word": "la voz",
+    "translation": "голос",
+    "type": "noun"
+  },
+  {
+    "word": "reconocer",
+    "translation": "визнавати",
+    "type": "verb"
+  },
+  {
+    "word": "irritado",
+    "translation": "роздратований",
+    "type": "adjective"
+  },
+  {
+    "word": "inteligente",
+    "translation": "розумний",
+    "type": "adjective"
+  },
+  {
+    "word": "orgulloso",
+    "translation": "гордий",
+    "type": "adjective"
+  },
+  {
+    "word": "arrogante",
+    "translation": "зарозумілий",
+    "type": "adjective"
+  },
+  {
+    "word": "el cabello",
+    "translation": "волосся",
+    "type": "noun"
+  },
+  {
+    "word": "el maletín",
+    "translation": "портфель",
+    "type": "noun"
+  },
+  {
+    "word": "breve",
+    "translation": "короткий",
+    "type": "adjective"
+  },
+  {
+    "word": "el inversor",
+    "translation": "інвестор",
+    "type": "noun"
+  },
+  {
+    "word": "las novedades",
+    "translation": "новини",
+    "type": "noun"
   }
 ];
