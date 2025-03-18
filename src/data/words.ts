@@ -7190,5 +7190,100 @@ export const words: Word[] = [
     "word": "las novedades",
     "translation": "новини",
     "type": "noun"
+  },
+  {
+    "word": "el cojin",
+    "translation": "подушка",
+    "type": "noun"
+  },
+  {
+    "word": "el correo",
+    "translation": "пошта",
+    "type": "noun"
+  },
+  {
+    "word": "la factura",
+    "translation": "рахунок",
+    "type": "noun"
+  },
+  {
+    "word": "el corresponsal",
+    "translation": "кореспондент",
+    "type": "noun"
+  },
+  {
+    "word": "viril",
+    "translation": "мужній",
+    "type": "adjective"
+  },
+  {
+    "word": "los criados",
+    "translation": "слуги",
+    "type": "noun"
+  },
+  {
+    "word": "precioso",
+    "translation": "чудовий",
+    "type": "adjective"
+  },
+  {
+    "word": "la etapa",
+    "translation": "етап",
+    "type": "noun"
+  },
+  {
+    "word": "familiar",
+    "translation": "схожий",
+    "type": "adjective"
+  },
+  {
+    "word": "jubilarse",
+    "translation": "йти на пенсію",
+    "type": "verb"
+  },
+  {
+    "word": "la empresa",
+    "translation": "підприємство",
+    "type": "noun"
+  },
+  {
+    "word": "jovial",
+    "translation": "життєрадісний",
+    "type": "adjective"
+  },
+  {
+    "word": "energico",
+    "translation": "енергійний",
+    "type": "adjective"
+  },
+  {
+    "word": "ligeramente",
+    "translation": "легко",
+    "type": "adverb"
+  },
+  {
+    "word": "el empleo",
+    "translation": "робота",
+    "type": "noun"
+  },
+  {
+    "word": "la molestia",
+    "translation": "неприємність",
+    "type": "noun"
+  },
+  {
+    "word": "Por mi parte",
+    "translation": "з моєї сторони",
+    "type": "phrase"
+  },
+  {
+    "word": "posponer",
+    "translation": "відкладати",
+    "type": "verb"
+  },
+  {
+    "word": "sumarse",
+    "translation": "долучатися",
+    "type": "verb"
   }
 ];
