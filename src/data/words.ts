@@ -7285,5 +7285,55 @@ export const words: Word[] = [
     "word": "sumarse",
     "translation": "долучатися",
     "type": "verb"
+  },
+  {
+    "word": "adorar",
+    "translation": "обожнювати",
+    "type": "verb"
+  },
+  {
+    "word": "sincero",
+    "translation": "щирий",
+    "type": "adjective"
+  },
+  {
+    "word": "Para ser sincero",
+    "translation": "якщо бути щирим",
+    "type": "phrase"
+  },
+  {
+    "word": "el diseño",
+    "translation": "дизайн",
+    "type": "noun"
+  },
+  {
+    "word": "el desastre",
+    "translation": "катастрофа",
+    "type": "noun"
+  },
+  {
+    "word": "soberbio",
+    "translation": "чудовий",
+    "type": "adjective"
+  },
+  {
+    "word": "recorrer",
+    "translation": "досліджувати",
+    "type": "verb"
+  },
+  {
+    "word": "cubrir",
+    "translation": "покривати",
+    "type": "verb"
+  },
+  {
+    "word": "la corriente",
+    "translation": "струм",
+    "type": "noun"
+  },
+  {
+    "word": "tras",
+    "translation": "після",
+    "type": "preposition"
   }
 ];
