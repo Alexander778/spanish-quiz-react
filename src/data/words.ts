@@ -7335,5 +7335,60 @@ export const words: Word[] = [
     "word": "tras",
     "translation": "після",
     "type": "preposition"
+  },
+  {
+    "word": "ligar",
+    "translation": "зв'язувати",
+    "type": "verb"
+  },
+  {
+    "word": "la colada",
+    "translation": "пральня",
+    "type": "noun"
+  },
+  {
+    "word": "el olor",
+    "translation": "запах",
+    "type": "noun"
+  },
+  {
+    "word": "el bollazo",
+    "translation": "булочка",
+    "type": "noun"
+  },
+  {
+    "word": "Buena suerte!",
+    "translation": "Удачі!",
+    "type": "phrase"
+  },
+  {
+    "word": "atender",
+    "translation": "обслуговувати",
+    "type": "verb"
+  },
+  {
+    "word": "la rabia",
+    "translation": "гнів",
+    "type": "noun"
+  },
+  {
+    "word": "la pesada",
+    "translation": "зануда",
+    "type": "adjective"
+  },
+  {
+    "word": "ignorar",
+    "translation": "ігнорувати",
+    "type": "verb"
+  },
+  {
+    "word": "ligera",
+    "translation": "легка",
+    "type": "adjective"
+  },
+  {
+    "word": "recargar",
+    "translation": "перезаряджати",
+    "type": "verb"
   }
 ];
