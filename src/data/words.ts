@@ -7390,5 +7390,70 @@ export const words: Word[] = [
     "word": "recargar",
     "translation": "перезаряджати",
     "type": "verb"
+  },
+  {
+    "word": "incendiado",
+    "translation": "запалений",
+    "type": "adjective"
+  },
+  {
+    "word": "el apodo",
+    "translation": "псевдонім",
+    "type": "noun"
+  },
+  {
+    "word": "el pulpo",
+    "translation": "осьминог",
+    "type": "noun"
+  },
+  {
+    "word": "el ajo",
+    "translation": "часник",
+    "type": "noun"
+  },
+  {
+    "word": "duro",
+    "translation": "твердий",
+    "type": "adjective"
+  },
+  {
+    "word": "envenenar",
+    "translation": "отруювати",
+    "type": "verb"
+  },
+  {
+    "word": "devolver",
+    "translation": "повертати",
+    "type": "verb"
+  },
+  {
+    "word": "la unicacíon",
+    "translation": "локація",
+    "type": "noun"
+  },
+  {
+    "word": "encaminar",
+    "translation": "направляти",
+    "type": "verb"
+  },
+  {
+    "word": "actualmente",
+    "translation": "зараз",
+    "type": "adverb"
+  },
+  {
+    "word": "maravillar",
+    "translation": "здивовувати",
+    "type": "verb"
+  },
+  {
+    "word": "duplicar",
+    "translation": "подвоювати",
+    "type": "verb"
+  },
+  {
+    "word": "asombrado",
+    "translation": "здивований",
+    "type": "adjective"
   }
 ];
