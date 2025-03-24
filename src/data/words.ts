@@ -7455,5 +7455,90 @@ export const words: Word[] = [
     "word": "asombrado",
     "translation": "здивований",
     "type": "adjective"
+  },
+  {
+    "word": "la playera",
+    "translation": "футболка",
+    "type": "noun"
+  },
+  {
+    "word": "el salario",
+    "translation": "зарплата",
+    "type": "noun"
+  },
+  {
+    "word": "el sueldo",
+    "translation": "зарплата",
+    "type": "noun"
+  },
+  {
+    "word": "la torre",
+    "translation": "вежа",
+    "type": "noun"
+  },
+  {
+    "word": "el cartero",
+    "translation": "листоноша",
+    "type": "noun"
+  },
+  {
+    "word": "lograr",
+    "translation": "мати змогу щось зробити",
+    "type": "verb"
+  },
+  {
+    "word": "sumar",
+    "translation": "додавати",
+    "type": "verb"
+  },
+  {
+    "word": "el recorrido",
+    "translation": "маршрут",
+    "type": "noun"
+  },
+  {
+    "word": "equipada",
+    "translation": "обладнана",
+    "type": "adjective"
+  },
+  {
+    "word": "los demas",
+    "translation": "інші",
+    "type": "noun"
+  },
+  {
+    "word": "marchar",
+    "translation": "йти",
+    "type": "verb"
+  },
+  {
+    "word": "el ambiente laboral",
+    "translation": "робоче середовище",
+    "type": "noun"
+  },
+  {
+    "word": "desempleada",
+    "translation": "безробітна",
+    "type": "adjective"
+  },
+  {
+    "word": "el curro",
+    "translation": "робота",
+    "type": "noun"
+  },
+  {
+    "word": "flipar",
+    "translation": "бути без тями від чогось",
+    "type": "verb"
+  },
+  {
+    "word": "la panceta",
+    "translation": "бекон",
+    "type": "noun"
+  },
+  {
+    "word": "la aceituna",
+    "translation": "оливка",
+    "type": "noun"
   }
 ];
