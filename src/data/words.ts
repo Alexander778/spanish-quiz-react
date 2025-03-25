@@ -7540,5 +7540,60 @@ export const words: Word[] = [
     "word": "la aceituna",
     "translation": "оливка",
     "type": "noun"
+  },
+  {
+    "word": "concurrido",
+    "translation": "переповнений",
+    "type": "adjective"
+  },
+  {
+    "word": "las palomitas",
+    "translation": "попкорн",
+    "type": "noun"
+  },
+  {
+    "word": "el conejo",
+    "translation": "кролик",
+    "type": "noun"
+  },
+  {
+    "word": "el golpe",
+    "translation": "удар",
+    "type": "noun"
+  },
+  {
+    "word": "acudir",
+    "translation": "звертатися",
+    "type": "verb"
+  },
+  {
+    "word": "receloso",
+    "translation": "підозрілий",
+    "type": "adjective"
+  },
+  {
+    "word": "el perfil",
+    "translation": "профіль",
+    "type": "noun"
+  },
+  {
+    "word": "urgente",
+    "translation": "невідкладний",
+    "type": "adjective"
+  },
+  {
+    "word": "el arandano",
+    "translation": "журавлина",
+    "type": "noun"
+  },
+  {
+    "word": "la carpeta",
+    "translation": "папка",
+    "type": "noun"
+  },
+  {
+    "word": "De casualidad",
+    "translation": "випадково",
+    "type": "phrase"
   }
 ];
