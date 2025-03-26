@@ -7595,5 +7595,90 @@ export const words: Word[] = [
     "word": "De casualidad",
     "translation": "випадково",
     "type": "phrase"
+  },
+  {
+    "word": "el tablon",
+    "translation": "дошка",
+    "type": "noun"
+  },
+  {
+    "word": "el semaforo",
+    "translation": "світлофор",
+    "type": "noun"
+  },
+  {
+    "word": "el caridad",
+    "translation": "благодійність",
+    "type": "noun"
+  },
+  {
+    "word": "el resquardo",
+    "translation": "чек",
+    "type": "noun"
+  },
+  {
+    "word": "la culpa",
+    "translation": "вина",
+    "type": "noun"
+  },
+  {
+    "word": "la feria",
+    "translation": "ярмарок",
+    "type": "noun"
+  },
+  {
+    "word": "recuperar",
+    "translation": "відновлювати",
+    "type": "verb"
+  },
+  {
+    "word": "En vez de",
+    "translation": "замість",
+    "type": "phrase"
+  },
+  {
+    "word": "aprender a",
+    "translation": "вчити щось робити",
+    "type": "phrase"
+  },
+  {
+    "word": "jugar a",
+    "translation": "грати щось",
+    "type": "phrase"
+  },
+  {
+    "word": "pasear por",
+    "translation": "гуляти через щось",
+    "type": "phrase"
+  },
+  {
+    "word": "esta preocupado por",
+    "translation": "хвилюватися через щось",
+    "type": "phrase"
+  },
+  {
+    "word": "ser aficionado a",
+    "translation": "бути прихильником чогось",
+    "type": "phrase"
+  },
+  {
+    "word": "los datos mobilares",
+    "translation": "мобільні дані",
+    "type": "noun"
+  },
+  {
+    "word": "la gemela",
+    "translation": "близнюк",
+    "type": "noun"
+  },
+  {
+    "word": "resistir",
+    "translation": "чинити опір",
+    "type": "verb"
+  },
+  {
+    "word": "celosa",
+    "translation": "ревнива",
+    "type": "adjective"
   }
 ];
