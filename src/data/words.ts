@@ -7680,5 +7680,190 @@ export const words: Word[] = [
     "word": "celosa",
     "translation": "ревнива",
     "type": "adjective"
+  },
+  {
+    "word": "la caña",
+    "translation": "пінта",
+    "type": "noun"
+  },
+  {
+    "word": "hospedar",
+    "translation": "приймати",
+    "type": "verb"
+  },
+  {
+    "word": "exquisita",
+    "translation": "вишукана",
+    "type": "adjective"
+  },
+  {
+    "word": "el sobro",
+    "translation": "ковток",
+    "type": "noun"
+  },
+  {
+    "word": "el magacín",
+    "translation": "журнал",
+    "type": "noun"
+  },
+  {
+    "word": "el desafío",
+    "translation": "виклик",
+    "type": "noun"
+  },
+  {
+    "word": "el espectador",
+    "translation": "глядач",
+    "type": "noun"
+  },
+  {
+    "word": "firmar",
+    "translation": "підписувати",
+    "type": "verb"
+  },
+  {
+    "word": "oller a",
+    "translation": "пахнути чимось",
+    "type": "verb"
+  },
+  {
+    "word": "el retraso",
+    "translation": "запізнення",
+    "type": "noun"
+  },
+  {
+    "word": "el insendio",
+    "translation": "пожежа",
+    "type": "noun"
+  },
+  {
+    "word": "entrecortada",
+    "translation": "переривчаста",
+    "type": "adjective"
+  },
+  {
+    "word": "trembloroso",
+    "translation": "тремтячий",
+    "type": "adjective"
+  },
+  {
+    "word": "extraño",
+    "translation": "дивний",
+    "type": "adjective"
+  },
+  {
+    "word": "el consultorio",
+    "translation": "консультація",
+    "type": "noun"
+  },
+  {
+    "word": "dar la impresion",
+    "translation": "складати враження",
+    "type": "verb"
+  },
+  {
+    "word": "iniciar",
+    "translation": "починати",
+    "type": "verb"
+  },
+  {
+    "word": "palido",
+    "translation": "блідий",
+    "type": "adjective"
+  },
+  {
+    "word": "mumurar",
+    "translation": "шептати",
+    "type": "verb"
+  },
+  {
+    "word": "la nausea",
+    "translation": "нудота",
+    "type": "noun"
+  },
+  {
+    "word": "sudar",
+    "translation": "потіти",
+    "type": "verb"
+  },
+  {
+    "word": "súbitamente",
+    "translation": "раптово",
+    "type": "adverb"
+  },
+  {
+    "word": "callar",
+    "translation": "мовчати",
+    "type": "verb"
+  },
+  {
+    "word": "en sintoma",
+    "translation": "симптом",
+    "type": "noun"
+  },
+  {
+    "word": "la remera",
+    "translation": "футболка",
+    "type": "noun"
+  },
+  {
+    "word": "descartar",
+    "translation": "відкидати",
+    "type": "verb"
+  },
+  {
+    "word": "interrumper",
+    "translation": "переривати",
+    "type": "verb"
+  },
+  {
+    "word": "aliviado",
+    "translation": "полегшений",
+    "type": "adjective"
+  },
+  {
+    "word": "el higado",
+    "translation": "печінка",
+    "type": "noun"
+  },
+  {
+    "word": "estar enamorado de",
+    "translation": "бути закоханим в",
+    "type": "verb"
+  },
+  {
+    "word": "el hierro",
+    "translation": "залізо",
+    "type": "noun"
+  },
+  {
+    "word": "la rinoceronte",
+    "translation": "носоріг",
+    "type": "noun"
+  },
+  {
+    "word": "el estante",
+    "translation": "полиця",
+    "type": "noun"
+  },
+  {
+    "word": "colocar",
+    "translation": "встановлювати",
+    "type": "verb"
+  },
+  {
+    "word": "la rana",
+    "translation": "жаба",
+    "type": "noun"
+  },
+  {
+    "word": "el erizo",
+    "translation": "їжак",
+    "type": "noun"
+  },
+  {
+    "word": "la pesadilla",
+    "translation": "кошмар",
+    "type": "noun"
   }
 ];
