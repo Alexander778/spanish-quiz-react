@@ -7865,5 +7865,60 @@ export const words: Word[] = [
     "word": "la pesadilla",
     "translation": "кошмар",
     "type": "noun"
+  },
+  {
+    "word": "comunicar",
+    "translation": "комінікувати",
+    "type": "verb"
+  },
+  {
+    "word": "oprimir",
+    "translation": "натискати",
+    "type": "verb"
+  },
+  {
+    "word": "cargar",
+    "translation": "тягти",
+    "type": "verb"
+  },
+  {
+    "word": "contar",
+    "translation": "рахувати",
+    "type": "verb"
+  },
+  {
+    "word": "el empeño",
+    "translation": "зобов'язання",
+    "type": "noun"
+  },
+  {
+    "word": "el ejercito",
+    "translation": "армія",
+    "type": "noun"
+  },
+  {
+    "word": "tejer",
+    "translation": "в'язати",
+    "type": "verb"
+  },
+  {
+    "word": "el chaleco",
+    "translation": "жилет",
+    "type": "noun"
+  },
+  {
+    "word": "aclarar",
+    "translation": "уточняти",
+    "type": "verb"
+  },
+  {
+    "word": "los parientes",
+    "translation": "родичі",
+    "type": "noun"
+  },
+  {
+    "word": "imitar",
+    "translation": "імітувати",
+    "type": "verb"
   }
 ];
