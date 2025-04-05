@@ -7920,5 +7920,65 @@ export const words: Word[] = [
     "word": "imitar",
     "translation": "імітувати",
     "type": "verb"
+  },
+  {
+    "word": "la inteligencia artificial",
+    "translation": "штучний інтелект",
+    "type": "noun"
+  },
+  {
+    "word": "el robot",
+    "translation": "робот",
+    "type": "noun"
+  },
+  {
+    "word": "la automatización",
+    "translation": "автоматизація",
+    "type": "noun"
+  },
+  {
+    "word": "el internet de las cosas",
+    "translation": "інтернет речей",
+    "type": "noun"
+  },
+  {
+    "word": "la realidad virtual",
+    "translation": "віртуальна реальність",
+    "type": "noun"
+  },
+  {
+    "word": "la realidad aumentada",
+    "translation": "доповнена реальність",
+    "type": "noun"
+  },
+  {
+    "word": "el aprendizaje automático",
+    "translation": "машинне навчання",
+    "type": "noun"
+  },
+  {
+    "word": "el drone",
+    "translation": "дрон",
+    "type": "noun"
+  },
+  {
+    "word": "el teletransporte",
+    "translation": "телепортація",
+    "type": "noun"
+  },
+  {
+    "word": "la banca digital",
+    "translation": "цифровий банкінг",
+    "type": "noun"
+  },
+  {
+    "word": "la ciberseguridad",
+    "translation": "кібербезпека",
+    "type": "noun"
+  },
+  {
+    "word": "el trabajo remoto",
+    "translation": "віддалена робота",
+    "type": "noun"
   }
 ];
