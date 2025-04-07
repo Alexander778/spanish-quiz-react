@@ -7980,5 +7980,50 @@ export const words: Word[] = [
     "word": "el trabajo remoto",
     "translation": "віддалена робота",
     "type": "noun"
+  },
+  {
+    "word": "el atascos",
+    "translation": "пробка",
+    "type": "noun"
+  },
+  {
+    "word": "la cuestion",
+    "translation": "питання",
+    "type": "noun"
+  },
+  {
+    "word": "el mando",
+    "translation": "пульт",
+    "type": "noun"
+  },
+  {
+    "word": "confiar",
+    "translation": "бути впевненим",
+    "type": "verb"
+  },
+  {
+    "word": "el violencia",
+    "translation": "насильство",
+    "type": "noun"
+  },
+  {
+    "word": "deslumbar",
+    "translation": "осліплювати",
+    "type": "verb"
+  },
+  {
+    "word": "estopear",
+    "translation": "зламати",
+    "type": "verb"
+  },
+  {
+    "word": "la crueldad",
+    "translation": "жорстокість",
+    "type": "noun"
+  },
+  {
+    "word": "la lema",
+    "translation": "девіз",
+    "type": "noun"
   }
 ];
