@@ -8025,5 +8025,30 @@ export const words: Word[] = [
     "word": "la lema",
     "translation": "девіз",
     "type": "noun"
+  },
+  {
+    "word": "respetar",
+    "translation": "поважати",
+    "type": "verb"
+  },
+  {
+    "word": "la canasta",
+    "translation": "кошик",
+    "type": "noun"
+  },
+  {
+    "word": "criar",
+    "translation": "виховувати",
+    "type": "verb"
+  },
+  {
+    "word": "echar la culpa",
+    "translation": "звинувачувати",
+    "type": "verb"
+  },
+  {
+    "word": "evidente",
+    "translation": "очевидний",
+    "type": "adverb"
   }
 ];
