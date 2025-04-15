@@ -8050,5 +8050,80 @@ export const words: Word[] = [
     "word": "evidente",
     "translation": "очевидний",
     "type": "adverb"
+  },
+  {
+    "word": "besar",
+    "translation": "цілувати",
+    "type": "verb"
+  },
+  {
+    "word": "suceder",
+    "translation": "відбуватися",
+    "type": "verb"
+  },
+  {
+    "word": "borracha",
+    "translation": "п'яна",
+    "type": "adjective"
+  },
+  {
+    "word": "alojarse",
+    "translation": "розміщуватися",
+    "type": "verb"
+  },
+  {
+    "word": "En los ultimos dias",
+    "translation": "в останні дні",
+    "type": "phrase"
+  },
+  {
+    "word": "el requisito",
+    "translation": "вимога",
+    "type": "noun"
+  },
+  {
+    "word": "la pandilla",
+    "translation": "банда",
+    "type": "noun"
+  },
+  {
+    "word": "el estado",
+    "translation": "стан",
+    "type": "noun"
+  },
+  {
+    "word": "el glaciar",
+    "translation": "айсберг",
+    "type": "noun"
+  },
+  {
+    "word": "la estansia",
+    "translation": "перебування",
+    "type": "noun"
+  },
+  {
+    "word": "conveniente",
+    "translation": "зручний",
+    "type": "adjective"
+  },
+  {
+    "word": "el ayntamiento",
+    "translation": "мерія",
+    "type": "noun"
+  },
+  {
+    "word": "el propietario",
+    "translation": "власник",
+    "type": "noun"
+  },
+  {
+    "word": "el insecto",
+    "translation": "комаха",
+    "type": "noun"
+  },
+  {
+    "word": "el gusano",
+    "translation": "черв",
+    "type": "noun"
   }
 ];
