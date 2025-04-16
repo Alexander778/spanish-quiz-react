@@ -8125,5 +8125,55 @@ export const words: Word[] = [
     "word": "el gusano",
     "translation": "черв",
     "type": "noun"
+  },
+  {
+    "word": "la confianza",
+    "translation": "досвід",
+    "type": "noun"
+  },
+  {
+    "word": "Me estas vacilando",
+    "translation": "мені не віриться",
+    "type": "phrase"
+  },
+  {
+    "word": "poderoso",
+    "translation": "потужний",
+    "type": "adjective"
+  },
+  {
+    "word": "actuar",
+    "translation": "діяти",
+    "type": "verb"
+  },
+  {
+    "word": "hondo",
+    "translation": "глибокий",
+    "type": "adjective"
+  },
+  {
+    "word": "con torpeza",
+    "translation": "незграбно",
+    "type": "adverb"
+  },
+  {
+    "word": "volcar",
+    "translation": "перевернути",
+    "type": "verb"
+  },
+  {
+    "word": "el chorro",
+    "translation": "струмінь",
+    "type": "noun"
+  },
+  {
+    "word": "avergonzada",
+    "translation": "сором'язлива",
+    "type": "adjective"
+  },
+  {
+    "word": "el cumplido",
+    "translation": "комплімент",
+    "type": "noun"
   }
 ];
