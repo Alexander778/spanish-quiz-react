@@ -8175,5 +8175,195 @@ export const words: Word[] = [
     "word": "el cumplido",
     "translation": "комплімент",
     "type": "noun"
+  },
+  {
+    "word": "el conjunto",
+    "translation": "комплект",
+    "type": "noun"
+  },
+  {
+    "word": "la indumentaria",
+    "translation": "одяг",
+    "type": "noun"
+  },
+  {
+    "word": "el par",
+    "translation": "пара",
+    "type": "noun"
+  },
+  {
+    "word": "el calzado",
+    "translation": "взуття",
+    "type": "noun"
+  },
+  {
+    "word": "en efectivo",
+    "translation": "готівкою",
+    "type": "phrase"
+  },
+  {
+    "word": "aplaudir",
+    "translation": "аплодувати",
+    "type": "verb"
+  },
+  {
+    "word": "el silbido",
+    "translation": "свист",
+    "type": "noun"
+  },
+  {
+    "word": "fuera de mi presupuesto",
+    "translation": "поза моїм бюджетом",
+    "type": "phrase"
+  },
+  {
+    "word": "el fin",
+    "translation": "кінець",
+    "type": "noun"
+  },
+  {
+    "word": "el chaval",
+    "translation": "дитина",
+    "type": "noun"
+  },
+  {
+    "word": "trasero",
+    "translation": "задній",
+    "type": "adjective"
+  },
+  {
+    "word": "amigable",
+    "translation": "дружелюбний",
+    "type": "adjective"
+  },
+  {
+    "word": "contagiosa",
+    "translation": "заразний",
+    "type": "adjective"
+  },
+  {
+    "word": "la cata",
+    "translation": "дегустація",
+    "type": "noun"
+  },
+  {
+    "word": "la eleccion",
+    "translation": "вибір",
+    "type": "noun"
+  },
+  {
+    "word": "la seña",
+    "translation": "знак",
+    "type": "noun"
+  },
+  {
+    "word": "discreta",
+    "translation": "обережна",
+    "type": "adjective"
+  },
+  {
+    "word": "hacer caso",
+    "translation": "звертати увагу",
+    "type": "verb"
+  },
+  {
+    "word": "la autopista",
+    "translation": "автострада",
+    "type": "noun"
+  },
+  {
+    "word": "desierta",
+    "translation": "безлюдна",
+    "type": "adjective"
+  },
+  {
+    "word": "vacio",
+    "translation": "порожній",
+    "type": "adjective"
+  },
+  {
+    "word": "el risco",
+    "translation": "скеля",
+    "type": "noun"
+  },
+  {
+    "word": "ensuciar",
+    "translation": "забруднювати",
+    "type": "verb"
+  },
+  {
+    "word": "la batalla",
+    "translation": "битва",
+    "type": "noun"
+  },
+  {
+    "word": "el escenario",
+    "translation": "сцена",
+    "type": "noun"
+  },
+  {
+    "word": "impactante",
+    "translation": "вражаючий",
+    "type": "adjective"
+  },
+  {
+    "word": "la jarra",
+    "translation": "глечик",
+    "type": "noun"
+  },
+  {
+    "word": "arrojar",
+    "translation": "кидати",
+    "type": "verb"
+  },
+  {
+    "word": "la escudilla",
+    "translation": "миска",
+    "type": "noun"
+  },
+  {
+    "word": "el pañuelo",
+    "translation": "носовий платок",
+    "type": "noun"
+  },
+  {
+    "word": "el altavoce",
+    "translation": "гучномовець",
+    "type": "noun"
+  },
+  {
+    "word": "derramar",
+    "translation": "проливати",
+    "type": "verb"
+  },
+  {
+    "word": "el barro",
+    "translation": "глина",
+    "type": "noun"
+  },
+  {
+    "word": "pagajoso",
+    "translation": "клейкий",
+    "type": "adjective"
+  },
+  {
+    "word": "el baldazo",
+    "translation": "відро",
+    "type": "noun"
+  },
+  {
+    "word": "arruinar",
+    "translation": "руйнувати",
+    "type": "verb"
+  },
+  {
+    "word": "agregar",
+    "translation": "додавати",
+    "type": "verb"
+  },
+  {
+    "word": "desatar",
+    "translation": "розв'язувати",
+    "type": "verb"
   }
 ];
