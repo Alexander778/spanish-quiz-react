@@ -8365,5 +8365,85 @@ export const words: Word[] = [
     "word": "desatar",
     "translation": "розв'язувати",
     "type": "verb"
+  },
+  {
+    "word": "el distrito",
+    "translation": "район",
+    "type": "noun"
+  },
+  {
+    "word": "el poblacion",
+    "translation": "населення",
+    "type": "noun"
+  },
+  {
+    "word": "el vecindario",
+    "translation": "район",
+    "type": "noun"
+  },
+  {
+    "word": "la encuesta",
+    "translation": "опитування",
+    "type": "noun"
+  },
+  {
+    "word": "el encuestado",
+    "translation": "респондент опитування",
+    "type": "noun"
+  },
+  {
+    "word": "fiable",
+    "translation": "надійний",
+    "type": "adjective"
+  },
+  {
+    "word": "el rodaje",
+    "translation": "зйомка",
+    "type": "noun"
+  },
+  {
+    "word": "rescatar",
+    "translation": "рятувати",
+    "type": "verb"
+  },
+  {
+    "word": "la garza",
+    "translation": "чапля",
+    "type": "noun"
+  },
+  {
+    "word": "el zorro",
+    "translation": "лисиця",
+    "type": "noun"
+  },
+  {
+    "word": "el buitre",
+    "translation": "бобер",
+    "type": "noun"
+  },
+  {
+    "word": "el cíguila",
+    "translation": "орел",
+    "type": "noun"
+  },
+  {
+    "word": "impactar",
+    "translation": "впливати",
+    "type": "verb"
+  },
+  {
+    "word": "el techo",
+    "translation": "дах",
+    "type": "noun"
+  },
+  {
+    "word": "la simpatía",
+    "translation": "симпатія",
+    "type": "noun"
+  },
+  {
+    "word": "el complejo",
+    "translation": "комплекс",
+    "type": "noun"
   }
 ];
