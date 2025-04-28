@@ -8445,5 +8445,70 @@ export const words: Word[] = [
     "word": "el complejo",
     "translation": "комплекс",
     "type": "noun"
+  },
+  {
+    "word": "la mida",
+    "translation": "зріст",
+    "type": "noun"
+  },
+  {
+    "word": "los trucos",
+    "translation": "фокуси",
+    "type": "noun"
+  },
+  {
+    "word": "aseguar",
+    "translation": "забезпечувати",
+    "type": "verb"
+  },
+  {
+    "word": "asegurarse",
+    "translation": "забезпечувати себе",
+    "type": "verb"
+  },
+  {
+    "word": "la rapidez",
+    "translation": "швидкість",
+    "type": "noun"
+  },
+  {
+    "word": "espiar",
+    "translation": "шпигувати",
+    "type": "verb"
+  },
+  {
+    "word": "secar",
+    "translation": "сушити",
+    "type": "verb"
+  },
+  {
+    "word": "el sobre",
+    "translation": "конверт",
+    "type": "noun"
+  },
+  {
+    "word": "la cola",
+    "translation": "черга",
+    "type": "noun"
+  },
+  {
+    "word": "facturar",
+    "translation": "реєструвати",
+    "type": "verb"
+  },
+  {
+    "word": "la ternura",
+    "translation": "ніжність",
+    "type": "noun"
+  },
+  {
+    "word": "el rumbo",
+    "translation": "курс",
+    "type": "noun"
+  },
+  {
+    "word": "la verguenza",
+    "translation": "сором",
+    "type": "adjective"
   }
 ];
