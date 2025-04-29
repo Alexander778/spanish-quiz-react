@@ -8510,5 +8510,45 @@ export const words: Word[] = [
     "word": "la verguenza",
     "translation": "сором",
     "type": "adjective"
+  },
+  {
+    "word": "el camion",
+    "translation": "вантажівка",
+    "type": "noun"
+  },
+  {
+    "word": "el alcaldo",
+    "translation": "мер",
+    "type": "noun"
+  },
+  {
+    "word": "hace poco tiempo",
+    "translation": "недавно",
+    "type": "phrase"
+  },
+  {
+    "word": "muy pocos veces",
+    "translation": "дуже рідко",
+    "type": "phrase"
+  },
+  {
+    "word": "verdaderamente",
+    "translation": "насправді",
+    "type": "adverb"
+  },
+  {
+    "word": "la matricula",
+    "translation": "реєстрація",
+    "type": "noun"
+  },
+  {
+    "word": "gratis",
+    "translation": "безкоштовно",
+    "type": "adverb"
+  },
+  {
+    "word": "la taquilla",
+    "translation": "каса",
+    "type": "noun"
   }
 ];
