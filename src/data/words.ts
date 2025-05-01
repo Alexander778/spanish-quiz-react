@@ -8550,5 +8550,75 @@ export const words: Word[] = [
     "word": "la taquilla",
     "translation": "каса",
     "type": "noun"
+  },
+  {
+    "word": "la criatura",
+    "translation": "істота",
+    "type": "noun"
+  },
+  {
+    "word": "el lago",
+    "translation": "озеро",
+    "type": "noun"
+  },
+  {
+    "word": "empacar",
+    "translation": "упаковувати",
+    "type": "verb"
+  },
+  {
+    "word": "la caminata",
+    "translation": "прогулянка",
+    "type": "noun"
+  },
+  {
+    "word": "el cruce",
+    "translation": "перехрестя",
+    "type": "noun"
+  },
+  {
+    "word": "la leyenda",
+    "translation": "легенда",
+    "type": "noun"
+  },
+  {
+    "word": "peludo",
+    "translation": "пухнастий",
+    "type": "adjective"
+  },
+  {
+    "word": "estrecho",
+    "translation": "вузький",
+    "type": "adjective"
+  },
+  {
+    "word": "rodear",
+    "translation": "оточувати",
+    "type": "verb"
+  },
+  {
+    "word": "la orilla",
+    "translation": "берег",
+    "type": "noun"
+  },
+  {
+    "word": "el remo",
+    "translation": "весло",
+    "type": "noun"
+  },
+  {
+    "word": "la huella",
+    "translation": "слід",
+    "type": "noun"
+  },
+  {
+    "word": "el oso",
+    "translation": "ведмідь",
+    "type": "noun"
+  },
+  {
+    "word": "gruñir",
+    "translation": "гарчати",
+    "type": "verb"
   }
 ];
