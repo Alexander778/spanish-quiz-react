@@ -8620,5 +8620,105 @@ export const words: Word[] = [
     "word": "gruñir",
     "translation": "гарчати",
     "type": "verb"
+  },
+  {
+    "word": "la arboleda",
+    "translation": "гай",
+    "type": "noun"
+  },
+  {
+    "word": "el señar",
+    "translation": "знак",
+    "type": "noun"
+  },
+  {
+    "word": "la oscuridad",
+    "translation": "темрява",
+    "type": "noun"
+  },
+  {
+    "word": "patalear",
+    "translation": "копати",
+    "type": "verb"
+  },
+  {
+    "word": "el reino",
+    "translation": "королівство",
+    "type": "noun"
+  },
+  {
+    "word": "el caballero",
+    "translation": "лицар",
+    "type": "noun"
+  },
+  {
+    "word": "el tendero",
+    "translation": "продавець",
+    "type": "noun"
+  },
+  {
+    "word": "luchar",
+    "translation": "боротися",
+    "type": "verb"
+  },
+  {
+    "word": "retrodecer",
+    "translation": "відступати",
+    "type": "verb"
+  },
+  {
+    "word": "el sello",
+    "translation": "печать",
+    "type": "noun"
+  },
+  {
+    "word": "la piedra",
+    "translation": "камінь",
+    "type": "noun"
+  },
+  {
+    "word": "traicionar",
+    "translation": "зраджувати",
+    "type": "verb"
+  },
+  {
+    "word": "el cargamento",
+    "translation": "вантаж",
+    "type": "noun"
+  },
+  {
+    "word": "la advertesia",
+    "translation": "попередження",
+    "type": "noun"
+  },
+  {
+    "word": "avanzar",
+    "translation": " просуватися вперед",
+    "type": "verb"
+  },
+  {
+    "word": "el lucha",
+    "translation": "боротьба",
+    "type": "noun"
+  },
+  {
+    "word": "la fuente",
+    "translation": "джерело",
+    "type": "noun"
+  },
+  {
+    "word": "el poder",
+    "translation": "влада",
+    "type": "noun"
+  },
+  {
+    "word": "poseer",
+    "translation": "володіти",
+    "type": "verb"
+  },
+  {
+    "word": "el paz",
+    "translation": "мир",
+    "type": "noun"
   }
 ];
