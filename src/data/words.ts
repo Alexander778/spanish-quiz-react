@@ -8720,5 +8720,150 @@ export const words: Word[] = [
     "word": "el paz",
     "translation": "мир",
     "type": "noun"
+  },
+  {
+    "word": "la ladera",
+    "translation": "схил",
+    "type": "noun"
+  },
+  {
+    "word": "la hierba",
+    "translation": "трава",
+    "type": "noun"
+  },
+  {
+    "word": "el riachuelo",
+    "translation": "струмок",
+    "type": "noun"
+  },
+  {
+    "word": "la campesino",
+    "translation": "селянин",
+    "type": "noun"
+  },
+  {
+    "word": "labrar",
+    "translation": "обробляти землю",
+    "type": "verb"
+  },
+  {
+    "word": "la cosecha",
+    "translation": "урожай",
+    "type": "noun"
+  },
+  {
+    "word": "alimentar",
+    "translation": "годувати",
+    "type": "verb"
+  },
+  {
+    "word": "noble",
+    "translation": "благородний",
+    "type": "adjective"
+  },
+  {
+    "word": "marinar",
+    "translation": "маринувати",
+    "type": "verb"
+  },
+  {
+    "word": "el plátano",
+    "translation": "банан",
+    "type": "noun"
+  },
+  {
+    "word": "la lechuga",
+    "translation": "салат",
+    "type": "noun"
+  },
+  {
+    "word": "el pimiento",
+    "translation": "болгарський перець",
+    "type": "noun"
+  },
+  {
+    "word": "el coliflor",
+    "translation": "цвітна капуста",
+    "type": "noun"
+  },
+  {
+    "word": "trasmitir",
+    "translation": "передавати",
+    "type": "verb"
+  },
+  {
+    "word": "añadir",
+    "translation": "додавати",
+    "type": "verb"
+  },
+  {
+    "word": "guisar",
+    "translation": "тушкувати мя'со",
+    "type": "verb"
+  },
+  {
+    "word": "hornear",
+    "translation": "запікати",
+    "type": "verb"
+  },
+  {
+    "word": "trocear",
+    "translation": "нарізати",
+    "type": "verb"
+  },
+  {
+    "word": "picar",
+    "translation": "різати",
+    "type": "verb"
+  },
+  {
+    "word": "machacar",
+    "translation": "розтирати",
+    "type": "verb"
+  },
+  {
+    "word": "cocer",
+    "translation": "варити",
+    "type": "verb"
+  },
+  {
+    "word": "la pera",
+    "translation": "груша",
+    "type": "noun"
+  },
+  {
+    "word": "el melocotón",
+    "translation": "персик",
+    "type": "noun"
+  },
+  {
+    "word": "la judias verdes",
+    "translation": "зелений горох",
+    "type": "noun"
+  },
+  {
+    "word": "la aguacate",
+    "translation": "авокадо",
+    "type": "noun"
+  },
+  {
+    "word": "la lima",
+    "translation": "лайм",
+    "type": "noun"
+  },
+  {
+    "word": "En resume",
+    "translation": "підсумовуючи",
+    "type": "phrase"
+  },
+  {
+    "word": "la menestra",
+    "translation": "овочеве рагу",
+    "type": "noun"
+  },
+  {
+    "word": "la ternera",
+    "translation": "яловичина",
+    "type": "noun"
   }
 ];
