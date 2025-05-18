@@ -8865,5 +8865,345 @@ export const words: Word[] = [
     "word": "la ternera",
     "translation": "яловичина",
     "type": "noun"
+  },
+  {
+    "word": "la remolacha",
+    "translation": "буряк",
+    "type": "noun"
+  },
+  {
+    "word": "el perejil",
+    "translation": "петрушка",
+    "type": "noun"
+  },
+  {
+    "word": "el eneldo",
+    "translation": "кріп",
+    "type": "noun"
+  },
+  {
+    "word": "el rábano",
+    "translation": "редис",
+    "type": "noun"
+  },
+  {
+    "word": "el rábano picante",
+    "translation": "хрін",
+    "type": "noun"
+  },
+  {
+    "word": "en vex de",
+    "translation": "замість",
+    "type": "phrase"
+  },
+  {
+    "word": "el socio",
+    "translation": "член",
+    "type": "adjective"
+  },
+  {
+    "word": "el valor",
+    "translation": "вартість",
+    "type": "noun"
+  },
+  {
+    "word": "la cuna",
+    "translation": "колиска",
+    "type": "noun"
+  },
+  {
+    "word": "dispuesto",
+    "translation": "готовий",
+    "type": "adjective"
+  },
+  {
+    "word": "la gamba",
+    "translation": "креветка",
+    "type": "noun"
+  },
+  {
+    "word": "el brécol",
+    "translation": "броколі",
+    "type": "noun"
+  },
+  {
+    "word": "el jengibre",
+    "translation": "імбир",
+    "type": "noun"
+  },
+  {
+    "word": "la cereza",
+    "translation": "черешня",
+    "type": "noun"
+  },
+  {
+    "word": "la ciruela",
+    "translation": "вишня",
+    "type": "noun"
+  },
+  {
+    "word": "el arándano",
+    "translation": "чорниця",
+    "type": "noun"
+  },
+  {
+    "word": "la nuez",
+    "translation": "грецький горіх",
+    "type": "noun"
+  },
+  {
+    "word": "la avellana",
+    "translation": "лісовий горіх",
+    "type": "noun"
+  },
+  {
+    "word": "la almendra",
+    "translation": "мигдаль",
+    "type": "noun"
+  },
+  {
+    "word": "el cacahuete",
+    "translation": "арахіс",
+    "type": "noun"
+  },
+  {
+    "word": "el orejón",
+    "translation": "курага",
+    "type": "noun"
+  },
+  {
+    "word": "el merengue",
+    "translation": "безе",
+    "type": "noun"
+  },
+  {
+    "word": "el bizcocho",
+    "translation": "бісквіт",
+    "type": "noun"
+  },
+  {
+    "word": "la madalena",
+    "translation": "кекс",
+    "type": "noun"
+  },
+  {
+    "word": "el pato",
+    "translation": "качка",
+    "type": "noun"
+  },
+  {
+    "word": "el solomillo",
+    "translation": "шинка",
+    "type": "noun"
+  },
+  {
+    "word": "la trucha",
+    "translation": "форель",
+    "type": "noun"
+  },
+  {
+    "word": "el bacalao",
+    "translation": "тріска",
+    "type": "noun"
+  },
+  {
+    "word": "la lubina",
+    "translation": "окунь",
+    "type": "noun"
+  },
+  {
+    "word": "el besugo",
+    "translation": "лящ",
+    "type": "noun"
+  },
+  {
+    "word": "el arenque",
+    "translation": "оселедець",
+    "type": "noun"
+  },
+  {
+    "word": "el mejillón",
+    "translation": "мідія",
+    "type": "noun"
+  },
+  {
+    "word": "el boquerón",
+    "translation": "анчоус",
+    "type": "noun"
+  },
+  {
+    "word": "la ostra",
+    "translation": "устриця",
+    "type": "noun"
+  },
+  {
+    "word": "el calamar",
+    "translation": "кальмар",
+    "type": "noun"
+  },
+  {
+    "word": "el cangrejo de río",
+    "translation": "раки",
+    "type": "noun"
+  },
+  {
+    "word": "el chorizo",
+    "translation": "ковбаса",
+    "type": "noun"
+  },
+  {
+    "word": "la salchicha",
+    "translation": "сосиска",
+    "type": "noun"
+  },
+  {
+    "word": "las setas",
+    "translation": "гриби",
+    "type": "noun"
+  },
+  {
+    "word": "los champiñones",
+    "translation": "шампіньйони",
+    "type": "noun"
+  },
+  {
+    "word": "la nata",
+    "translation": "вершки",
+    "type": "noun"
+  },
+  {
+    "word": "el quesito",
+    "translation": "плавлений сирок",
+    "type": "noun"
+  },
+  {
+    "word": "ahumado",
+    "translation": "копчений",
+    "type": "adjective"
+  },
+  {
+    "word": "congelado",
+    "translation": "заморожений",
+    "type": "adjective"
+  },
+  {
+    "word": "podrido",
+    "translation": "гнилий",
+    "type": "adjective"
+  },
+  {
+    "word": "dulce",
+    "translation": "солодкий",
+    "type": "adjective"
+  },
+  {
+    "word": "salado",
+    "translation": "солоний",
+    "type": "adjective"
+  },
+  {
+    "word": "amargo",
+    "translation": "гіркий",
+    "type": "adjective"
+  },
+  {
+    "word": "crujiente",
+    "translation": "хрусткий",
+    "type": "adjective"
+  },
+  {
+    "word": "jugoso",
+    "translation": "соковитий",
+    "type": "adjective"
+  },
+  {
+    "word": "graso",
+    "translation": "жирний",
+    "type": "adjective"
+  },
+  {
+    "word": "enfriar",
+    "translation": "охолоджувати",
+    "type": "verb"
+  },
+  {
+    "word": "tamizar",
+    "translation": "просіювати",
+    "type": "verb"
+  },
+  {
+    "word": "exprimir",
+    "translation": "вичавлювати",
+    "type": "verb"
+  },
+  {
+    "word": "mezclar",
+    "translation": "змішувати",
+    "type": "verb"
+  },
+  {
+    "word": "el caldo",
+    "translation": "бульйон",
+    "type": "noun"
+  },
+  {
+    "word": "el vinagre",
+    "translation": "оцет",
+    "type": "noun"
+  },
+  {
+    "word": "el azafrán",
+    "translation": "шафран",
+    "type": "noun"
+  },
+  {
+    "word": "cuidar la alimentación",
+    "translation": "дбати про харчування",
+    "type": "verb"
+  },
+  {
+    "word": "el colorante",
+    "translation": "барвник",
+    "type": "noun"
+  },
+  {
+    "word": "mantenerse en forma",
+    "translation": "тримати себе у формі",
+    "type": "verb"
+  },
+  {
+    "word": "los alimentos ricos en proteinas",
+    "translation": "продукти багаті на білки",
+    "type": "noun"
+  },
+  {
+    "word": "equilibrado",
+    "translation": "збалансований",
+    "type": "adjective"
+  },
+  {
+    "word": "el colesterol",
+    "translation": "холестерин",
+    "type": "noun"
+  },
+  {
+    "word": "predominar",
+    "translation": "переважати",
+    "type": "verb"
+  },
+  {
+    "word": "emborracharse",
+    "translation": "п'яніти",
+    "type": "verb"
+  },
+  {
+    "word": "tener resaca",
+    "translation": "мати похмілля",
+    "type": "verb"
+  },
+  {
+    "word": "a continuación",
+    "translation": "далі",
+    "type": "phrase"
   }
 ];
