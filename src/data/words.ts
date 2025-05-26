@@ -9205,5 +9205,160 @@ export const words: Word[] = [
     "word": "a continuación",
     "translation": "далі",
     "type": "phrase"
+  },
+  {
+    "word": "proteger",
+    "translation": "захищати",
+    "type": "verb"
+  },
+  {
+    "word": "fabricar",
+    "translation": "виготовляти",
+    "type": "verb"
+  },
+  {
+    "word": "funcionar",
+    "translation": "працювати",
+    "type": "verb"
+  },
+  {
+    "word": "promover",
+    "translation": "спонукати",
+    "type": "verb"
+  },
+  {
+    "word": "arreglar",
+    "translation": "виправляти",
+    "type": "verb"
+  },
+  {
+    "word": "el encargo",
+    "translation": "замовлення",
+    "type": "noun"
+  },
+  {
+    "word": "estirar",
+    "translation": "тягнути",
+    "type": "verb"
+  },
+  {
+    "word": "detenidamente",
+    "translation": "уважно",
+    "type": "adverb"
+  },
+  {
+    "word": "la pieza",
+    "translation": "деталь",
+    "type": "noun"
+  },
+  {
+    "word": "tener sentido",
+    "translation": "мати сенс",
+    "type": "verb"
+  },
+  {
+    "word": "la arena",
+    "translation": "пісок",
+    "type": "noun"
+  },
+  {
+    "word": "profunda",
+    "translation": "глибокий",
+    "type": "adjective"
+  },
+  {
+    "word": "empujar",
+    "translation": "штовхати",
+    "type": "verb"
+  },
+  {
+    "word": "el aspecto",
+    "translation": "зовнішній вигляд",
+    "type": "noun"
+  },
+  {
+    "word": "la resposteria",
+    "translation": "кондитерська",
+    "type": "noun"
+  },
+  {
+    "word": "inusual",
+    "translation": "незвичайний",
+    "type": "adjective"
+  },
+  {
+    "word": "el turrón",
+    "translation": "нуга",
+    "type": "noun"
+  },
+  {
+    "word": "la rosquilla",
+    "translation": "пончик",
+    "type": "noun"
+  },
+  {
+    "word": "el hojaldre",
+    "translation": "листкове тісто",
+    "type": "noun"
+  },
+  {
+    "word": "vincular",
+    "translation": "пов'язувати",
+    "type": "verb"
+  },
+  {
+    "word": "destacar",
+    "translation": "виділятися",
+    "type": "verb"
+  },
+  {
+    "word": "el buñuelo",
+    "translation": "оладка",
+    "type": "noun"
+  },
+  {
+    "word": "la natilla",
+    "translation": "заварний крем",
+    "type": "noun"
+  },
+  {
+    "word": "la digestion",
+    "translation": "перетравлення",
+    "type": "noun"
+  },
+  {
+    "word": "el riesgo",
+    "translation": "ризик",
+    "type": "noun"
+  },
+  {
+    "word": "la calidad",
+    "translation": "якість",
+    "type": "noun"
+  },
+  {
+    "word": "el aderezo",
+    "translation": "приправа",
+    "type": "noun"
+  },
+  {
+    "word": "el cuento",
+    "translation": "казка",
+    "type": "noun"
+  },
+  {
+    "word": "pensativo",
+    "translation": "замислений",
+    "type": "adjective"
+  },
+  {
+    "word": "el avance",
+    "translation": "прогрес",
+    "type": "noun"
+  },
+  {
+    "word": "sugerir",
+    "translation": "з'являтися",
+    "type": "verb"
   }
 ];
