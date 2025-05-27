@@ -9360,5 +9360,35 @@ export const words: Word[] = [
     "word": "sugerir",
     "translation": "з'являтися",
     "type": "verb"
+  },
+  {
+    "word": "el cañone",
+    "translation": "гармата",
+    "type": "noun"
+  },
+  {
+    "word": "el timón",
+    "translation": "кермо",
+    "type": "noun"
+  },
+  {
+    "word": "el recelo",
+    "translation": "підозра",
+    "type": "noun"
+  },
+  {
+    "word": "disparar",
+    "translation": "стріляти",
+    "type": "verb"
+  },
+  {
+    "word": "abalanzarse",
+    "translation": "кинутися",
+    "type": "verb"
+  },
+  {
+    "word": "destruir",
+    "translation": "знищувати",
+    "type": "verb"
   }
 ];
