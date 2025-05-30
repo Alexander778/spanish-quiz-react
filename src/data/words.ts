@@ -9390,5 +9390,75 @@ export const words: Word[] = [
     "word": "destruir",
     "translation": "знищувати",
     "type": "verb"
+  },
+  {
+    "word": "afrontar",
+    "translation": "стикатися",
+    "type": "verb"
+  },
+  {
+    "word": "el menaje",
+    "translation": "поведінка",
+    "type": "noun"
+  },
+  {
+    "word": "el cofre",
+    "translation": "скриня",
+    "type": "noun"
+  },
+  {
+    "word": "el juventud",
+    "translation": "юність",
+    "type": "noun"
+  },
+  {
+    "word": "el candado",
+    "translation": "підвісний замок",
+    "type": "noun"
+  },
+  {
+    "word": "desevolver",
+    "translation": "розривати",
+    "type": "verb"
+  },
+  {
+    "word": "el collar",
+    "translation": "намисто",
+    "type": "noun"
+  },
+  {
+    "word": "lujoso",
+    "translation": "розкішний",
+    "type": "adjective"
+  },
+  {
+    "word": "atentamente",
+    "translation": "уважно",
+    "type": "adverb"
+  },
+  {
+    "word": "el mando a distancia",
+    "translation": "пульт дистанційного керування",
+    "type": "noun"
+  },
+  {
+    "word": "presionar",
+    "translation": "натискати",
+    "type": "verb"
+  },
+  {
+    "word": "el mayordomo",
+    "translation": "дворецький",
+    "type": "noun"
+  },
+  {
+    "word": "sea lo que sea",
+    "translation": "в будь-якому випадку",
+    "type": "phrase"
+  },
+  {
+    "word": "inmensa",
+    "translation": "величезна",
+    "type": "adjective"
   }
 ];
