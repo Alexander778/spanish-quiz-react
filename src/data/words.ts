@@ -7632,7 +7632,7 @@ export const words: Word[] = [
     "type": "verb"
   },
   {
-    "word": "En vez de",
+    "word": "en vez de",
     "translation": "замість",
     "type": "phrase"
   },
@@ -8892,11 +8892,6 @@ export const words: Word[] = [
     "type": "noun"
   },
   {
-    "word": "en vex de",
-    "translation": "замість",
-    "type": "phrase"
-  },
-  {
     "word": "el socio",
     "translation": "член",
     "type": "adjective"
@@ -9460,5 +9455,60 @@ export const words: Word[] = [
     "word": "inmensa",
     "translation": "величезна",
     "type": "adjective"
+  },
+  {
+    "word": "la cadena",
+    "translation": "ланцюг",
+    "type": "noun"
+  },
+  {
+    "word": "el inquietud",
+    "translation": "тривога",
+    "type": "noun"
+  },
+  {
+    "word": "el siglo",
+    "translation": "століття",
+    "type": "noun"
+  },
+  {
+    "word": "fertil",
+    "translation": "родючий",
+    "type": "adjective"
+  },
+  {
+    "word": "en parte",
+    "translation": "частково",
+    "type": "phrase"
+  },
+  {
+    "word": "valiente",
+    "translation": "хоробрий",
+    "type": "adjective"
+  },
+  {
+    "word": "cazar",
+    "translation": "полювати",
+    "type": "verb"
+  },
+  {
+    "word": "estricto",
+    "translation": "строгий",
+    "type": "adjective"
+  },
+  {
+    "word": "la regla",
+    "translation": "правило",
+    "type": "noun"
+  },
+  {
+    "word": "escaseaer",
+    "translation": "ставати рідкісним",
+    "type": "verb"
+  },
+  {
+    "word": "el dios",
+    "translation": "бог",
+    "type": "noun"
   }
 ];
