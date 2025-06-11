@@ -9510,5 +9510,75 @@ export const words: Word[] = [
     "word": "el dios",
     "translation": "бог",
     "type": "noun"
+  },
+  {
+    "word": "el araño",
+    "translation": "павук",
+    "type": "noun"
+  },
+  {
+    "word": "transcurrir",
+    "translation": "проходити (час)",
+    "type": "verb"
+  },
+  {
+    "word": "la escases",
+    "translation": "брак",
+    "type": "noun"
+  },
+  {
+    "word": "el obrero",
+    "translation": "робітник",
+    "type": "noun"
+  },
+  {
+    "word": "habil",
+    "translation": "вмілий",
+    "type": "adjective"
+  },
+  {
+    "word": "tener muchas ganas de",
+    "translation": "мати велике бажання",
+    "type": "verb"
+  },
+  {
+    "word": "rezar",
+    "translation": "молитися",
+    "type": "verb"
+  },
+  {
+    "word": "el fe",
+    "translation": "віра",
+    "type": "noun"
+  },
+  {
+    "word": "el pedazo",
+    "translation": "кусок",
+    "type": "noun"
+  },
+  {
+    "word": "agitarse",
+    "translation": "трястися",
+    "type": "verb"
+  },
+  {
+    "word": "la colina",
+    "translation": "пагорб",
+    "type": "noun"
+  },
+  {
+    "word": "pisar",
+    "translation": "наступати",
+    "type": "verb"
+  },
+  {
+    "word": "el presentimiento",
+    "translation": "передчуття",
+    "type": "noun"
+  },
+  {
+    "word": "perdonar",
+    "translation": "вибачати",
+    "type": "verb"
   }
 ];
