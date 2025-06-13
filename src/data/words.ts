@@ -9580,5 +9580,50 @@ export const words: Word[] = [
     "word": "perdonar",
     "translation": "вибачати",
     "type": "verb"
+  },
+  {
+    "word": "surja",
+    "translation": "з'являтися",
+    "type": "verb"
+  },
+  {
+    "word": "la tumba",
+    "translation": "могила",
+    "type": "noun"
+  },
+  {
+    "word": "adornar",
+    "translation": "обожнювати",
+    "type": "verb"
+  },
+  {
+    "word": "viculada",
+    "translation": "пов'язанa",
+    "type": "adjective"
+  },
+  {
+    "word": "arrepentirse",
+    "translation": "каятися",
+    "type": "verb"
+  },
+  {
+    "word": "la fama",
+    "translation": "слава",
+    "type": "noun"
+  },
+  {
+    "word": "obsequiar",
+    "translation": "дарувати",
+    "type": "verb"
+  },
+  {
+    "word": "el jurado",
+    "translation": "жюрі",
+    "type": "noun"
+  },
+  {
+    "word": "la armadura",
+    "translation": "броня",
+    "type": "adjective"
   }
 ];
