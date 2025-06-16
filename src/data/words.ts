@@ -9625,5 +9625,80 @@ export const words: Word[] = [
     "word": "la armadura",
     "translation": "броня",
     "type": "adjective"
+  },
+  {
+    "word": "venenoso",
+    "translation": "отруйний",
+    "type": "adjective"
+  },
+  {
+    "word": "el agotamiento",
+    "translation": "втома",
+    "type": "noun"
+  },
+  {
+    "word": "la sociedad",
+    "translation": "суспільство",
+    "type": "noun"
+  },
+  {
+    "word": "establecer",
+    "translation": "встановлювати",
+    "type": "verb"
+  },
+  {
+    "word": "el desafio",
+    "translation": "виклик",
+    "type": "noun"
+  },
+  {
+    "word": "prohibicion",
+    "translation": "заборона",
+    "type": "noun"
+  },
+  {
+    "word": "prohibir",
+    "translation": "забороняти",
+    "type": "verb"
+  },
+  {
+    "word": "llevar a",
+    "translation": "приводити до",
+    "type": "verb"
+  },
+  {
+    "word": "recoger a",
+    "translation": "забирати когось",
+    "type": "verb"
+  },
+  {
+    "word": "la arma",
+    "translation": "зброя",
+    "type": "noun"
+  },
+  {
+    "word": "aumentar",
+    "translation": "збільшувати",
+    "type": "verb"
+  },
+  {
+    "word": "emitir",
+    "translation": "випускати",
+    "type": "verb"
+  },
+  {
+    "word": "la altura",
+    "translation": "висота",
+    "type": "noun"
+  },
+  {
+    "word": "el peso",
+    "translation": "вага",
+    "type": "noun"
+  },
+  {
+    "word": "el fuego",
+    "translation": "вогонь",
+    "type": "noun"
   }
 ];
