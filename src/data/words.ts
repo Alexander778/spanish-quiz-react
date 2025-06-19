@@ -9700,5 +9700,70 @@ export const words: Word[] = [
     "word": "el fuego",
     "translation": "вогонь",
     "type": "noun"
+  },
+  {
+    "word": "deconectar",
+    "translation": "відключати",
+    "type": "verb"
+  },
+  {
+    "word": "la bola",
+    "translation": "мяч",
+    "type": "noun"
+  },
+  {
+    "word": "aproximarse",
+    "translation": "приближатися",
+    "type": "verb"
+  },
+  {
+    "word": "afectar",
+    "translation": "впливати",
+    "type": "verb"
+  },
+  {
+    "word": "cobrar",
+    "translation": "збирати",
+    "type": "verb"
+  },
+  {
+    "word": "la bonificacion",
+    "translation": "бонус",
+    "type": "noun"
+  },
+  {
+    "word": "el porcentaje",
+    "translation": "відсоток",
+    "type": "noun"
+  },
+  {
+    "word": "la ganancia",
+    "translation": "прибуток",
+    "type": "noun"
+  },
+  {
+    "word": "resolver",
+    "translation": "вирішувати",
+    "type": "verb"
+  },
+  {
+    "word": "el lujo",
+    "translation": "розкіш",
+    "type": "noun"
+  },
+  {
+    "word": "a causa",
+    "translation": "через",
+    "type": "phrase"
+  },
+  {
+    "word": "durar",
+    "translation": "тривати",
+    "type": "verb"
+  },
+  {
+    "word": "el paro",
+    "translation": "безробіття",
+    "type": "noun"
   }
 ];
