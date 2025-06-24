@@ -9765,5 +9765,90 @@ export const words: Word[] = [
     "word": "el paro",
     "translation": "безробіття",
     "type": "noun"
+  },
+  {
+    "word": "avanzada",
+    "translation": "просунутий",
+    "type": "adjective"
+  },
+  {
+    "word": "rentable",
+    "translation": "прибутковий",
+    "type": "adjective"
+  },
+  {
+    "word": "recientemente",
+    "translation": "недавній",
+    "type": "adjective"
+  },
+  {
+    "word": "la tristeza",
+    "translation": "сум",
+    "type": "noun"
+  },
+  {
+    "word": "sufrier",
+    "translation": "страждати",
+    "type": "verb"
+  },
+  {
+    "word": "la relacion",
+    "translation": "відносини",
+    "type": "noun"
+  },
+  {
+    "word": "los auriculares",
+    "translation": "навушники",
+    "type": "noun"
+  },
+  {
+    "word": "de ida y vuelta",
+    "translation": "туди і назад",
+    "type": "phrase"
+  },
+  {
+    "word": "rural",
+    "translation": "сільський",
+    "type": "adjective"
+  },
+  {
+    "word": "el crucero",
+    "translation": "круїз",
+    "type": "noun"
+  },
+  {
+    "word": "inferior",
+    "translation": "нижній",
+    "type": "adjective"
+  },
+  {
+    "word": "la alma",
+    "translation": "душа",
+    "type": "noun"
+  },
+  {
+    "word": "huir",
+    "translation": "втікати",
+    "type": "verb"
+  },
+  {
+    "word": "la multitud",
+    "translation": "натовп",
+    "type": "noun"
+  },
+  {
+    "word": "herir",
+    "translation": "поранити",
+    "type": "verb"
+  },
+  {
+    "word": "recobrar",
+    "translation": "відновлювати",
+    "type": "verb"
+  },
+  {
+    "word": "sacudir",
+    "translation": "трясти",
+    "type": "verb"
   }
 ];
