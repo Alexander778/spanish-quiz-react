@@ -9850,5 +9850,35 @@ export const words: Word[] = [
     "word": "sacudir",
     "translation": "трясти",
     "type": "verb"
+  },
+  {
+    "word": "la jonada",
+    "translation": "робочий день",
+    "type": "adjective"
+  },
+  {
+    "word": "moderado",
+    "translation": "помірний",
+    "type": "adjective"
+  },
+  {
+    "word": "el litoral",
+    "translation": "узбережжя",
+    "type": "noun"
+  },
+  {
+    "word": "el estrecho",
+    "translation": "протока",
+    "type": "noun"
+  },
+  {
+    "word": "costero",
+    "translation": "прибережний",
+    "type": "adjective"
+  },
+  {
+    "word": "mensual",
+    "translation": "щомісячний",
+    "type": "adjective"
   }
 ];
