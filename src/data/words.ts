@@ -9880,5 +9880,45 @@ export const words: Word[] = [
     "word": "mensual",
     "translation": "щомісячний",
     "type": "adjective"
+  },
+  {
+    "word": "la alergia",
+    "translation": "алергія",
+    "type": "noun"
+  },
+  {
+    "word": "sufrir",
+    "translation": "страждати",
+    "type": "verb"
+  },
+  {
+    "word": "la quincena",
+    "translation": "2 тижні",
+    "type": "noun"
+  },
+  {
+    "word": "asustarse",
+    "translation": "лякатися",
+    "type": "verb"
+  },
+  {
+    "word": "ladrar",
+    "translation": "гавкати",
+    "type": "verb"
+  },
+  {
+    "word": "debido a",
+    "translation": "через",
+    "type": "phrase"
+  },
+  {
+    "word": "desviarse por",
+    "translation": "відхилятися від",
+    "type": "verb"
+  },
+  {
+    "word": "el mesero",
+    "translation": "офіціант",
+    "type": "noun"
   }
 ];
