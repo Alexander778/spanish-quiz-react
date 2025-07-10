@@ -9920,5 +9920,30 @@ export const words: Word[] = [
     "word": "el mesero",
     "translation": "офіціант",
     "type": "noun"
+  },
+  {
+    "word": "terco",
+    "translation": "упертий",
+    "type": "adjective"
+  },
+  {
+    "word": "comprensivo",
+    "translation": "розуміючий",
+    "type": "adjective"
+  },
+  {
+    "word": "la perilla",
+    "translation": "бакенбарди",
+    "type": "noun"
+  },
+  {
+    "word": "traviesa",
+    "translation": "непосидючий",
+    "type": "adjective"
+  },
+  {
+    "word": "ser capaz de",
+    "translation": "бути здатним на щось",
+    "type": "verb"
   }
 ];
