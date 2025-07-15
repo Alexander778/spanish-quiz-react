@@ -303,7 +303,6 @@ el metro,метро,noun
 el autobús,автобус,noun
 la bicicleta,велосипед,noun
 el taxi,таксі,noun
-sol y playa,сонце і пляж,phrase
 la gastronomia,гастрономія,noun
 tranquilidad,спокій,adjective
 el museó,музей,noun
@@ -337,9 +336,6 @@ Como vas al trabajo?,Як ти їдеш на роботу?,phrase
 el caballo,кінь,noun
 descansar,відпочивати,verb
 tomar el sol,загоряти,phrase
-visitar un museo,відвідати музей,phrase
-hacer una excursion,мати екскурсію,phrase
-ven un espectáculo,переглянути виставу,phrase
 ir a la montaña,ходити в гори,phrase
 el aparcamiento,парковка,noun
 cada día,кожен день,adverb
@@ -1987,3 +1983,20 @@ comprensivo,розуміючий,adjective
 la perilla,бакенбарди,noun
 traviesa,непосидючий,adjective
 ser capaz de,бути здатним на щось,verb
+hablador,балакучий,adjective
+impaciente,нетерплячий,adjective
+cadiciosa,жадібна,adjective
+surgir,з'являтися,verb
+el gobierno,уряд,noun
+la granja,ферма,noun
+la nave,корабель,noun
+bruscamente,раптово,adverb
+estar inconsciente,бути неуважним,verb
+quedarle,пасувати,verb
+deprimirse,депресуватися,verb
+soportar,терпіти,verb
+alegrarse,радіти,verb
+aburrirse,скучати,verb
+divertirse,розважатися,verb
+estresarse,стресуватися,verb
+enfadarse,сердитися,verb

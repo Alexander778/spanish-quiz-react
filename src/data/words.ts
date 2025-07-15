@@ -1527,11 +1527,6 @@ export const words: Word[] = [
     "type": "noun"
   },
   {
-    "word": "sol y playa",
-    "translation": "сонце і пляж",
-    "type": "phrase"
-  },
-  {
     "word": "la gastronomia",
     "translation": "гастрономія",
     "type": "noun"
@@ -1694,21 +1689,6 @@ export const words: Word[] = [
   {
     "word": "tomar el sol",
     "translation": "загоряти",
-    "type": "phrase"
-  },
-  {
-    "word": "visitar un museo",
-    "translation": "відвідати музей",
-    "type": "phrase"
-  },
-  {
-    "word": "hacer una excursion",
-    "translation": "мати екскурсію",
-    "type": "phrase"
-  },
-  {
-    "word": "ven un espectáculo",
-    "translation": "переглянути виставу",
     "type": "phrase"
   },
   {
@@ -9944,6 +9924,91 @@ export const words: Word[] = [
   {
     "word": "ser capaz de",
     "translation": "бути здатним на щось",
+    "type": "verb"
+  },
+  {
+    "word": "hablador",
+    "translation": "балакучий",
+    "type": "adjective"
+  },
+  {
+    "word": "impaciente",
+    "translation": "нетерплячий",
+    "type": "adjective"
+  },
+  {
+    "word": "cadiciosa",
+    "translation": "жадібна",
+    "type": "adjective"
+  },
+  {
+    "word": "surgir",
+    "translation": "з'являтися",
+    "type": "verb"
+  },
+  {
+    "word": "el gobierno",
+    "translation": "уряд",
+    "type": "noun"
+  },
+  {
+    "word": "la granja",
+    "translation": "ферма",
+    "type": "noun"
+  },
+  {
+    "word": "la nave",
+    "translation": "корабель",
+    "type": "noun"
+  },
+  {
+    "word": "bruscamente",
+    "translation": "раптово",
+    "type": "adverb"
+  },
+  {
+    "word": "estar inconsciente",
+    "translation": "бути неуважним",
+    "type": "verb"
+  },
+  {
+    "word": "quedarle",
+    "translation": "пасувати",
+    "type": "verb"
+  },
+  {
+    "word": "deprimirse",
+    "translation": "депресуватися",
+    "type": "verb"
+  },
+  {
+    "word": "soportar",
+    "translation": "терпіти",
+    "type": "verb"
+  },
+  {
+    "word": "alegrarse",
+    "translation": "радіти",
+    "type": "verb"
+  },
+  {
+    "word": "aburrirse",
+    "translation": "скучати",
+    "type": "verb"
+  },
+  {
+    "word": "divertirse",
+    "translation": "розважатися",
+    "type": "verb"
+  },
+  {
+    "word": "estresarse",
+    "translation": "стресуватися",
+    "type": "verb"
+  },
+  {
+    "word": "enfadarse",
+    "translation": "сердитися",
     "type": "verb"
   }
 ];
