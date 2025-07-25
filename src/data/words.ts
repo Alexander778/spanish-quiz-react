@@ -10010,5 +10010,115 @@ export const words: Word[] = [
     "word": "enfadarse",
     "translation": "сердитися",
     "type": "verb"
+  },
+  {
+    "word": "sobrevivir",
+    "translation": "виживати",
+    "type": "verb"
+  },
+  {
+    "word": "el espia",
+    "translation": "шпигун",
+    "type": "noun"
+  },
+  {
+    "word": "la aula",
+    "translation": "аудиторія",
+    "type": "noun"
+  },
+  {
+    "word": "enfocar",
+    "translation": "фокусуватися",
+    "type": "verb"
+  },
+  {
+    "word": "el fracaso",
+    "translation": "нещасний випадок",
+    "type": "noun"
+  },
+  {
+    "word": "obedecer",
+    "translation": "підкорятися",
+    "type": "verb"
+  },
+  {
+    "word": "enamoramiento",
+    "translation": "закоханість",
+    "type": "noun"
+  },
+  {
+    "word": "enamorado",
+    "translation": "закоханий",
+    "type": "adjective"
+  },
+  {
+    "word": "deprimido",
+    "translation": "депресивний",
+    "type": "adjective"
+  },
+  {
+    "word": "aburrimiento",
+    "translation": "скука",
+    "type": "noun"
+  },
+  {
+    "word": "aburrido",
+    "translation": "скучний",
+    "type": "adjective"
+  },
+  {
+    "word": "satisfaccion",
+    "translation": "задоволення",
+    "type": "noun"
+  },
+  {
+    "word": "alegracion",
+    "translation": "радість",
+    "type": "noun"
+  },
+  {
+    "word": "alegrado",
+    "translation": "радісний",
+    "type": "adjective"
+  },
+  {
+    "word": "el coro",
+    "translation": "хор",
+    "type": "noun"
+  },
+  {
+    "word": "el balonmano",
+    "translation": "гандбол",
+    "type": "noun"
+  },
+  {
+    "word": "causar",
+    "translation": "викликати",
+    "type": "verb"
+  },
+  {
+    "word": "fingir",
+    "translation": "вдавати",
+    "type": "verb"
+  },
+  {
+    "word": "involucrada",
+    "translation": "залучена",
+    "type": "adjective"
+  },
+  {
+    "word": "el asco",
+    "translation": "огидa",
+    "type": "noun"
+  },
+  {
+    "word": "someter",
+    "translation": "підкоряти",
+    "type": "verb"
+  },
+  {
+    "word": "ocultar",
+    "translation": "приховувати",
+    "type": "verb"
   }
 ];
