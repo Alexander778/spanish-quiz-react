@@ -10120,5 +10120,110 @@ export const words: Word[] = [
     "word": "ocultar",
     "translation": "приховувати",
     "type": "verb"
+  },
+  {
+    "word": "el sustantivo",
+    "translation": "іменник",
+    "type": "noun"
+  },
+  {
+    "word": "el adjetivo",
+    "translation": "прикметник",
+    "type": "noun"
+  },
+  {
+    "word": "el verbo",
+    "translation": "дієслово",
+    "type": "noun"
+  },
+  {
+    "word": "el adverbio",
+    "translation": "прислівник",
+    "type": "noun"
+  },
+  {
+    "word": "la preposición",
+    "translation": "прийменник",
+    "type": "noun"
+  },
+  {
+    "word": "el pronombre",
+    "translation": "займенник",
+    "type": "noun"
+  },
+  {
+    "word": "la conjunción",
+    "translation": "сполучник",
+    "type": "noun"
+  },
+  {
+    "word": "ciego",
+    "translation": "сліпий",
+    "type": "adjective"
+  },
+  {
+    "word": "la vigilancia",
+    "translation": "спотереження",
+    "type": "noun"
+  },
+  {
+    "word": "severamente",
+    "translation": "суворо",
+    "type": "adverb"
+  },
+  {
+    "word": "el enfrentamiento",
+    "translation": "протистояння",
+    "type": "noun"
+  },
+  {
+    "word": "la mezcla",
+    "translation": "суміш",
+    "type": "noun"
+  },
+  {
+    "word": "realizar",
+    "translation": "реалізовувати",
+    "type": "verb"
+  },
+  {
+    "word": "el compadrazgo",
+    "translation": "кумівство",
+    "type": "noun"
+  },
+  {
+    "word": "el huerfano",
+    "translation": "сирота",
+    "type": "noun"
+  },
+  {
+    "word": "elevada",
+    "translation": "висока",
+    "type": "adjective"
+  },
+  {
+    "word": "la tasa",
+    "translation": "ставка",
+    "type": "noun"
+  },
+  {
+    "word": "adquirir",
+    "translation": "набути",
+    "type": "verb"
+  },
+  {
+    "word": "rigida",
+    "translation": "жорстка",
+    "type": "adjective"
+  },
+  {
+    "word": "reflexionar",
+    "translation": "відображати",
+    "type": "verb"
+  },
+  {
+    "word": "escoger",
+    "translation": "вибирати",
+    "type": "verb"
   }
 ];
