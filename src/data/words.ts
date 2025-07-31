@@ -10225,5 +10225,85 @@ export const words: Word[] = [
     "word": "escoger",
     "translation": "вибирати",
     "type": "verb"
+  },
+  {
+    "word": "audaz",
+    "translation": "сміливий",
+    "type": "adjective"
+  },
+  {
+    "word": "apartada",
+    "translation": "відокремлений",
+    "type": "adjective"
+  },
+  {
+    "word": "hallarse",
+    "translation": "знаходитися",
+    "type": "verb"
+  },
+  {
+    "word": "acerca de",
+    "translation": "про",
+    "type": "preposition"
+  },
+  {
+    "word": "la subasta",
+    "translation": "аукціон",
+    "type": "noun"
+  },
+  {
+    "word": "el letrero",
+    "translation": "знак",
+    "type": "noun"
+  },
+  {
+    "word": "el peligro",
+    "translation": "небезпека",
+    "type": "noun"
+  },
+  {
+    "word": "matar",
+    "translation": "вбивати",
+    "type": "verb"
+  },
+  {
+    "word": "la serpiente",
+    "translation": "змія",
+    "type": "noun"
+  },
+  {
+    "word": "la funda",
+    "translation": "чохол",
+    "type": "noun"
+  },
+  {
+    "word": "distraerse",
+    "translation": "відволікатися",
+    "type": "verb"
+  },
+  {
+    "word": "el manos libre",
+    "translation": "гучний зв'язок",
+    "type": "noun"
+  },
+  {
+    "word": "el lobo",
+    "translation": "вовк",
+    "type": "noun"
+  },
+  {
+    "word": "el asiento",
+    "translation": "сидіння",
+    "type": "noun"
+  },
+  {
+    "word": "manchado",
+    "translation": "заплямований",
+    "type": "adjective"
+  },
+  {
+    "word": "atado",
+    "translation": "прив'язаний",
+    "type": "adjective"
   }
 ];
