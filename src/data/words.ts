@@ -10305,5 +10305,45 @@ export const words: Word[] = [
     "word": "atado",
     "translation": "прив'язаний",
     "type": "adjective"
+  },
+  {
+    "word": "el hombre del tiempo",
+    "translation": "метеоролог",
+    "type": "noun"
+  },
+  {
+    "word": "el traidor",
+    "translation": "зрадник",
+    "type": "noun"
+  },
+  {
+    "word": "sospechar",
+    "translation": "підозрювати",
+    "type": "verb"
+  },
+  {
+    "word": "la asesina",
+    "translation": "вбивця",
+    "type": "noun"
+  },
+  {
+    "word": "estar compinchado",
+    "translation": "бути в змові",
+    "type": "verb"
+  },
+  {
+    "word": "la palanca",
+    "translation": "важіль",
+    "type": "noun"
+  },
+  {
+    "word": "la trampa",
+    "translation": "пастка",
+    "type": "noun"
+  },
+  {
+    "word": "recaudar",
+    "translation": "збирати",
+    "type": "verb"
   }
 ];
