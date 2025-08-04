@@ -10345,5 +10345,50 @@ export const words: Word[] = [
     "word": "recaudar",
     "translation": "збирати",
     "type": "verb"
+  },
+  {
+    "word": "la reverencia",
+    "translation": "шанування",
+    "type": "noun"
+  },
+  {
+    "word": "la pordiosero",
+    "translation": "жебрак",
+    "type": "noun"
+  },
+  {
+    "word": "morder",
+    "translation": "кусати",
+    "type": "verb"
+  },
+  {
+    "word": "el camello",
+    "translation": "верблюд",
+    "type": "noun"
+  },
+  {
+    "word": "la muleta",
+    "translation": "милиці",
+    "type": "noun"
+  },
+  {
+    "word": "la fachada",
+    "translation": "фасад",
+    "type": "noun"
+  },
+  {
+    "word": "apenado",
+    "translation": "засмучений",
+    "type": "adjective"
+  },
+  {
+    "word": "portarse",
+    "translation": "поводитися",
+    "type": "verb"
+  },
+  {
+    "word": "la recompensa",
+    "translation": "нагорода",
+    "type": "noun"
   }
 ];
