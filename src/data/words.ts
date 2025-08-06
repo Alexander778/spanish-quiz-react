@@ -10475,5 +10475,75 @@ export const words: Word[] = [
     "word": "parpadear",
     "translation": "моргати",
     "type": "verb"
+  },
+  {
+    "word": "el discuento",
+    "translation": "знижка",
+    "type": "noun"
+  },
+  {
+    "word": "desear",
+    "translation": "бажати",
+    "type": "verb"
+  },
+  {
+    "word": "tal vez",
+    "translation": "можливо",
+    "type": "phrase"
+  },
+  {
+    "word": "gestionar",
+    "translation": "керувати",
+    "type": "verb"
+  },
+  {
+    "word": "el puesto",
+    "translation": "посада",
+    "type": "noun"
+  },
+  {
+    "word": "aportar",
+    "translation": "вносити",
+    "type": "verb"
+  },
+  {
+    "word": "compometido",
+    "translation": "зобов'язаний",
+    "type": "adjective"
+  },
+  {
+    "word": "agradar",
+    "translation": "догождати",
+    "type": "verb"
+  },
+  {
+    "word": "enriquecer",
+    "translation": "збагачувати",
+    "type": "verb"
+  },
+  {
+    "word": "optar",
+    "translation": "обирати",
+    "type": "verb"
+  },
+  {
+    "word": "el argumento",
+    "translation": "аргумент",
+    "type": "noun"
+  },
+  {
+    "word": "retorado",
+    "translation": "заплутаний",
+    "type": "adjective"
+  },
+  {
+    "word": "armar",
+    "translation": "збирати",
+    "type": "verb"
+  },
+  {
+    "word": "el rompercabezas",
+    "translation": "головоломка",
+    "type": "noun"
   }
 ];
