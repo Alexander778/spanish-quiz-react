@@ -10390,5 +10390,90 @@ export const words: Word[] = [
     "word": "la recompensa",
     "translation": "нагорода",
     "type": "noun"
+  },
+  {
+    "word": "fallar",
+    "translation": "помилятися",
+    "type": "verb"
+  },
+  {
+    "word": "negarse",
+    "translation": "відмовлятися",
+    "type": "verb"
+  },
+  {
+    "word": "encerar",
+    "translation": "полірувати",
+    "type": "verb"
+  },
+  {
+    "word": "meter",
+    "translation": "вставляти",
+    "type": "verb"
+  },
+  {
+    "word": "acordarse",
+    "translation": "пам'ятати",
+    "type": "verb"
+  },
+  {
+    "word": "el tronco",
+    "translation": "стовбур",
+    "type": "noun"
+  },
+  {
+    "word": "la barriga",
+    "translation": "живіт",
+    "type": "noun"
+  },
+  {
+    "word": "el codo",
+    "translation": "лікоть",
+    "type": "noun"
+  },
+  {
+    "word": "el tobillo",
+    "translation": "щиколотка",
+    "type": "noun"
+  },
+  {
+    "word": "fortalecer",
+    "translation": "укріплювати",
+    "type": "verb"
+  },
+  {
+    "word": "pesado",
+    "translation": "важкий",
+    "type": "adjective"
+  },
+  {
+    "word": "el yerno",
+    "translation": "зять",
+    "type": "noun"
+  },
+  {
+    "word": "tratarse de",
+    "translation": "стосуватися",
+    "type": "verb"
+  },
+  {
+    "word": "imprevisto",
+    "translation": "непередбачуваний",
+    "type": "adjective"
+  },
+  {
+    "word": "ensayar",
+    "translation": "репетирувати",
+    "type": "verb"
+  },
+  {
+    "word": "alviada",
+    "translation": "полегшений",
+    "type": "adjective"
+  },
+  {
+    "word": "parpadear",
+    "translation": "моргати",
+    "type": "verb"
   }
 ];
