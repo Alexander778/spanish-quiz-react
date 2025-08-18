@@ -10545,5 +10545,80 @@ export const words: Word[] = [
     "word": "el rompercabezas",
     "translation": "головоломка",
     "type": "noun"
+  },
+  {
+    "word": "la felicidad",
+    "translation": "щастя",
+    "type": "noun"
+  },
+  {
+    "word": "la portada",
+    "translation": "обкладинка",
+    "type": "noun"
+  },
+  {
+    "word": "el reportaje",
+    "translation": "репортаж",
+    "type": "noun"
+  },
+  {
+    "word": "el becario",
+    "translation": "стажер",
+    "type": "noun"
+  },
+  {
+    "word": "el rincon",
+    "translation": "куток",
+    "type": "noun"
+  },
+  {
+    "word": "el terremoto",
+    "translation": "землетрус",
+    "type": "noun"
+  },
+  {
+    "word": "el escombro",
+    "translation": "руїни",
+    "type": "noun"
+  },
+  {
+    "word": "adiestrado",
+    "translation": "дресируваний",
+    "type": "adjective"
+  },
+  {
+    "word": "el olfato",
+    "translation": "нюх",
+    "type": "noun"
+  },
+  {
+    "word": "el ladrido",
+    "translation": "гавкіт",
+    "type": "noun"
+  },
+  {
+    "word": "salvar",
+    "translation": "рятувати",
+    "type": "verb"
+  },
+  {
+    "word": "la circunstancia",
+    "translation": "обставина",
+    "type": "noun"
+  },
+  {
+    "word": "el choque",
+    "translation": "шок",
+    "type": "noun"
+  },
+  {
+    "word": "el fondo",
+    "translation": "дно",
+    "type": "noun"
+  },
+  {
+    "word": "el quejido",
+    "translation": "стогін",
+    "type": "noun"
   }
 ];
