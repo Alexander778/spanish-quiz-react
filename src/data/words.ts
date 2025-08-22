@@ -10620,5 +10620,35 @@ export const words: Word[] = [
     "word": "el quejido",
     "translation": "стогін",
     "type": "noun"
+  },
+  {
+    "word": "permanecer",
+    "translation": "залишатися",
+    "type": "verb"
+  },
+  {
+    "word": "la peninsula",
+    "translation": "півострів",
+    "type": "noun"
+  },
+  {
+    "word": "consternado",
+    "translation": "стривожений",
+    "type": "adjective"
+  },
+  {
+    "word": "toparse con",
+    "translation": "натрапити на",
+    "type": "verb"
+  },
+  {
+    "word": "perturbar",
+    "translation": "порушувати",
+    "type": "verb"
+  },
+  {
+    "word": "palidecer",
+    "translation": "бліднути",
+    "type": "verb"
   }
 ];
