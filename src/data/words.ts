@@ -10650,5 +10650,30 @@ export const words: Word[] = [
     "word": "palidecer",
     "translation": "бліднути",
     "type": "verb"
+  },
+  {
+    "word": "prever",
+    "translation": "передбачати",
+    "type": "verb"
+  },
+  {
+    "word": "lícito",
+    "translation": "дозволений",
+    "type": "adjective"
+  },
+  {
+    "word": "leal",
+    "translation": "вірний",
+    "type": "adjective"
+  },
+  {
+    "word": "borrar",
+    "translation": "стирати",
+    "type": "verb"
+  },
+  {
+    "word": "obesidad",
+    "translation": "ожиріння",
+    "type": "noun"
   }
 ];
