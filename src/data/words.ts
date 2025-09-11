@@ -10675,5 +10675,45 @@ export const words: Word[] = [
     "word": "obesidad",
     "translation": "ожиріння",
     "type": "noun"
+  },
+  {
+    "word": "exigir",
+    "translation": "вимагати",
+    "type": "verb"
+  },
+  {
+    "word": "podar",
+    "translation": "обрізати",
+    "type": "verb"
+  },
+  {
+    "word": "la menta",
+    "translation": "м'ята",
+    "type": "noun"
+  },
+  {
+    "word": "la letra",
+    "translation": "текст пісні",
+    "type": "noun"
+  },
+  {
+    "word": "disgustarse",
+    "translation": "засмутитися",
+    "type": "verb"
+  },
+  {
+    "word": "el milagro",
+    "translation": "чудо",
+    "type": "noun"
+  },
+  {
+    "word": "el humo",
+    "translation": "дим",
+    "type": "noun"
+  },
+  {
+    "word": "antes lo possible",
+    "translation": "якнайшвидше",
+    "type": "phrase"
   }
 ];
