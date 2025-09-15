@@ -10715,5 +10715,30 @@ export const words: Word[] = [
     "word": "antes lo possible",
     "translation": "якнайшвидше",
     "type": "phrase"
+  },
+  {
+    "word": "la tubería",
+    "translation": "труба",
+    "type": "noun"
+  },
+  {
+    "word": "derrotar",
+    "translation": "перемагати",
+    "type": "verb"
+  },
+  {
+    "word": "castigar",
+    "translation": "карати",
+    "type": "verb"
+  },
+  {
+    "word": "drasticá",
+    "translation": "різкий",
+    "type": "adjective"
+  },
+  {
+    "word": "el burro",
+    "translation": "віслюк",
+    "type": "noun"
   }
 ];
