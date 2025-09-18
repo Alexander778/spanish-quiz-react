@@ -10740,5 +10740,65 @@ export const words: Word[] = [
     "word": "el burro",
     "translation": "віслюк",
     "type": "noun"
+  },
+  {
+    "word": "el insomnio",
+    "translation": "безсоння",
+    "type": "noun"
+  },
+  {
+    "word": "el estreñimiento",
+    "translation": "запор",
+    "type": "noun"
+  },
+  {
+    "word": "las quemaduras solares",
+    "translation": "сонячні опіки",
+    "type": "noun"
+  },
+  {
+    "word": "calmar",
+    "translation": "заспокоювати",
+    "type": "verb"
+  },
+  {
+    "word": "el talon",
+    "translation": "п'ята",
+    "type": "noun"
+  },
+  {
+    "word": "animar",
+    "translation": "підбадьорювати",
+    "type": "verb"
+  },
+  {
+    "word": "el cansancio",
+    "translation": "втома",
+    "type": "noun"
+  },
+  {
+    "word": "el cirujano",
+    "translation": "хірург",
+    "type": "noun"
+  },
+  {
+    "word": "mencionarse",
+    "translation": "згадуватися",
+    "type": "verb"
+  },
+  {
+    "word": "el catarro",
+    "translation": "застуда",
+    "type": "noun"
+  },
+  {
+    "word": "el infierno",
+    "translation": "пекло",
+    "type": "noun"
+  },
+  {
+    "word": "omitir",
+    "translation": "упускати",
+    "type": "verb"
   }
 ];
