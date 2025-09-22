@@ -10800,5 +10800,45 @@ export const words: Word[] = [
     "word": "omitir",
     "translation": "упускати",
     "type": "verb"
+  },
+  {
+    "word": "asaltar",
+    "translation": "нападати",
+    "type": "verb"
+  },
+  {
+    "word": "feroz",
+    "translation": "лютий",
+    "type": "adjective"
+  },
+  {
+    "word": "el viajero",
+    "translation": "подорожній",
+    "type": "noun"
+  },
+  {
+    "word": "la dignidad",
+    "translation": "гідність",
+    "type": "noun"
+  },
+  {
+    "word": "la cebada",
+    "translation": "ячмінь",
+    "type": "noun"
+  },
+  {
+    "word": "atar",
+    "translation": "зв'язувати",
+    "type": "verb"
+  },
+  {
+    "word": "la sidra",
+    "translation": "сидр",
+    "type": "noun"
+  },
+  {
+    "word": "peculiar",
+    "translation": "особливий",
+    "type": "adjective"
   }
 ];
