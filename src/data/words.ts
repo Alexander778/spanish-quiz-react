@@ -10840,5 +10840,120 @@ export const words: Word[] = [
     "word": "peculiar",
     "translation": "особливий",
     "type": "adjective"
+  },
+  {
+    "word": "la pistola",
+    "translation": "пістолет",
+    "type": "noun"
+  },
+  {
+    "word": "el rifle",
+    "translation": "гвинтівка",
+    "type": "noun"
+  },
+  {
+    "word": "atento",
+    "translation": "уважний",
+    "type": "adjective"
+  },
+  {
+    "word": "la tela",
+    "translation": "тканина",
+    "type": "noun"
+  },
+  {
+    "word": "la cabra",
+    "translation": "коза",
+    "type": "noun"
+  },
+  {
+    "word": "la gallina",
+    "translation": "курка",
+    "type": "noun"
+  },
+  {
+    "word": "la hechicera",
+    "translation": "відьма",
+    "type": "noun"
+  },
+  {
+    "word": "la ola",
+    "translation": "хвиля",
+    "type": "noun"
+  },
+  {
+    "word": "la red",
+    "translation": "мережа",
+    "type": "noun"
+  },
+  {
+    "word": "lesionar",
+    "translation": "травмувати",
+    "type": "verb"
+  },
+  {
+    "word": "la esquince",
+    "translation": "розтягнення",
+    "type": "noun"
+  },
+  {
+    "word": "agradecido",
+    "translation": "вдячний",
+    "type": "adjective"
+  },
+  {
+    "word": "el sobrecarga",
+    "translation": "перевантаження",
+    "type": "noun"
+  },
+  {
+    "word": "mojarse",
+    "translation": "мокнути",
+    "type": "verb"
+  },
+  {
+    "word": "a proposito",
+    "translation": "спеціально",
+    "type": "phrase"
+  },
+  {
+    "word": "el rastro",
+    "translation": "слід",
+    "type": "noun"
+  },
+  {
+    "word": "fatigada",
+    "translation": "втомлений",
+    "type": "adjective"
+  },
+  {
+    "word": "el liquido",
+    "translation": "рідина",
+    "type": "noun"
+  },
+  {
+    "word": "temer",
+    "translation": "боятися",
+    "type": "verb"
+  },
+  {
+    "word": "lamentar",
+    "translation": "шкодувати",
+    "type": "verb"
+  },
+  {
+    "word": "version de paga",
+    "translation": "платна версія",
+    "type": "phrase"
+  },
+  {
+    "word": "la chuleta",
+    "translation": "шпаргалка",
+    "type": "noun"
+  },
+  {
+    "word": "enojado",
+    "translation": "сердитий",
+    "type": "adjective"
   }
 ];
