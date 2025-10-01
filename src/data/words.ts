@@ -10955,5 +10955,10 @@ export const words: Word[] = [
     "word": "enojado",
     "translation": "сердитий",
     "type": "adjective"
+  },
+  {
+    "word": "indignarse de",
+    "translation": "обурюватися",
+    "type": "verb"
   }
 ];
