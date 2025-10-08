@@ -10960,5 +10960,45 @@ export const words: Word[] = [
     "word": "indignarse de",
     "translation": "обурюватися",
     "type": "verb"
+  },
+  {
+    "word": "el nave espacial",
+    "translation": "космічний корабель",
+    "type": "noun"
+  },
+  {
+    "word": "como de costumbre",
+    "translation": "як зазвичай",
+    "type": "phrase"
+  },
+  {
+    "word": "remover",
+    "translation": "перемішувати",
+    "type": "verb"
+  },
+  {
+    "word": "el venado",
+    "translation": "олень",
+    "type": "noun"
+  },
+  {
+    "word": "menear",
+    "translation": "помахувати",
+    "type": "verb"
+  },
+  {
+    "word": "occurente",
+    "translation": "кмітливий",
+    "type": "adjective"
+  },
+  {
+    "word": "ajustar",
+    "translation": "регулювати",
+    "type": "verb"
+  },
+  {
+    "word": "requerir",
+    "translation": "вимагати",
+    "type": "verb"
   }
 ];
