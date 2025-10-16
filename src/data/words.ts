@@ -11000,5 +11000,50 @@ export const words: Word[] = [
     "word": "requerir",
     "translation": "вимагати",
     "type": "verb"
+  },
+  {
+    "word": "brindar por",
+    "translation": "піднімати тост за",
+    "type": "verb"
+  },
+  {
+    "word": "la cerilla",
+    "translation": "сірник",
+    "type": "noun"
+  },
+  {
+    "word": "la estufa",
+    "translation": "газова піч",
+    "type": "noun"
+  },
+  {
+    "word": "la oveja",
+    "translation": "вівця",
+    "type": "noun"
+  },
+  {
+    "word": "sollozar",
+    "translation": "ридати",
+    "type": "verb"
+  },
+  {
+    "word": "fiel",
+    "translation": "вірний",
+    "type": "adjective"
+  },
+  {
+    "word": "el borde",
+    "translation": "край",
+    "type": "noun"
+  },
+  {
+    "word": "el bocado",
+    "translation": "укус",
+    "type": "noun"
+  },
+  {
+    "word": "el acantilado",
+    "translation": "скеля",
+    "type": "noun"
   }
 ];
