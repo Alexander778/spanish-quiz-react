@@ -201,19 +201,11 @@ cuatro,4,numeral
 tres,3,numeral
 dos,2,numeral
 uno,1,numeral
-Chao!,Бувай!,phrase
-Hasta mañana!,До завтра!,phrase
-Hasta luego!,До побачення!,phrase
 cocinar,готувати,verb
 bailar,танцювати,verb
 viajar,подорожувати,verb
-¿Cuántos años tienes?,Скільки тобі років?,phrase
-¿Dónde vives?,Де ти живеш?,phrase
-¿Cómo te llamas?,Як тебе звати?,phrase
-¿De dónde eres?,Звідки ви?,phrase
 Muy bien,дуже добре,phrase
 Muy mal,дуже погано,phrase
-¿Que tal?,Як справи?,phrase
 el pasillo,коридор,noun
 el salón,вітальня,noun
 la habitación,кімната,noun
@@ -276,7 +268,6 @@ debajo de,під,preposition
 bajo,під,preposition
 al lado de,поруч,preposition
 dentro de,всередині,preposition
-en,в,preposition
 a la izquierda de,ліворуч від,preposition
 entre,між,preposition
 a la derecha de,праворуч від,preposition
@@ -289,7 +280,7 @@ el avión,літак,noun
 la nube,хмара,noun
 animado,жвавий,adjective
 la cosa,річ,noun
-el colegio,школа(коледж),noun
+el colegio,школа,noun
 el sofá,диван,noun
 comodó,зручний,adjective
 viejo,старий,adjective
@@ -332,7 +323,6 @@ el cementerio,цвинтар,noun
 libre,вільний,adjective
 el tiempo,час,noun
 el aeropuerto,аеропорт,noun
-Como vas al trabajo?,Як ти їдеш на роботу?,phrase
 el caballo,кінь,noun
 descansar,відпочивати,verb
 tomar el sol,загоряти,phrase
@@ -373,9 +363,6 @@ todo,все,pronoun
 desde,з,preposition
 desayunar,снідати,verb
 costar,коштувати,verb
-cruza la calle,перейти вулицю,phrase
-gira a la derecha,повернути праворуч,phrase
-sigue todo recto,йти прямо,phrase
 pagar,платити,verb
 el vuelo,політ,noun
 la estrella,зірка,noun
@@ -526,7 +513,6 @@ la carnicería,м'ясний магазин,noun
 pescaderia,рибний магазин,noun
 el cumpleaños,день народження,noun
 molestar,турбувати,verb
-Feliz cumpleaños!,З днем народження!,phrase
 la fecha,дата,noun
 parecer,здаватися,verb
 cena,вечеря,noun
@@ -537,14 +523,11 @@ preocuparse,турбуватися,verb
 siquiera,навіть,adverb
 apagar,вимикати,verb
 así,отже,adverb
-delar un mensaje,залишити повідомлення,phrase
 lindo,гарний,adjective
 el timbre,дзвінок,noun
 entregar,доставляти,verb
 la puerta,двері,noun
 ansiosa,нетерпляча,adjective
-Nos vemos!,До зустрічі!,phrase
-Que te vaya bien!,Всього найкращого!,phrase
 la entrevista,інтерв'ю,noun
 el muchacho,молодий чоловік,noun
 anteriar,попередній,adjective
@@ -625,7 +608,6 @@ el canguro,няня,noun
 generamente,загалом,adverb
 al principio,спочатку,adverb
 el trago,коктейль,noun
-lamento molestarte,вибачте за турботу,phrase
 la contraseña,пароль,noun
 por favor,будь ласка,phrase
 por supuesto,звичайно,phrase
@@ -838,7 +820,6 @@ intentar,намагатися,verb
 el dueño,власник,noun
 el diario,щоденник,noun
 la platica,розмова,noun
-un trabajo de medio tiempo,неповний робочий день,phrase
 suficiente,достатньо,adjective
 la esquina,кут,noun
 acostumbrarse,звикати,verb
@@ -992,7 +973,6 @@ las pecas,веснушки,noun
 el lunar,родимка,noun
 los pedientes,сережки,noun
 el colgante,підвіска,noun
-la residencia de los estudiantes,гуртожиток,noun
 a mi mismo,самому собі,pronoun
 la aspiradora,пилосос,noun
 De verdar,правду кажучи,phrase
@@ -1159,12 +1139,10 @@ el camaron,креветка,noun
 la mantequilla,масло,noun
 el queso,сир,noun
 el yogur,йогурт,noun
-la salsa de tomate,томатний соус,noun
 la mayonesa,майонез,noun
 la mostaza,гірчиця,noun
 el pepinillo,огірок,noun
 la pimiento,перець,noun
-la salsa picante,гострий соус,noun
 el jugo,сік,noun
 el zumo,сік,noun
 el vino tinto,червоне вино,noun
@@ -1246,7 +1224,6 @@ la catarata,водоспад,noun
 la selva,джунглі,noun
 partir,розбивати,verb
 Estar deseando,з нетерпінням чекати,phrase
-la pijamada,вечірка в піжамах,noun
 el fichero,файл,noun
 el enlace,посилання,noun
 navegar,серфити,verb
@@ -1289,7 +1266,6 @@ acompañar,супроводжувати,verb
 estar ajustada de tiempo,бути обмеженим в часі,verb
 despachar,обслуговувати,verb
 dirigir,керувати,verb
-Que tengas un buen día!,Хорошого дня!,phrase
 extrañar,скучати,verb
 la lágrima,сльоза,noun
 marcharse,покидати,verb
@@ -2207,3 +2183,8 @@ fiel,вірний,adjective
 el borde,край,noun
 el bocado,укус,noun
 el acantilado,скеля,noun
+el carbon,вугілля,noun
+el patroleo,нафта,noun
+reciclar,переробляти,verb
+el fosil,копалина,noun
+atracar,пришвартовуватися,verb

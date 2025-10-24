@@ -1017,21 +1017,6 @@ export const words: Word[] = [
     "type": "numeral"
   },
   {
-    "word": "Chao!",
-    "translation": "Бувай!",
-    "type": "phrase"
-  },
-  {
-    "word": "Hasta mañana!",
-    "translation": "До завтра!",
-    "type": "phrase"
-  },
-  {
-    "word": "Hasta luego!",
-    "translation": "До побачення!",
-    "type": "phrase"
-  },
-  {
     "word": "cocinar",
     "translation": "готувати",
     "type": "verb"
@@ -1047,26 +1032,6 @@ export const words: Word[] = [
     "type": "verb"
   },
   {
-    "word": "¿Cuántos años tienes?",
-    "translation": "Скільки тобі років?",
-    "type": "phrase"
-  },
-  {
-    "word": "¿Dónde vives?",
-    "translation": "Де ти живеш?",
-    "type": "phrase"
-  },
-  {
-    "word": "¿Cómo te llamas?",
-    "translation": "Як тебе звати?",
-    "type": "phrase"
-  },
-  {
-    "word": "¿De dónde eres?",
-    "translation": "Звідки ви?",
-    "type": "phrase"
-  },
-  {
     "word": "Muy bien",
     "translation": "дуже добре",
     "type": "phrase"
@@ -1074,11 +1039,6 @@ export const words: Word[] = [
   {
     "word": "Muy mal",
     "translation": "дуже погано",
-    "type": "phrase"
-  },
-  {
-    "word": "¿Que tal?",
-    "translation": "Як справи?",
     "type": "phrase"
   },
   {
@@ -1392,11 +1352,6 @@ export const words: Word[] = [
     "type": "preposition"
   },
   {
-    "word": "en",
-    "translation": "в",
-    "type": "preposition"
-  },
-  {
     "word": "a la izquierda de",
     "translation": "ліворуч від",
     "type": "preposition"
@@ -1458,7 +1413,7 @@ export const words: Word[] = [
   },
   {
     "word": "el colegio",
-    "translation": "школа(коледж)",
+    "translation": "школа",
     "type": "noun"
   },
   {
@@ -1672,11 +1627,6 @@ export const words: Word[] = [
     "type": "noun"
   },
   {
-    "word": "Como vas al trabajo?",
-    "translation": "Як ти їдеш на роботу?",
-    "type": "phrase"
-  },
-  {
     "word": "el caballo",
     "translation": "кінь",
     "type": "noun"
@@ -1875,21 +1825,6 @@ export const words: Word[] = [
     "word": "costar",
     "translation": "коштувати",
     "type": "verb"
-  },
-  {
-    "word": "cruza la calle",
-    "translation": "перейти вулицю",
-    "type": "phrase"
-  },
-  {
-    "word": "gira a la derecha",
-    "translation": "повернути праворуч",
-    "type": "phrase"
-  },
-  {
-    "word": "sigue todo recto",
-    "translation": "йти прямо",
-    "type": "phrase"
   },
   {
     "word": "pagar",
@@ -2642,11 +2577,6 @@ export const words: Word[] = [
     "type": "verb"
   },
   {
-    "word": "Feliz cumpleaños!",
-    "translation": "З днем народження!",
-    "type": "phrase"
-  },
-  {
     "word": "la fecha",
     "translation": "дата",
     "type": "noun"
@@ -2697,11 +2627,6 @@ export const words: Word[] = [
     "type": "adverb"
   },
   {
-    "word": "delar un mensaje",
-    "translation": "залишити повідомлення",
-    "type": "phrase"
-  },
-  {
     "word": "lindo",
     "translation": "гарний",
     "type": "adjective"
@@ -2725,16 +2650,6 @@ export const words: Word[] = [
     "word": "ansiosa",
     "translation": "нетерпляча",
     "type": "adjective"
-  },
-  {
-    "word": "Nos vemos!",
-    "translation": "До зустрічі!",
-    "type": "phrase"
-  },
-  {
-    "word": "Que te vaya bien!",
-    "translation": "Всього найкращого!",
-    "type": "phrase"
   },
   {
     "word": "la entrevista",
@@ -3135,11 +3050,6 @@ export const words: Word[] = [
     "word": "el trago",
     "translation": "коктейль",
     "type": "noun"
-  },
-  {
-    "word": "lamento molestarte",
-    "translation": "вибачте за турботу",
-    "type": "phrase"
   },
   {
     "word": "la contraseña",
@@ -4202,11 +4112,6 @@ export const words: Word[] = [
     "type": "noun"
   },
   {
-    "word": "un trabajo de medio tiempo",
-    "translation": "неповний робочий день",
-    "type": "phrase"
-  },
-  {
     "word": "suficiente",
     "translation": "достатньо",
     "type": "adjective"
@@ -4969,11 +4874,6 @@ export const words: Word[] = [
   {
     "word": "el colgante",
     "translation": "підвіска",
-    "type": "noun"
-  },
-  {
-    "word": "la residencia de los estudiantes",
-    "translation": "гуртожиток",
     "type": "noun"
   },
   {
@@ -5807,11 +5707,6 @@ export const words: Word[] = [
     "type": "noun"
   },
   {
-    "word": "la salsa de tomate",
-    "translation": "томатний соус",
-    "type": "noun"
-  },
-  {
     "word": "la mayonesa",
     "translation": "майонез",
     "type": "noun"
@@ -5829,11 +5724,6 @@ export const words: Word[] = [
   {
     "word": "la pimiento",
     "translation": "перець",
-    "type": "noun"
-  },
-  {
-    "word": "la salsa picante",
-    "translation": "гострий соус",
     "type": "noun"
   },
   {
@@ -6242,11 +6132,6 @@ export const words: Word[] = [
     "type": "phrase"
   },
   {
-    "word": "la pijamada",
-    "translation": "вечірка в піжамах",
-    "type": "noun"
-  },
-  {
     "word": "el fichero",
     "translation": "файл",
     "type": "noun"
@@ -6455,11 +6340,6 @@ export const words: Word[] = [
     "word": "dirigir",
     "translation": "керувати",
     "type": "verb"
-  },
-  {
-    "word": "Que tengas un buen día!",
-    "translation": "Хорошого дня!",
-    "type": "phrase"
   },
   {
     "word": "extrañar",
@@ -11045,5 +10925,30 @@ export const words: Word[] = [
     "word": "el acantilado",
     "translation": "скеля",
     "type": "noun"
+  },
+  {
+    "word": "el carbon",
+    "translation": "вугілля",
+    "type": "noun"
+  },
+  {
+    "word": "el patroleo",
+    "translation": "нафта",
+    "type": "noun"
+  },
+  {
+    "word": "reciclar",
+    "translation": "переробляти",
+    "type": "verb"
+  },
+  {
+    "word": "el fosil",
+    "translation": "копалина",
+    "type": "noun"
+  },
+  {
+    "word": "atracar",
+    "translation": "пришвартовуватися",
+    "type": "verb"
   }
 ];
