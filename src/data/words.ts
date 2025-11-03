@@ -10950,5 +10950,40 @@ export const words: Word[] = [
     "word": "atracar",
     "translation": "пришвартовуватися",
     "type": "verb"
+  },
+  {
+    "word": "deforestar",
+    "translation": "вирубувати ліси",
+    "type": "verb"
+  },
+  {
+    "word": "enfrentarse a",
+    "translation": "протистояти",
+    "type": "verb"
+  },
+  {
+    "word": "alertar del",
+    "translation": "попереджати про",
+    "type": "verb"
+  },
+  {
+    "word": "filtrar",
+    "translation": "фільтрувати",
+    "type": "verb"
+  },
+  {
+    "word": "el ensayo",
+    "translation": "дослідження",
+    "type": "noun"
+  },
+  {
+    "word": "el deshielo",
+    "translation": "танення",
+    "type": "noun"
+  },
+  {
+    "word": "desbordarse",
+    "translation": "робити повінь",
+    "type": "verb"
   }
 ];
