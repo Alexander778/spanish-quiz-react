@@ -10985,5 +10985,95 @@ export const words: Word[] = [
     "word": "desbordarse",
     "translation": "робити повінь",
     "type": "verb"
+  },
+  {
+    "word": "la huelga",
+    "translation": "страйк",
+    "type": "noun"
+  },
+  {
+    "word": "denegar",
+    "translation": "відмовляти",
+    "type": "verb"
+  },
+  {
+    "word": "el jarron",
+    "translation": "кувшин",
+    "type": "noun"
+  },
+  {
+    "word": "hoy en dia",
+    "translation": "на сьогоднішній день",
+    "type": "phrase"
+  },
+  {
+    "word": "valorar",
+    "translation": "цінувати",
+    "type": "verb"
+  },
+  {
+    "word": "enterarse de",
+    "translation": "дізнаватися про",
+    "type": "verb"
+  },
+  {
+    "word": "el pastelero",
+    "translation": "кондитер",
+    "type": "noun"
+  },
+  {
+    "word": "la hora punta",
+    "translation": "година пік",
+    "type": "noun"
+  },
+  {
+    "word": "el navegador",
+    "translation": "навігатор",
+    "type": "noun"
+  },
+  {
+    "word": "la muchedumbre",
+    "translation": "натовп",
+    "type": "noun"
+  },
+  {
+    "word": "cojear",
+    "translation": "хромати",
+    "type": "verb"
+  },
+  {
+    "word": "gatear",
+    "translation": "повзати",
+    "type": "verb"
+  },
+  {
+    "word": "el rugido",
+    "translation": "рев",
+    "type": "noun"
+  },
+  {
+    "word": "la cerradura",
+    "translation": "замок",
+    "type": "noun"
+  },
+  {
+    "word": "el extintor",
+    "translation": "вогнегасник",
+    "type": "noun"
+  },
+  {
+    "word": "el hacha",
+    "translation": "сокира",
+    "type": "noun"
+  },
+  {
+    "word": "la eternidad",
+    "translation": "вічність",
+    "type": "noun"
+  },
+  {
+    "word": "inoportuno",
+    "translation": "невчасний",
+    "type": "adjective"
   }
 ];
