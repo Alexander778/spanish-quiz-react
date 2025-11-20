@@ -11075,5 +11075,55 @@ export const words: Word[] = [
     "word": "inoportuno",
     "translation": "невчасний",
     "type": "adjective"
+  },
+  {
+    "word": "el prestamo",
+    "translation": "позика",
+    "type": "noun"
+  },
+  {
+    "word": "tacaño",
+    "translation": "скупий",
+    "type": "adjective"
+  },
+  {
+    "word": "el talonario",
+    "translation": "чекова книжка",
+    "type": "noun"
+  },
+  {
+    "word": "honestamente",
+    "translation": "чесно",
+    "type": "adverb"
+  },
+  {
+    "word": "perseverar",
+    "translation": "наполегливо продовжувати",
+    "type": "verb"
+  },
+  {
+    "word": "susurrar",
+    "translation": "шепотіти",
+    "type": "verb"
+  },
+  {
+    "word": "arriesgar",
+    "translation": "ризикувати",
+    "type": "verb"
+  },
+  {
+    "word": "atrevido",
+    "translation": "сміливий",
+    "type": "adjective"
+  },
+  {
+    "word": "fomentar",
+    "translation": "сприяти",
+    "type": "verb"
+  },
+  {
+    "word": "superar",
+    "translation": "перевершувати",
+    "type": "verb"
   }
 ];
