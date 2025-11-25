@@ -11125,5 +11125,70 @@ export const words: Word[] = [
     "word": "superar",
     "translation": "перевершувати",
     "type": "verb"
+  },
+  {
+    "word": "espantar",
+    "translation": "лякати",
+    "type": "verb"
+  },
+  {
+    "word": "consecutiva",
+    "translation": "послідовний",
+    "type": "adjective"
+  },
+  {
+    "word": "el recorte",
+    "translation": "скорочення",
+    "type": "noun"
+  },
+  {
+    "word": "reprochar",
+    "translation": "дорікати",
+    "type": "verb"
+  },
+  {
+    "word": "renunciar",
+    "translation": "відмовлятися",
+    "type": "verb"
+  },
+  {
+    "word": "enmendar",
+    "translation": "виправляти",
+    "type": "verb"
+  },
+  {
+    "word": "declarar",
+    "translation": "оголошувати",
+    "type": "verb"
+  },
+  {
+    "word": "impulsar",
+    "translation": "спонукати",
+    "type": "verb"
+  },
+  {
+    "word": "la divisa",
+    "translation": "валюта",
+    "type": "noun"
+  },
+  {
+    "word": "el rechazo",
+    "translation": "відмова",
+    "type": "noun"
+  },
+  {
+    "word": "el fiscal",
+    "translation": "прокурор",
+    "type": "noun"
+  },
+  {
+    "word": "el fallo",
+    "translation": "вирок",
+    "type": "noun"
+  },
+  {
+    "word": "la cumbre",
+    "translation": "саміт",
+    "type": "noun"
   }
 ];
