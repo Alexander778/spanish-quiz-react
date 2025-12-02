@@ -11190,5 +11190,125 @@ export const words: Word[] = [
     "word": "la cumbre",
     "translation": "саміт",
     "type": "noun"
+  },
+  {
+    "word": "derramamiento de sangre",
+    "translation": "кровопролиття",
+    "type": "noun"
+  },
+  {
+    "word": "conmocionado",
+    "translation": "приголомшений",
+    "type": "adjective"
+  },
+  {
+    "word": "escorado",
+    "translation": "нахилений",
+    "type": "adjective"
+  },
+  {
+    "word": "asumir",
+    "translation": "припускати",
+    "type": "verb"
+  },
+  {
+    "word": "el blingaje",
+    "translation": "броня",
+    "type": "noun"
+  },
+  {
+    "word": "el disuasion",
+    "translation": "стримування",
+    "type": "noun"
+  },
+  {
+    "word": "el asesor",
+    "translation": "радник",
+    "type": "noun"
+  },
+  {
+    "word": "el plazo",
+    "translation": "термін",
+    "type": "noun"
+  },
+  {
+    "word": "la brecha",
+    "translation": "розрив",
+    "type": "noun"
+  },
+  {
+    "word": "el emprendedurismo",
+    "translation": "підприємництво",
+    "type": "noun"
+  },
+  {
+    "word": "achicar",
+    "translation": "зменшити",
+    "type": "verb"
+  },
+  {
+    "word": "la paternidad",
+    "translation": "батьківство",
+    "type": "noun"
+  },
+  {
+    "word": "el testimonio",
+    "translation": "свідчення",
+    "type": "noun"
+  },
+  {
+    "word": "la desigualdad",
+    "translation": "нерівність",
+    "type": "noun"
+  },
+  {
+    "word": "la locutora",
+    "translation": "диктор",
+    "type": "noun"
+  },
+  {
+    "word": "pertenecer",
+    "translation": "належати",
+    "type": "verb"
+  },
+  {
+    "word": "sembrar",
+    "translation": "садити",
+    "type": "verb"
+  },
+  {
+    "word": "la semilla",
+    "translation": "насіння",
+    "type": "noun"
+  },
+  {
+    "word": "la discrepancia",
+    "translation": "невідповідність",
+    "type": "noun"
+  },
+  {
+    "word": "previsto",
+    "translation": "передбачений",
+    "type": "adjective"
+  },
+  {
+    "word": "zanjar",
+    "translation": "врегулювати",
+    "type": "verb"
+  },
+  {
+    "word": "la reprimenda",
+    "translation": "догана",
+    "type": "noun"
+  },
+  {
+    "word": "la soberania",
+    "translation": "суверенітет",
+    "type": "noun"
+  },
+  {
+    "word": "puntualizar",
+    "translation": "підкреслювати",
+    "type": "verb"
   }
 ];
