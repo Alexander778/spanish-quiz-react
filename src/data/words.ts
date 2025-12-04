@@ -11310,5 +11310,120 @@ export const words: Word[] = [
     "word": "puntualizar",
     "translation": "підкреслювати",
     "type": "verb"
+  },
+  {
+    "word": "instar",
+    "translation": "закликати",
+    "type": "verb"
+  },
+  {
+    "word": "la cabalgata",
+    "translation": "їзда",
+    "type": "noun"
+  },
+  {
+    "word": "la publicidad",
+    "translation": "реклама",
+    "type": "noun"
+  },
+  {
+    "word": "reiniciar",
+    "translation": "перезавантажувати",
+    "type": "verb"
+  },
+  {
+    "word": "la locura",
+    "translation": "божевілля",
+    "type": "noun"
+  },
+  {
+    "word": "estar de baja",
+    "translation": "бути на лікарняному",
+    "type": "verb"
+  },
+  {
+    "word": "adelantar",
+    "translation": "випереджати",
+    "type": "verb"
+  },
+  {
+    "word": "estar en las nubes",
+    "translation": "дуже відволікатися",
+    "type": "phrase"
+  },
+  {
+    "word": "ponerse las pilas",
+    "translation": "збиратися з силами",
+    "type": "phrase"
+  },
+  {
+    "word": "costar un mundo",
+    "translation": "коштувати цілий статок",
+    "type": "phrase"
+  },
+  {
+    "word": "quedarse de pierda",
+    "translation": "застигнути від здивування",
+    "type": "phrase"
+  },
+  {
+    "word": "ser un manitas",
+    "translation": "бути майстром на всі руки",
+    "type": "phrase"
+  },
+  {
+    "word": "estar como una cabra",
+    "translation": "бути трохи не в собі",
+    "type": "phrase"
+  },
+  {
+    "word": "no tener pelos en la lengua",
+    "translation": "говорити прямо",
+    "type": "phrase"
+  },
+  {
+    "word": "ponerse morado",
+    "translation": "сильно насолоджуватися",
+    "type": "phrase"
+  },
+  {
+    "word": "salir por la puerta",
+    "translation": "дуже вигідно вийти із ситуації",
+    "type": "phrase"
+  },
+  {
+    "word": "estar forrado",
+    "translation": "мати багато грошей",
+    "type": "phrase"
+  },
+  {
+    "word": "tener la sarten por el mango",
+    "translation": "контролювати ситуацію",
+    "type": "phrase"
+  },
+  {
+    "word": "andar con el agua al cuello",
+    "translation": "бути в складній ситуації",
+    "type": "phrase"
+  },
+  {
+    "word": "tocar madera",
+    "translation": "стукати по дереву",
+    "type": "phrase"
+  },
+  {
+    "word": "echarle ganas",
+    "translation": "намагатися з усіх сил",
+    "type": "phrase"
+  },
+  {
+    "word": "dar en el clavo",
+    "translation": "потрапити в точку",
+    "type": "phrase"
+  },
+  {
+    "word": "buscarle tres pies al gato",
+    "translation": "шукати зайвих проблем",
+    "type": "phrase"
   }
 ];
