@@ -11425,5 +11425,55 @@ export const words: Word[] = [
     "word": "buscarle tres pies al gato",
     "translation": "шукати зайвих проблем",
     "type": "phrase"
+  },
+  {
+    "word": "el avistamiento",
+    "translation": "спостереження",
+    "type": "noun"
+  },
+  {
+    "word": "reforzar",
+    "translation": "посилювати",
+    "type": "verb"
+  },
+  {
+    "word": "la sorna",
+    "translation": "сарказм",
+    "type": "noun"
+  },
+  {
+    "word": "desplegar",
+    "translation": "розгортати",
+    "type": "verb"
+  },
+  {
+    "word": "la amenaza",
+    "translation": "загроза",
+    "type": "noun"
+  },
+  {
+    "word": "brevemente",
+    "translation": "коротко",
+    "type": "adverb"
+  },
+  {
+    "word": "inminente",
+    "translation": "невідкладний",
+    "type": "adjective"
+  },
+  {
+    "word": "abarcar",
+    "translation": "охоплювати",
+    "type": "verb"
+  },
+  {
+    "word": "aludir",
+    "translation": "посилатися",
+    "type": "verb"
+  },
+  {
+    "word": "la designacion",
+    "translation": "призначення",
+    "type": "noun"
   }
 ];
