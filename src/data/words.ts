@@ -11475,5 +11475,50 @@ export const words: Word[] = [
     "word": "la designacion",
     "translation": "призначення",
     "type": "noun"
+  },
+  {
+    "word": "insierto",
+    "translation": "невизначений",
+    "type": "adjective"
+  },
+  {
+    "word": "la cueva",
+    "translation": "печера",
+    "type": "noun"
+  },
+  {
+    "word": "pagar a plazos",
+    "translation": "платити частинами",
+    "type": "phrase"
+  },
+  {
+    "word": "pagar al contado",
+    "translation": "платити готівкою",
+    "type": "phrase"
+  },
+  {
+    "word": "el mercancia",
+    "translation": "товар",
+    "type": "noun"
+  },
+  {
+    "word": "la devolucion",
+    "translation": "повернення",
+    "type": "noun"
+  },
+  {
+    "word": "el exprimidor",
+    "translation": "соковижималка",
+    "type": "noun"
+  },
+  {
+    "word": "el hervidor",
+    "translation": "чайник",
+    "type": "noun"
+  },
+  {
+    "word": "el aspirador",
+    "translation": "пилосос",
+    "type": "noun"
   }
 ];
