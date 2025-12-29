@@ -11520,5 +11520,75 @@ export const words: Word[] = [
     "word": "el aspirador",
     "translation": "пилосос",
     "type": "noun"
+  },
+  {
+    "word": "justificar",
+    "translation": "виправдовувати",
+    "type": "verb"
+  },
+  {
+    "word": "apaciguarse",
+    "translation": "заспокоюватися",
+    "type": "verb"
+  },
+  {
+    "word": "la coherencia",
+    "translation": "послідовність",
+    "type": "noun"
+  },
+  {
+    "word": "la paradoja",
+    "translation": "парадокс",
+    "type": "noun"
+  },
+  {
+    "word": "el escudo",
+    "translation": "щит",
+    "type": "noun"
+  },
+  {
+    "word": "reclutar",
+    "translation": "вербувати",
+    "type": "verb"
+  },
+  {
+    "word": "letal",
+    "translation": "смертельний",
+    "type": "adjective"
+  },
+  {
+    "word": "la eventialidad",
+    "translation": "можливість",
+    "type": "noun"
+  },
+  {
+    "word": "el suplemento",
+    "translation": "доповнення",
+    "type": "noun"
+  },
+  {
+    "word": "el conjelador",
+    "translation": "морозильник",
+    "type": "noun"
+  },
+  {
+    "word": "el orden",
+    "translation": "порядок",
+    "type": "noun"
+  },
+  {
+    "word": "la orden",
+    "translation": "наказ",
+    "type": "noun"
+  },
+  {
+    "word": "junto a",
+    "translation": "поряд з",
+    "type": "preposition"
+  },
+  {
+    "word": "darse una pereza",
+    "translation": "лінуватися",
+    "type": "phrase"
   }
 ];
