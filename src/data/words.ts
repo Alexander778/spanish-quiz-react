@@ -11590,5 +11590,30 @@ export const words: Word[] = [
     "word": "darse una pereza",
     "translation": "лінуватися",
     "type": "phrase"
+  },
+  {
+    "word": "soñar con",
+    "translation": "мріяти про",
+    "type": "verb"
+  },
+  {
+    "word": "percibir",
+    "translation": "сприймати",
+    "type": "verb"
+  },
+  {
+    "word": "presentir",
+    "translation": "передчувати",
+    "type": "verb"
+  },
+  {
+    "word": "el hielo",
+    "translation": "лід",
+    "type": "noun"
+  },
+  {
+    "word": "el gamberro",
+    "translation": "хуліган",
+    "type": "noun"
   }
 ];
