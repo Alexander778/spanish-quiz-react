@@ -11615,5 +11615,40 @@ export const words: Word[] = [
     "word": "el gamberro",
     "translation": "хуліган",
     "type": "noun"
+  },
+  {
+    "word": "el ingenuidad",
+    "translation": "наївність",
+    "type": "noun"
+  },
+  {
+    "word": "la persevarancia",
+    "translation": "наполегливість",
+    "type": "noun"
+  },
+  {
+    "word": "el agujero",
+    "translation": "дірка",
+    "type": "noun"
+  },
+  {
+    "word": "el sonido",
+    "translation": "звук",
+    "type": "noun"
+  },
+  {
+    "word": "la reparacion",
+    "translation": "ремонт",
+    "type": "noun"
+  },
+  {
+    "word": "la fianza",
+    "translation": "застава",
+    "type": "noun"
+  },
+  {
+    "word": "el sótano",
+    "translation": "підвал",
+    "type": "noun"
   }
 ];
