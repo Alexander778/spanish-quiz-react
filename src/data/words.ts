@@ -11650,5 +11650,30 @@ export const words: Word[] = [
     "word": "el sótano",
     "translation": "підвал",
     "type": "noun"
+  },
+  {
+    "word": "terrible",
+    "translation": "жахливий",
+    "type": "adjective"
+  },
+  {
+    "word": "apartar",
+    "translation": "віддаляти",
+    "type": "verb"
+  },
+  {
+    "word": "arrugado",
+    "translation": "зморщений",
+    "type": "adjective"
+  },
+  {
+    "word": "inadmisible",
+    "translation": "неприйнятний",
+    "type": "adjective"
+  },
+  {
+    "word": "semejantes",
+    "translation": "подібні",
+    "type": "adjective"
   }
 ];
