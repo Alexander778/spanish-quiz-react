@@ -11675,5 +11675,60 @@ export const words: Word[] = [
     "word": "semejantes",
     "translation": "подібні",
     "type": "adjective"
+  },
+  {
+    "word": "el  jinete",
+    "translation": "наїзник",
+    "type": "noun"
+  },
+  {
+    "word": "gobernar",
+    "translation": "правити",
+    "type": "verb"
+  },
+  {
+    "word": "la cicatriz",
+    "translation": "шрам",
+    "type": "noun"
+  },
+  {
+    "word": "la tienda de campaña",
+    "translation": "палатка",
+    "type": "noun"
+  },
+  {
+    "word": "secuestar",
+    "translation": "викладати",
+    "type": "verb"
+  },
+  {
+    "word": "agarrar",
+    "translation": "хапати",
+    "type": "verb"
+  },
+  {
+    "word": "honesto",
+    "translation": "чесний",
+    "type": "adjective"
+  },
+  {
+    "word": "la jaula",
+    "translation": "клітка",
+    "type": "noun"
+  },
+  {
+    "word": "ingenioso",
+    "translation": "винахідливий",
+    "type": "adjective"
+  },
+  {
+    "word": "escupir",
+    "translation": "плювати",
+    "type": "verb"
+  },
+  {
+    "word": "alargar",
+    "translation": "подовжувати",
+    "type": "verb"
   }
 ];
