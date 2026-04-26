@@ -11730,5 +11730,55 @@ export const words: Word[] = [
     "word": "alargar",
     "translation": "подовжувати",
     "type": "verb"
+  },
+  {
+    "word": "el acoso",
+    "translation": "булінг",
+    "type": "noun"
+  },
+  {
+    "word": "las herencias",
+    "translation": "спадок",
+    "type": "noun"
+  },
+  {
+    "word": "sino",
+    "translation": "але ні",
+    "type": "noun"
+  },
+  {
+    "word": "el delito",
+    "translation": "злочин",
+    "type": "noun"
+  },
+  {
+    "word": "estafado",
+    "translation": "обманутий",
+    "type": "adjective"
+  },
+  {
+    "word": "la vercidad",
+    "translation": "правдивість",
+    "type": "noun"
+  },
+  {
+    "word": "la ley",
+    "translation": "закон",
+    "type": "noun"
+  },
+  {
+    "word": "resulta que",
+    "translation": "виявляється",
+    "type": "phrase"
+  },
+  {
+    "word": "escudarse",
+    "translation": "виправдовуватися",
+    "type": "verb"
+  },
+  {
+    "word": "desentender",
+    "translation": "відмовлятися",
+    "type": "verb"
   }
 ];
