@@ -11780,5 +11780,20 @@ export const words: Word[] = [
     "word": "desentender",
     "translation": "відмовлятися",
     "type": "verb"
+  },
+  {
+    "word": "despistado",
+    "translation": "розгублений",
+    "type": "adjective"
+  },
+  {
+    "word": "inmaduro",
+    "translation": "незрілий",
+    "type": "adjective"
+  },
+  {
+    "word": "desordenado",
+    "translation": "неорганізований",
+    "type": "adjective"
   }
 ];
