@@ -11795,5 +11795,25 @@ export const words: Word[] = [
     "word": "desordenado",
     "translation": "неорганізований",
     "type": "adjective"
+  },
+  {
+    "word": "dar un razon",
+    "translation": "погоджуватися",
+    "type": "verb"
+  },
+  {
+    "word": "echar un mirando",
+    "translation": "кинути погляд",
+    "type": "phrase"
+  },
+  {
+    "word": "lamer",
+    "translation": "лизати",
+    "type": "verb"
+  },
+  {
+    "word": "insultar",
+    "translation": "образити",
+    "type": "verb"
   }
 ];
