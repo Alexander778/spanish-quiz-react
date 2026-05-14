@@ -11815,5 +11815,50 @@ export const words: Word[] = [
     "word": "insultar",
     "translation": "образити",
     "type": "verb"
+  },
+  {
+    "word": "asfixiante",
+    "translation": "душний",
+    "type": "adjective"
+  },
+  {
+    "word": "descargar",
+    "translation": "завантажувати",
+    "type": "verb"
+  },
+  {
+    "word": "enloquecer",
+    "translation": "збожеволіти",
+    "type": "verb"
+  },
+  {
+    "word": "el interrogatorio",
+    "translation": "допит",
+    "type": "noun"
+  },
+  {
+    "word": "culpar",
+    "translation": "звинувачувати",
+    "type": "verb"
+  },
+  {
+    "word": "el anzuelo",
+    "translation": "гачок",
+    "type": "noun"
+  },
+  {
+    "word": "commocionado",
+    "translation": "приголомшений",
+    "type": "adjective"
+  },
+  {
+    "word": "tergiversar",
+    "translation": "спотворювати",
+    "type": "verb"
+  },
+  {
+    "word": "la guantera",
+    "translation": "бардачок",
+    "type": "noun"
   }
 ];
