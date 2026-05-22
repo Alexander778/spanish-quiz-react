@@ -11860,5 +11860,45 @@ export const words: Word[] = [
     "word": "la guantera",
     "translation": "бардачок",
     "type": "noun"
+  },
+  {
+    "word": "desplasarse",
+    "translation": "переміщатися",
+    "type": "verb"
+  },
+  {
+    "word": "saturar",
+    "translation": "насищувати",
+    "type": "verb"
+  },
+  {
+    "word": "asequible",
+    "translation": "доступний",
+    "type": "adjective"
+  },
+  {
+    "word": "el peaton",
+    "translation": "пішохід",
+    "type": "noun"
+  },
+  {
+    "word": "echar una gasolina",
+    "translation": "заправитися",
+    "type": "phrase"
+  },
+  {
+    "word": "descender",
+    "translation": "спускатися",
+    "type": "verb"
+  },
+  {
+    "word": "despilfarro",
+    "translation": "розтринькування",
+    "type": "noun"
+  },
+  {
+    "word": "poner el marcha",
+    "translation": "запускати",
+    "type": "phrase"
   }
 ];
