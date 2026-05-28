@@ -11900,5 +11900,45 @@ export const words: Word[] = [
     "word": "poner el marcha",
     "translation": "запускати",
     "type": "phrase"
+  },
+  {
+    "word": "apresurarse",
+    "translation": "поспішати",
+    "type": "verb"
+  },
+  {
+    "word": "abastecer",
+    "translation": "постачати",
+    "type": "verb"
+  },
+  {
+    "word": "la tobera",
+    "translation": "труба",
+    "type": "noun"
+  },
+  {
+    "word": "gemir",
+    "translation": "стонати",
+    "type": "verb"
+  },
+  {
+    "word": "la herramienta",
+    "translation": "інструмент",
+    "type": "noun"
+  },
+  {
+    "word": "el pomo",
+    "translation": "ручка",
+    "type": "noun"
+  },
+  {
+    "word": "la imprudencia",
+    "translation": "необережність",
+    "type": "noun"
+  },
+  {
+    "word": "discreparce",
+    "translation": "розходитися в думках",
+    "type": "verb"
   }
 ];
