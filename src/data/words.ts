@@ -11940,5 +11940,85 @@ export const words: Word[] = [
     "word": "discreparce",
     "translation": "розходитися в думках",
     "type": "verb"
+  },
+  {
+    "word": "el rascacielos",
+    "translation": "хмарочос",
+    "type": "noun"
+  },
+  {
+    "word": "el incendio",
+    "translation": "пожежа",
+    "type": "noun"
+  },
+  {
+    "word": "chocar",
+    "translation": "врізатися",
+    "type": "verb"
+  },
+  {
+    "word": "la llama",
+    "translation": "полум'я",
+    "type": "noun"
+  },
+  {
+    "word": "el siniestro",
+    "translation": "катастрофа",
+    "type": "noun"
+  },
+  {
+    "word": "la subida",
+    "translation": "підйом",
+    "type": "noun"
+  },
+  {
+    "word": "el crecimiento",
+    "translation": "зростання",
+    "type": "noun"
+  },
+  {
+    "word": "la actiacíon",
+    "translation": "дія",
+    "type": "noun"
+  },
+  {
+    "word": "viable",
+    "translation": "реальний",
+    "type": "adjective"
+  },
+  {
+    "word": "escaso",
+    "translation": "обмежений",
+    "type": "adjective"
+  },
+  {
+    "word": "la escasez",
+    "translation": "настача",
+    "type": "noun"
+  },
+  {
+    "word": "capaz",
+    "translation": "здатний",
+    "type": "adjective"
+  },
+  {
+    "word": "la regularidad",
+    "translation": "регулярність",
+    "type": "noun"
+  },
+  {
+    "word": "la hondura",
+    "translation": "глибина",
+    "type": "noun"
+  },
+  {
+    "word": "bello",
+    "translation": "красивий",
+    "type": "adjective"
+  },
+  {
+    "word": "la belleza",
+    "translation": "краса",
+    "type": "noun"
   }
 ];
