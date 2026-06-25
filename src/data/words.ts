@@ -12020,5 +12020,40 @@ export const words: Word[] = [
     "word": "la belleza",
     "translation": "краса",
     "type": "noun"
+  },
+  {
+    "word": "la ámbito",
+    "translation": "сфера",
+    "type": "noun"
+  },
+  {
+    "word": "padecer",
+    "translation": "страждати",
+    "type": "verb"
+  },
+  {
+    "word": "la intolerancia",
+    "translation": "нетерпимість",
+    "type": "noun"
+  },
+  {
+    "word": "girar",
+    "translation": "обертати",
+    "type": "verb"
+  },
+  {
+    "word": "la cartera",
+    "translation": "гаманець",
+    "type": "noun"
+  },
+  {
+    "word": "presicar",
+    "translation": "вимагати",
+    "type": "verb"
+  },
+  {
+    "word": "dimitir",
+    "translation": "звільнятися",
+    "type": "verb"
   }
 ];
