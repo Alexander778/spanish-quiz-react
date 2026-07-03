@@ -12055,5 +12055,20 @@ export const words: Word[] = [
     "word": "dimitir",
     "translation": "звільнятися",
     "type": "verb"
+  },
+  {
+    "word": "poner en marcha",
+    "translation": "запускати",
+    "type": "phrase"
+  },
+  {
+    "word": "hacer alguien illusion",
+    "translation": "робити комусь приємно",
+    "type": "phrase"
+  },
+  {
+    "word": "fiarse",
+    "translation": "довіряти",
+    "type": "verb"
   }
 ];
