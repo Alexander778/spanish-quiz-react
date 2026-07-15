@@ -12070,5 +12070,75 @@ export const words: Word[] = [
     "word": "fiarse",
     "translation": "довіряти",
     "type": "verb"
+  },
+  {
+    "word": "la concialcion",
+    "translation": "примирення",
+    "type": "noun"
+  },
+  {
+    "word": "conciliar",
+    "translation": "примиряти",
+    "type": "verb"
+  },
+  {
+    "word": "la excedencia",
+    "translation": "надлишок",
+    "type": "noun"
+  },
+  {
+    "word": "en promedio",
+    "translation": "в середньому",
+    "type": "phrase"
+  },
+  {
+    "word": "el requerir",
+    "translation": "вимога",
+    "type": "noun"
+  },
+  {
+    "word": "la guarderia",
+    "translation": "дитячий садок",
+    "type": "noun"
+  },
+  {
+    "word": "sobrar",
+    "translation": "залишатися",
+    "type": "verb"
+  },
+  {
+    "word": "incorporarse",
+    "translation": "приєднуватися",
+    "type": "verb"
+  },
+  {
+    "word": "tener el descaro de",
+    "translation": "мати нахабство",
+    "type": "verb"
+  },
+  {
+    "word": "el rendimiento",
+    "translation": "продуктивність",
+    "type": "noun"
+  },
+  {
+    "word": "recopilar",
+    "translation": "збирати",
+    "type": "verb"
+  },
+  {
+    "word": "recalcar",
+    "translation": "підкреслювати",
+    "type": "verb"
+  },
+  {
+    "word": "coincidir",
+    "translation": "збігатися",
+    "type": "verb"
+  },
+  {
+    "word": "revelar",
+    "translation": "розкривати",
+    "type": "verb"
   }
 ];
