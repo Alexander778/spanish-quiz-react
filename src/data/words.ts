@@ -12140,5 +12140,25 @@ export const words: Word[] = [
     "word": "revelar",
     "translation": "розкривати",
     "type": "verb"
+  },
+  {
+    "word": "apollar",
+    "translation": "підтримувати",
+    "type": "verb"
+  },
+  {
+    "word": "el ajuste",
+    "translation": "скорочення",
+    "type": "noun"
+  },
+  {
+    "word": "tener don de gentes",
+    "translation": "мати дар спілкування",
+    "type": "phrase"
+  },
+  {
+    "word": "liderar",
+    "translation": "керувати",
+    "type": "verb"
   }
 ];
