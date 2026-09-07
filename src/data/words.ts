@@ -12160,5 +12160,90 @@ export const words: Word[] = [
     "word": "liderar",
     "translation": "керувати",
     "type": "verb"
+  },
+  {
+    "word": "en teoria",
+    "translation": "в теорії",
+    "type": "noun"
+  },
+  {
+    "word": "la pata",
+    "translation": "лапа",
+    "type": "noun"
+  },
+  {
+    "word": "meter la pata",
+    "translation": "зробити помилку",
+    "type": "phrase"
+  },
+  {
+    "word": "la cadera",
+    "translation": "стегно",
+    "type": "noun"
+  },
+  {
+    "word": "el muslo",
+    "translation": "стегно",
+    "type": "noun"
+  },
+  {
+    "word": "la palma",
+    "translation": "долоня",
+    "type": "noun"
+  },
+  {
+    "word": "arquear",
+    "translation": "вигинати",
+    "type": "verb"
+  },
+  {
+    "word": "morderse",
+    "translation": "кусати",
+    "type": "verb"
+  },
+  {
+    "word": "entrelazar",
+    "translation": "переплітати",
+    "type": "verb"
+  },
+  {
+    "word": "fruncir",
+    "translation": "морщити",
+    "type": "verb"
+  },
+  {
+    "word": "desviar",
+    "translation": "відхиляти",
+    "type": "verb"
+  },
+  {
+    "word": "erguido",
+    "translation": "випрямлений",
+    "type": "adjective"
+  },
+  {
+    "word": "aguantar",
+    "translation": "затримати",
+    "type": "verb"
+  },
+  {
+    "word": "tremblar",
+    "translation": "тремтіти",
+    "type": "verb"
+  },
+  {
+    "word": "bostezar",
+    "translation": "зівати",
+    "type": "verb"
+  },
+  {
+    "word": "sostener",
+    "translation": "утримувати",
+    "type": "verb"
+  },
+  {
+    "word": "aplastar",
+    "translation": "розчавити",
+    "type": "undefined"
   }
 ];
