@@ -12244,6 +12244,6 @@ export const words: Word[] = [
   {
     "word": "aplastar",
     "translation": "розчавити",
-    "type": "undefined"
+    "type": "verb"
   }
 ];
