@@ -12245,5 +12245,50 @@ export const words: Word[] = [
     "word": "aplastar",
     "translation": "розчавити",
     "type": "verb"
+  },
+  {
+    "word": "faltar",
+    "translation": "бракувати",
+    "type": "verb"
+  },
+  {
+    "word": "el rehen",
+    "translation": "заручник",
+    "type": "noun"
+  },
+  {
+    "word": "el complico",
+    "translation": "спільник",
+    "type": "noun"
+  },
+  {
+    "word": "el asesinato",
+    "translation": "вбивство",
+    "type": "noun"
+  },
+  {
+    "word": "la fuga",
+    "translation": "втеча",
+    "type": "noun"
+  },
+  {
+    "word": "la delincuencia",
+    "translation": "злочинність",
+    "type": "noun"
+  },
+  {
+    "word": "el delincuente",
+    "translation": "злочинець",
+    "type": "noun"
+  },
+  {
+    "word": "el persecucion",
+    "translation": "переслідування",
+    "type": "noun"
+  },
+  {
+    "word": "la denuncia",
+    "translation": "повідомлення про злочин",
+    "type": "noun"
   }
 ];
