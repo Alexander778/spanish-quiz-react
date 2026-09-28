@@ -12290,5 +12290,30 @@ export const words: Word[] = [
     "word": "la denuncia",
     "translation": "повідомлення про злочин",
     "type": "noun"
+  },
+  {
+    "word": "liado",
+    "translation": "зайнятий",
+    "type": "adjective"
+  },
+  {
+    "word": "la herencia",
+    "translation": "спадщина",
+    "type": "noun"
+  },
+  {
+    "word": "chantajear",
+    "translation": "шантажувати",
+    "type": "verb"
+  },
+  {
+    "word": "salvaguardar",
+    "translation": "захищати",
+    "type": "verb"
+  },
+  {
+    "word": "arriesgado",
+    "translation": "ризикований",
+    "type": "adjective"
   }
 ];
