@@ -12315,5 +12315,20 @@ export const words: Word[] = [
     "word": "arriesgado",
     "translation": "ризикований",
     "type": "adjective"
+  },
+  {
+    "word": "a partir de",
+    "translation": "починаючи з",
+    "type": "phrase"
+  },
+  {
+    "word": "escanear",
+    "translation": "сканувати",
+    "type": "verb"
+  },
+  {
+    "word": "desde hace",
+    "translation": "протягом",
+    "type": "phrase"
   }
 ];
