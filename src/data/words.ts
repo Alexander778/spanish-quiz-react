@@ -12330,5 +12330,175 @@ export const words: Word[] = [
     "word": "desde hace",
     "translation": "протягом",
     "type": "phrase"
+  },
+  {
+    "word": "testigar",
+    "translation": "свідчити",
+    "type": "verb"
+  },
+  {
+    "word": "la condena",
+    "translation": "вирок",
+    "type": "noun"
+  },
+  {
+    "word": "el botin",
+    "translation": "здобич",
+    "type": "noun"
+  },
+  {
+    "word": "el botiquien",
+    "translation": "аптечка",
+    "type": "noun"
+  },
+  {
+    "word": "indultar",
+    "translation": "помилувати",
+    "type": "verb"
+  },
+  {
+    "word": "el enemigo",
+    "translation": "ворог",
+    "type": "noun"
+  },
+  {
+    "word": "el raton",
+    "translation": "миша",
+    "type": "noun"
+  },
+  {
+    "word": "plasmar",
+    "translation": "втілювати",
+    "type": "verb"
+  },
+  {
+    "word": "la pobresa",
+    "translation": "бідність",
+    "type": "noun"
+  },
+  {
+    "word": "el puño",
+    "translation": "кулак",
+    "type": "noun"
+  },
+  {
+    "word": "violar",
+    "translation": "порушувати",
+    "type": "verb"
+  },
+  {
+    "word": "el rebelite",
+    "translation": "повстанець",
+    "type": "noun"
+  },
+  {
+    "word": "hacer frente",
+    "translation": "протистояти",
+    "type": "verb"
+  },
+  {
+    "word": "el voto",
+    "translation": "голос",
+    "type": "noun"
+  },
+  {
+    "word": "la papeleta",
+    "translation": "бюлетень",
+    "type": "noun"
+  },
+  {
+    "word": "la legislatura",
+    "translation": "законодавчий орган",
+    "type": "noun"
+  },
+  {
+    "word": "el escrutinio",
+    "translation": "підрахунок голосів",
+    "type": "noun"
+  },
+  {
+    "word": "la indolencia",
+    "translation": "байдужість",
+    "type": "noun"
+  },
+  {
+    "word": "el brote",
+    "translation": "спалах",
+    "type": "noun"
+  },
+  {
+    "word": "el incremento",
+    "translation": "збільшення",
+    "type": "noun"
+  },
+  {
+    "word": "la convivencia",
+    "translation": "співіснування",
+    "type": "noun"
+  },
+  {
+    "word": "el deterioto",
+    "translation": "погіршення",
+    "type": "noun"
+  },
+  {
+    "word": "el acuario",
+    "translation": "акваріум",
+    "type": "noun"
+  },
+  {
+    "word": "la superficie",
+    "translation": "поверхня",
+    "type": "noun"
+  },
+  {
+    "word": "girarse",
+    "translation": "повертатися",
+    "type": "verb"
+  },
+  {
+    "word": "opuesta",
+    "translation": "протилежна",
+    "type": "adjective"
+  },
+  {
+    "word": "la cinta transportadora",
+    "translation": "конвеєрна стрічка",
+    "type": "noun"
+  },
+  {
+    "word": "vertir",
+    "translation": "виливати",
+    "type": "verb"
+  },
+  {
+    "word": "gimirar",
+    "translation": "стогнати",
+    "type": "verb"
+  },
+  {
+    "word": "el zumbido",
+    "translation": "гудіння",
+    "type": "noun"
+  },
+  {
+    "word": "el umbral",
+    "translation": "поріг",
+    "type": "noun"
+  },
+  {
+    "word": "la ira",
+    "translation": "гнів",
+    "type": "noun"
+  },
+  {
+    "word": "resbalar",
+    "translation": "поскользнутися",
+    "type": "verb"
+  },
+  {
+    "word": "deslizarse",
+    "translation": "ковзати",
+    "type": "verb"
   }
 ];
