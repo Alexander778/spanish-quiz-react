@@ -12500,5 +12500,50 @@ export const words: Word[] = [
     "word": "deslizarse",
     "translation": "ковзати",
     "type": "verb"
+  },
+  {
+    "word": "la tension",
+    "translation": "напруга",
+    "type": "noun"
+  },
+  {
+    "word": "tomar medidas",
+    "translation": "вживати заходів",
+    "type": "verb"
+  },
+  {
+    "word": "dar la lata",
+    "translation": "надокучати",
+    "type": "verb"
+  },
+  {
+    "word": "desfavorecer",
+    "translation": "не сприяти",
+    "type": "verb"
+  },
+  {
+    "word": "molar",
+    "translation": "подобатися",
+    "type": "verb"
+  },
+  {
+    "word": "ajeno",
+    "translation": "чужий",
+    "type": "adjective"
+  },
+  {
+    "word": "elever",
+    "translation": "піднімати",
+    "type": "verb"
+  },
+  {
+    "word": "aleatorio",
+    "translation": "випадковий",
+    "type": "adjective"
+  },
+  {
+    "word": "al azar",
+    "translation": "випадково",
+    "type": "phrase"
   }
 ];
