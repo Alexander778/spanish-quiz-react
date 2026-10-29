@@ -12545,5 +12545,65 @@ export const words: Word[] = [
     "word": "al azar",
     "translation": "випадково",
     "type": "phrase"
+  },
+  {
+    "word": "pillar",
+    "translation": "зловити",
+    "type": "verb"
+  },
+  {
+    "word": "a lo largo",
+    "translation": "протягом",
+    "type": "phrase"
+  },
+  {
+    "word": "inhalar",
+    "translation": "вдихати",
+    "type": "verb"
+  },
+  {
+    "word": "la fantasma",
+    "translation": "привид",
+    "type": "noun"
+  },
+  {
+    "word": "dubitativo",
+    "translation": "сумнівний",
+    "type": "adjective"
+  },
+  {
+    "word": "corpulento",
+    "translation": "величезний",
+    "type": "adjective"
+  },
+  {
+    "word": "el vicio",
+    "translation": "звичка",
+    "type": "noun"
+  },
+  {
+    "word": "retorcer",
+    "translation": "крутити",
+    "type": "verb"
+  },
+  {
+    "word": "desgastada",
+    "translation": "зношений",
+    "type": "adjective"
+  },
+  {
+    "word": "el taburete",
+    "translation": "табурет",
+    "type": "noun"
+  },
+  {
+    "word": "la sed",
+    "translation": "спрага",
+    "type": "noun"
+  },
+  {
+    "word": "curtida",
+    "translation": "загартований",
+    "type": "adjective"
   }
 ];
