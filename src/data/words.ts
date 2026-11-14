@@ -12605,5 +12605,85 @@ export const words: Word[] = [
     "word": "curtida",
     "translation": "загартований",
     "type": "adjective"
+  },
+  {
+    "word": "el sobrenombre",
+    "translation": "прізвисько",
+    "type": "noun"
+  },
+  {
+    "word": "el guiso",
+    "translation": "тушкована страва",
+    "type": "noun"
+  },
+  {
+    "word": "cansarse",
+    "translation": "втомлюватися",
+    "type": "verb"
+  },
+  {
+    "word": "potente",
+    "translation": "потужний",
+    "type": "adjective"
+  },
+  {
+    "word": "ser astuto",
+    "translation": "бути хитрим",
+    "type": "verb"
+  },
+  {
+    "word": "retrarse",
+    "translation": "затримуватися",
+    "type": "verb"
+  },
+  {
+    "word": "a traves de",
+    "translation": "через",
+    "type": "phrase"
+  },
+  {
+    "word": "el mitin",
+    "translation": "мітинг",
+    "type": "noun"
+  },
+  {
+    "word": "abaratar",
+    "translation": "знецінювати",
+    "type": "verb"
+  },
+  {
+    "word": "dotar",
+    "translation": "наділяти",
+    "type": "verb"
+  },
+  {
+    "word": "invadir",
+    "translation": "вторгатися",
+    "type": "verb"
+  },
+  {
+    "word": "la peticion",
+    "translation": "прохання",
+    "type": "noun"
+  },
+  {
+    "word": "tropezar con la misma piedra",
+    "translation": "наступати на ті самі граблі",
+    "type": "phrase"
+  },
+  {
+    "word": "estar altanto de algo",
+    "translation": "бути обізнаним про щось",
+    "type": "verb"
+  },
+  {
+    "word": "estar informado",
+    "translation": "бути поінформованим",
+    "type": "verb"
+  },
+  {
+    "word": "apañar",
+    "translation": "виправляти",
+    "type": "verb"
   }
 ];
